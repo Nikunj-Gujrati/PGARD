@@ -24,8 +24,8 @@
                 <ul>
                     <li><a href="index.html">Home</a></li>
                     <li><a href="#search-part">Search</a></li>
-                    <li><a href="#">FeedBack</a></li>
-                    <li><a href="#">About</a></li>
+                    <li><a href="#" id="linkFeedbackModal">Feedback</a></li>
+                    <li><a href="#" id="linkAboutModal">About</a></li>
                 </ul>
             </div>
         </nav>
@@ -46,20 +46,20 @@
                 </div>
                 <div class="check-boxs">
                     <div class="check-box">
-                        <input type="checkbox" name="check" id="hospital">
-                        <label for="hospital">Hospital</label>
+                        <input type="checkbox" name="check" id="checkHospital">
+                        <label for="checkHospital">Hospital</label>
                     </div>
                     <div class="check-box">
-                        <input type="checkbox" name="check" id="school">
-                        <label for="school">School</label>
+                        <input type="checkbox" name="check" id="checkSchool">
+                        <label for="checkSchool">School</label>
                     </div>
                     <div class="check-box">
-                        <input type="checkbox" name="check" id="population">
-                        <label for="population">Population</label>
+                        <input type="checkbox" name="check" id="checkPopulation">
+                        <label for="checkPopulation">Population</label>
                     </div>
                     <div class="check-box">
-                        <input type="checkbox" name="check" id="economical-growth">
-                        <label for="economical-growth">Economical Growth</label>
+                        <input type="checkbox" name="check" id="checkEconomicGrowth">
+                        <label for="checkEconomicGrowth">Economic Growth</label>
                     </div>
                 </div>
                 <div class="year-dropdown">
@@ -89,7 +89,6 @@
                         <option value="2021">2021</option>
                         <option value="2022">2022</option>
                         <option value="2023">2023</option>
-                        <option value="2024">2024</option>
                     </select>
                 </div>
             </div>
@@ -98,7 +97,91 @@
             </div>
         </div>
     </div>
-    <script src="script.js"></script>
+
+    <!-- Feedback Modal -->
+    <div id="feedbackModal" class="modal" style="display: none;">
+        <div class="modal-content feedback-modal-content" style="background-color: #fefefe; margin: 15% auto; padding: 20px; border: 1px solid #888; width: 80%;">
+            <span class="closeFeedbackModal" style="color: #aaa; float: right; font-size: 28px; font-weight: bold;">&times;</span>
+            <h2 style="color: #007BFF;">We Value Your Feedback!</h2>
+            <textarea id="feedbackTextarea" placeholder="Your feedback..." rows="4" style="width: 100%;"></textarea>
+            <button id="sendFeedbackButton" style="background-color: #28a745; color: white;">Send Feedback</button>
+        </div>
+    </div>
+
+    <!-- About Modal -->
+    <div id="aboutModal" class="modal" style="display: none;">
+        <div class="modal-content about-modal-content" style="background-color: #ffffff; margin: 15% auto; padding: 20px; border: 1px solid #888; width: 80%;">
+            <span class="closeAboutModal" style="color: #aaa; float: right; font-size: 28px; font-weight: bold;">&times;</span>
+            <h2 style="color: #17a2b8;">About PGARD</h2>
+            <p>PGARD is a data analytics platform designed to provide valuable insights from India's Census data. Our goal is to empower users with the ability to explore and understand various demographic trends, economic factors, and social issues affecting the country.</p>
+            
+            <h3 style="color: #17a2b8;">Features:</h3>
+            <ul>
+                <li>Comprehensive data visualizations for easy understanding.</li>
+                <li>Search functionality to quickly find specific data points.</li>
+                <li>Filters to narrow down results by year, type of data (hospital, school, population), and more.</li>
+                <li>Feedback system to gather user insights and improve the platform.</li>
+            </ul>
+
+            <h3 style="color: #17a2b8;">Our Team:</h3>
+            <p>We are a group of passionate developers and data enthusiasts committed to making data accessible to everyone. Our team works tirelessly to ensure the platform is user-friendly and informative.</p>
+
+            <h3 style="color: #17a2b8;">Contact Us:</h3>
+            <p>If you have any questions or suggestions, feel free to reach out to us at <a href="mailto:nikunjgujrati23@gmail.com">nikunjgujrati23@gmail.com</a>.</p>
+        </div>
+    </div>
+
+    <script>
+        const feedbackModal = document.getElementById("feedbackModal");
+        const aboutModal = document.getElementById("aboutModal");
+        const linkFeedbackModal = document.getElementById("linkFeedbackModal");
+        const linkAboutModal = document.getElementById("linkAboutModal");
+        const closeFeedbackModal = document.querySelector(".closeFeedbackModal");
+        const closeAboutModal = document.querySelector(".closeAboutModal");
+        const sendFeedbackButton = document.getElementById("sendFeedbackButton");
+        const feedbackTextarea = document.getElementById("feedbackTextarea");
+
+        linkFeedbackModal.onclick = function (event) {
+            event.preventDefault(); 
+            feedbackModal.style.display = "block";
+        }
+
+        linkAboutModal.onclick = function (event) {
+            event.preventDefault();
+            aboutModal.style.display = "block";
+        }
+
+        closeFeedbackModal.onclick = function () {
+            feedbackModal.style.display = "none";
+        }
+
+        closeAboutModal.onclick = function () {
+            aboutModal.style.display = "none";
+        }
+
+        sendFeedbackButton.onclick = function () {
+            const feedback = feedbackTextarea.value;
+            if (feedback) {
+                const email = "nikunjgujrati23@gmail.com";
+                const subject = "Feedback from PGARD";
+                const body = encodeURIComponent(feedback);
+                window.open(`mailto:${email}?subject=${subject}&body=${body}`);
+                feedbackTextarea.value = ""; 
+                feedbackModal.style.display = "none"; 
+            } else {
+                alert("Please enter your feedback before sending.");
+            }
+        }
+
+        window.onclick = function (event) {
+            if (event.target == feedbackModal) {
+                feedbackModal.style.display = "none";
+            }
+            if (event.target == aboutModal) {
+                aboutModal.style.display = "none";
+            }
+        }
+    </script>
 </body>
 
 </html>

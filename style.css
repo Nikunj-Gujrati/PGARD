@@ -116,8 +116,9 @@ nav {
 }
 
 .search-content {
-    border: 2px solid pink;
+    /* border: 2px solid pink; */
     height: calc(100em - 22em);
+    overflow-y: auto;
     width: 100%;
 }
 
@@ -309,3 +310,116 @@ nav {
     color: black;
     text-decoration: none;
 }
+
+
+
+
+
+
+
+  /* Search content container */
+  .search-content {
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* State container */
+  .state-container {
+    margin-bottom: 20px;
+    border-bottom: 1px solid #e0e0e0;
+    padding-bottom: 15px;
+    transition: all 0.3s ease;
+  }
+  
+  .state-container:hover {
+    background-color: #f9f9f9;
+    transform: translateY(-5px);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+  }
+  
+  .state-container h3 {
+    font-size: 1.8em;
+    color: #333;
+    margin: 10px 0;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+  }
+  
+  /* Year Data Div */
+  .year-data {
+    padding: 15px;
+    margin: 10px 0;
+    background-color: #fafafa;
+    border-radius: 6px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .year-data p {
+    margin: 8px 0;
+    font-size: 1.1em;
+    line-height: 1.6;
+  }
+  
+  .year-data strong {
+    color: #333;
+    font-weight: bold;
+  }
+  
+  .year-data p:last-child {
+    margin-bottom: 0;
+  }
+  
+  /* Filters */
+  .filter-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    margin: 20px 0;
+  }
+  
+  .filter-container label {
+    font-size: 1.1em;
+    color: #555;
+    cursor: pointer;
+    transition: color 0.3s ease;
+  }
+  
+  .filter-container input[type="checkbox"] {
+    margin-right: 10px;
+  }
+  
+  .filter-container label:hover {
+    color: #007BFF;
+  }
+  
+  /* No results found message */
+  .search-content p {
+    font-size: 1.2em;
+    color: #ff6347;
+    text-align: center;
+    font-weight: bold;
+  }
+  
+  /* Responsive */
+  @media (max-width: 768px) {
+    .search-content {
+      padding: 15px;
+    }
+  
+    .state-container h3 {
+      font-size: 1.5em;
+    }
+  
+    .year-data {
+      padding: 12px;
+    }
+  
+    .year-data p {
+      font-size: 1em;
+    }
+  }
+  

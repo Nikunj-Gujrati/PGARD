@@ -3,100 +3,185 @@
     "state": "Andhra_Pradesh",
     "data": [
       {
-        "year": 2011,
+        "year": 2000,
         "population": "75.8M",
         "hospitals": "120",
         "schools": "5400",
+        "economy": "₹120,000 crore"
+      },
+      {
+        "year": 2001,
+        "population": "76.1M",
+        "hospitals": "123",
+        "schools": "5450",
+        "economy": "₹132,000 crore"
+      },
+      {
+        "year": 2002,
+        "population": "76.4M",
+        "hospitals": "125",
+        "schools": "5500",
+        "economy": "₹145,200 crore"
+      },
+      {
+        "year": 2003,
+        "population": "76.7M",
+        "hospitals": "130",
+        "schools": "5550",
+        "economy": "₹159,720 crore"
+      },
+      {
+        "year": 2004,
+        "population": "77.0M",
+        "hospitals": "135",
+        "schools": "5600",
+        "economy": "₹175,692 crore"
+      },
+      {
+        "year": 2005,
+        "population": "77.3M",
+        "hospitals": "140",
+        "schools": "5650",
+        "economy": "₹193,261 crore"
+      },
+      {
+        "year": 2006,
+        "population": "77.6M",
+        "hospitals": "145",
+        "schools": "5700",
+        "economy": "₹212,587 crore"
+      },
+      {
+        "year": 2007,
+        "population": "78.0M",
+        "hospitals": "150",
+        "schools": "5750",
+        "economy": "₹233,845 crore"
+      },
+      {
+        "year": 2008,
+        "population": "78.3M",
+        "hospitals": "155",
+        "schools": "5800",
+        "economy": "₹257,229 crore"
+      },
+      {
+        "year": 2009,
+        "population": "78.6M",
+        "hospitals": "160",
+        "schools": "5850",
+        "economy": "₹282,952 crore"
+      },
+      {
+        "year": 2010,
+        "population": "79.0M",
+        "hospitals": "165",
+        "schools": "5900",
+        "economy": "₹311,247 crore"
+      },
+      {
+        "year": 2011,
+        "population": "79.4M",
+        "hospitals": "170",
+        "schools": "5950",
         "economy": "₹379,402 crore"
       },
       {
         "year": 2012,
-        "population": "76.1M",
-        "hospitals": "123",
-        "schools": "5450",
+        "population": "79.8M",
+        "hospitals": "175",
+        "schools": "6000",
         "economy": "₹411,404 crore"
       },
       {
         "year": 2013,
-        "population": "76.4M",
-        "hospitals": "125",
-        "schools": "5500",
+        "population": "80.1M",
+        "hospitals": "180",
+        "schools": "6050",
         "economy": "₹464,272 crore"
       },
       {
         "year": 2014,
-        "population": "76.7M",
-        "hospitals": "130",
-        "schools": "5550",
+        "population": "80.5M",
+        "hospitals": "185",
+        "schools": "6100",
         "economy": "₹524,976 crore"
       },
       {
         "year": 2015,
-        "population": "77.0M",
-        "hospitals": "135",
-        "schools": "5600",
+        "population": "80.9M",
+        "hospitals": "190",
+        "schools": "6150",
         "economy": "₹604,229 crore"
       },
       {
         "year": 2016,
-        "population": "77.3M",
-        "hospitals": "140",
-        "schools": "5650",
+        "population": "81.3M",
+        "hospitals": "195",
+        "schools": "6200",
         "economy": "₹684,416 crore"
       },
       {
         "year": 2017,
-        "population": "77.6M",
-        "hospitals": "145",
-        "schools": "5700",
+        "population": "81.7M",
+        "hospitals": "200",
+        "schools": "6250",
         "economy": "₹786,135 crore"
       },
       {
         "year": 2018,
-        "population": "78.0M",
-        "hospitals": "150",
-        "schools": "5750",
+        "population": "82.1M",
+        "hospitals": "205",
+        "schools": "6300",
         "economy": "₹873,721 crore"
       },
       {
         "year": 2019,
-        "population": "78.3M",
-        "hospitals": "155",
-        "schools": "5800",
+        "population": "82.5M",
+        "hospitals": "210",
+        "schools": "6350",
         "economy": "₹925,839 crore"
       },
       {
         "year": 2020,
-        "population": "78.6M",
-        "hospitals": "160",
-        "schools": "5850",
+        "population": "82.9M",
+        "hospitals": "215",
+        "schools": "6400",
         "economy": "₹978,581 crore"
       },
       {
         "year": 2021,
-        "population": "79.0M",
-        "hospitals": "165",
-        "schools": "5900",
+        "population": "83.3M",
+        "hospitals": "220",
+        "schools": "6450",
         "economy": "₹1,148,471 crore"
       },
       {
         "year": 2022,
-        "population": "79.4M",
-        "hospitals": "170",
-        "schools": "5950",
+        "population": "83.7M",
+        "hospitals": "225",
+        "schools": "6500",
         "economy": "₹1,303,524 crore"
       },
       {
         "year": 2023,
-        "population": "79.8M",
-        "hospitals": "175",
-        "schools": "6000",
+        "population": "84.1M",
+        "hospitals": "230",
+        "schools": "6550",
         "economy": "₹1,439,674 crore"
-      }
-    ]
+      }  
+    ],
+    "information": {
+      "famous_for": "Andhra Pradesh is known for its rich cultural heritage, historic sites, and beautiful landscapes. It is often referred to as the 'Rice Bowl of India' due to its significant rice production. The state is also famous for its temple towns like Tirupati, and for being the birthplace of famous Indian leaders like Nandamuri Taraka Rama Rao (NTR).",
+      "nickname": "The Rice Bowl of India",
+      "additional_info": "Andhra Pradesh has a diverse geography ranging from beaches along the eastern coast to the Nallamala Hills. The state has seen significant economic growth, particularly in agriculture, information technology, and industrial sectors."
+    },
+    "image": {
+      "state_image": "./images/andhra pradesh.png"
+    }
   },
   {
-    "state": "Arunachal_Pradesh",
+    "state": "Arunachal Pradesh",
     "data": [
       {
         "year": 2000,
@@ -266,7 +351,15 @@
         "schools": "1460",
         "economy": "₹3,967.12 crore"
       }
-    ]
+    ],
+    "information": {
+      "famous_for": "Arunachal Pradesh is renowned for its stunning natural beauty, with lush forests, high-altitude mountains, and pristine rivers. It is famous for its vibrant culture, including the unique traditions of the tribal communities that reside in the state. Arunachal Pradesh is often called the 'Land of the Dawn-Lit Mountains' due to its location in the easternmost part of India, where the sun first rises.",
+      "nickname": "Land of the Dawn-Lit Mountains",
+      "additional_info": "The state is a biodiversity hotspot, with diverse flora and fauna. Arunachal Pradesh also has several key Buddhist monasteries, such as Tawang Monastery, and is known for adventure tourism, including trekking, river rafting, and camping."
+    },
+    "image": {
+      "state_image": "./images/arunachal pradesh.png"
+    }
   },
   {
     "state": "Assam",
@@ -439,180 +532,196 @@
         "schools": "6300",
         "economy": "₹145,000 crore"
       }
-    ]
+    ],
+    "information": {
+      "famous_for": "Assam is famous for its tea gardens, wildlife, and the Brahmaputra River. The state is known for its rich cultural heritage, including traditional dance forms like Bihu. Assam is also recognized for its diverse flora and fauna, including one-horned rhinoceroses in Kaziranga National Park.",
+      "nickname": "The Tea Garden of India",
+      "additional_info": "Assam is a major producer of tea in India, and its tea gardens attract tourists from around the world. The state also has a rich history of cultural festivals, with Bihu being the most famous festival celebrated in Assam."
+    },
+    "image": {
+      "state_image": "./images/assam.png"
+    }
   },
   {
     "state": "Bihar",
     "data": [
-        {
-            "year": 2000,
-            "population": "82.9M",
-            "hospitals": "105",
-            "schools": "5000",
-            "economy": "₹48,000 crore"
-        },
-        {
-            "year": 2001,
-            "population": "83.7M",
-            "hospitals": "110",
-            "schools": "5100",
-            "economy": "₹51,000 crore"
-        },
-        {
-            "year": 2002,
-            "population": "84.5M",
-            "hospitals": "115",
-            "schools": "5200",
-            "economy": "₹54,000 crore"
-        },
-        {
-            "year": 2003,
-            "population": "85.3M",
-            "hospitals": "120",
-            "schools": "5300",
-            "economy": "₹57,000 crore"
-        },
-        {
-            "year": 2004,
-            "population": "86.1M",
-            "hospitals": "125",
-            "schools": "5400",
-            "economy": "₹60,000 crore"
-        },
-        {
-            "year": 2005,
-            "population": "86.9M",
-            "hospitals": "130",
-            "schools": "5500",
-            "economy": "₹63,000 crore"
-        },
-        {
-            "year": 2006,
-            "population": "87.7M",
-            "hospitals": "135",
-            "schools": "5600",
-            "economy": "₹66,000 crore"
-        },
-        {
-            "year": 2007,
-            "population": "88.5M",
-            "hospitals": "140",
-            "schools": "5700",
-            "economy": "₹69,000 crore"
-        },
-        {
-            "year": 2008,
-            "population": "89.3M",
-            "hospitals": "145",
-            "schools": "5800",
-            "economy": "₹72,000 crore"
-        },
-        {
-            "year": 2009,
-            "population": "90.1M",
-            "hospitals": "150",
-            "schools": "5900",
-            "economy": "₹75,000 crore"
-        },
-        {
-            "year": 2010,
-            "population": "90.9M",
-            "hospitals": "155",
-            "schools": "6000",
-            "economy": "₹79,000 crore"
-        },
-        {
-            "year": 2011,
-            "population": "91.7M",
-            "hospitals": "160",
-            "schools": "6100",
-            "economy": "₹83,000 crore"
-        },
-        {
-            "year": 2012,
-            "population": "92.5M",
-            "hospitals": "165",
-            "schools": "6200",
-            "economy": "₹87,000 crore"
-        },
-        {
-            "year": 2013,
-            "population": "93.3M",
-            "hospitals": "170",
-            "schools": "6300",
-            "economy": "₹91,000 crore"
-        },
-        {
-            "year": 2014,
-            "population": "94.1M",
-            "hospitals": "175",
-            "schools": "6400",
-            "economy": "₹95,000 crore"
-        },
-        {
-            "year": 2015,
-            "population": "94.9M",
-            "hospitals": "180",
-            "schools": "6500",
-            "economy": "₹99,000 crore"
-        },
-        {
-            "year": 2016,
-            "population": "95.7M",
-            "hospitals": "185",
-            "schools": "6600",
-            "economy": "₹103,000 crore"
-        },
-        {
-            "year": 2017,
-            "population": "96.5M",
-            "hospitals": "190",
-            "schools": "6700",
-            "economy": "₹108,000 crore"
-        },
-        {
-            "year": 2018,
-            "population": "97.3M",
-            "hospitals": "195",
-            "schools": "6800",
-            "economy": "₹113,000 crore"
-        },
-        {
-            "year": 2019,
-            "population": "98.1M",
-            "hospitals": "200",
-            "schools": "6900",
-            "economy": "₹118,000 crore"
-        },
-        {
-            "year": 2020,
-            "population": "98.9M",
-            "hospitals": "205",
-            "schools": "7000",
-            "economy": "₹122,000 crore"
-        },
-        {
-            "year": 2021,
-            "population": "99.7M",
-            "hospitals": "210",
-            "schools": "7100",
-            "economy": "₹127,000 crore"
-        },
-        {
-            "year": 2022,
-            "population": "100.5M",
-            "hospitals": "215",
-            "schools": "7200",
-            "economy": "₹132,000 crore"
-        },
-        {
-            "year": 2023,
-            "population": "101.3M",
-            "hospitals": "220",
-            "schools": "7300",
-            "economy": "₹137,000 crore"
-        }
-    ]
+      {
+        "year": 2000,
+        "population": "82.9M",
+        "hospitals": "105",
+        "schools": "5000",
+        "economy": "₹48,000 crore"
+      },
+      {
+        "year": 2001,
+        "population": "83.7M",
+        "hospitals": "110",
+        "schools": "5100",
+        "economy": "₹51,000 crore"
+      },
+      {
+        "year": 2002,
+        "population": "84.5M",
+        "hospitals": "115",
+        "schools": "5200",
+        "economy": "₹54,000 crore"
+      },
+      {
+        "year": 2003,
+        "population": "85.3M",
+        "hospitals": "120",
+        "schools": "5300",
+        "economy": "₹57,000 crore"
+      },
+      {
+        "year": 2004,
+        "population": "86.1M",
+        "hospitals": "125",
+        "schools": "5400",
+        "economy": "₹60,000 crore"
+      },
+      {
+        "year": 2005,
+        "population": "86.9M",
+        "hospitals": "130",
+        "schools": "5500",
+        "economy": "₹63,000 crore"
+      },
+      {
+        "year": 2006,
+        "population": "87.7M",
+        "hospitals": "135",
+        "schools": "5600",
+        "economy": "₹66,000 crore"
+      },
+      {
+        "year": 2007,
+        "population": "88.5M",
+        "hospitals": "140",
+        "schools": "5700",
+        "economy": "₹69,000 crore"
+      },
+      {
+        "year": 2008,
+        "population": "89.3M",
+        "hospitals": "145",
+        "schools": "5800",
+        "economy": "₹72,000 crore"
+      },
+      {
+        "year": 2009,
+        "population": "90.1M",
+        "hospitals": "150",
+        "schools": "5900",
+        "economy": "₹75,000 crore"
+      },
+      {
+        "year": 2010,
+        "population": "90.9M",
+        "hospitals": "155",
+        "schools": "6000",
+        "economy": "₹79,000 crore"
+      },
+      {
+        "year": 2011,
+        "population": "91.7M",
+        "hospitals": "160",
+        "schools": "6100",
+        "economy": "₹83,000 crore"
+      },
+      {
+        "year": 2012,
+        "population": "92.5M",
+        "hospitals": "165",
+        "schools": "6200",
+        "economy": "₹87,000 crore"
+      },
+      {
+        "year": 2013,
+        "population": "93.3M",
+        "hospitals": "170",
+        "schools": "6300",
+        "economy": "₹91,000 crore"
+      },
+      {
+        "year": 2014,
+        "population": "94.1M",
+        "hospitals": "175",
+        "schools": "6400",
+        "economy": "₹95,000 crore"
+      },
+      {
+        "year": 2015,
+        "population": "94.9M",
+        "hospitals": "180",
+        "schools": "6500",
+        "economy": "₹99,000 crore"
+      },
+      {
+        "year": 2016,
+        "population": "95.7M",
+        "hospitals": "185",
+        "schools": "6600",
+        "economy": "₹103,000 crore"
+      },
+      {
+        "year": 2017,
+        "population": "96.5M",
+        "hospitals": "190",
+        "schools": "6700",
+        "economy": "₹108,000 crore"
+      },
+      {
+        "year": 2018,
+        "population": "97.3M",
+        "hospitals": "195",
+        "schools": "6800",
+        "economy": "₹113,000 crore"
+      },
+      {
+        "year": 2019,
+        "population": "98.1M",
+        "hospitals": "200",
+        "schools": "6900",
+        "economy": "₹118,000 crore"
+      },
+      {
+        "year": 2020,
+        "population": "98.9M",
+        "hospitals": "205",
+        "schools": "7000",
+        "economy": "₹122,000 crore"
+      },
+      {
+        "year": 2021,
+        "population": "99.7M",
+        "hospitals": "210",
+        "schools": "7100",
+        "economy": "₹127,000 crore"
+      },
+      {
+        "year": 2022,
+        "population": "100.5M",
+        "hospitals": "215",
+        "schools": "7200",
+        "economy": "₹132,000 crore"
+      },
+      {
+        "year": 2023,
+        "population": "101.3M",
+        "hospitals": "220",
+        "schools": "7300",
+        "economy": "₹137,000 crore"
+      }
+    ],
+    "information": {
+      "famous_for": "Bihar is known for its rich cultural heritage, historical significance, and ancient sites like Nalanda University. The state is also famous for its distinct cuisine, including dishes like Litti Chokha and Sattu.",
+      "nickname": "The Cradle of Indian Civilization",
+      "additional_info": "Bihar has a long history, being home to important ancient kingdoms such as the Maurya Empire and Gupta Empire. The state has also contributed significantly to literature, education, and politics."
+    },
+    "image": {
+      "state_image": "./images/bihar.png"
+    }
   },
   {
     "state": "Chhattisgarh",
@@ -629,164 +738,172 @@
         "population": "20.5M",
         "hospitals": "95",
         "schools": "3100",
-        "economy": "₹26,000 crore"
+        "economy": "₹25,920 crore"
       },
       {
         "year": 2002,
         "population": "21.0M",
         "hospitals": "100",
         "schools": "3200",
-        "economy": "₹28,000 crore"
+        "economy": "₹27,993 crore"
       },
       {
         "year": 2003,
         "population": "21.5M",
         "hospitals": "105",
         "schools": "3300",
-        "economy": "₹30,000 crore"
+        "economy": "₹30,232 crore"
       },
       {
         "year": 2004,
         "population": "22.0M",
         "hospitals": "110",
         "schools": "3400",
-        "economy": "₹32,000 crore"
+        "economy": "₹32,651 crore"
       },
       {
         "year": 2005,
         "population": "22.5M",
         "hospitals": "115",
         "schools": "3500",
-        "economy": "₹34,000 crore"
+        "economy": "₹35,263 crore"
       },
       {
         "year": 2006,
         "population": "23.0M",
         "hospitals": "120",
         "schools": "3600",
-        "economy": "₹36,000 crore"
+        "economy": "₹38,083 crore"
       },
       {
         "year": 2007,
         "population": "23.5M",
         "hospitals": "125",
         "schools": "3700",
-        "economy": "₹38,000 crore"
+        "economy": "₹41,130 crore"
       },
       {
         "year": 2008,
         "population": "24.0M",
         "hospitals": "130",
         "schools": "3800",
-        "economy": "₹40,000 crore"
+        "economy": "₹44,421 crore"
       },
       {
         "year": 2009,
         "population": "24.5M",
         "hospitals": "135",
         "schools": "3900",
-        "economy": "₹42,000 crore"
+        "economy": "₹47,975 crore"
       },
       {
         "year": 2010,
         "population": "25.0M",
         "hospitals": "140",
         "schools": "4000",
-        "economy": "₹45,000 crore"
+        "economy": "₹51,813 crore"
       },
       {
         "year": 2011,
         "population": "25.5M",
         "hospitals": "145",
         "schools": "4100",
-        "economy": "₹47,000 crore"
+        "economy": "₹56,000 crore"
       },
       {
         "year": 2012,
         "population": "26.0M",
         "hospitals": "150",
         "schools": "4200",
-        "economy": "₹49,000 crore"
+        "economy": "₹60,480 crore"
       },
       {
         "year": 2013,
         "population": "26.5M",
         "hospitals": "155",
         "schools": "4300",
-        "economy": "₹51,000 crore"
+        "economy": "₹65,318 crore"
       },
       {
         "year": 2014,
         "population": "27.0M",
         "hospitals": "160",
         "schools": "4400",
-        "economy": "₹53,000 crore"
+        "economy": "₹70,543 crore"
       },
       {
         "year": 2015,
         "population": "27.5M",
         "hospitals": "165",
         "schools": "4500",
-        "economy": "₹55,000 crore"
+        "economy": "₹76,186 crore"
       },
       {
         "year": 2016,
         "population": "28.0M",
         "hospitals": "170",
         "schools": "4600",
-        "economy": "₹58,000 crore"
+        "economy": "₹82,281 crore"
       },
       {
         "year": 2017,
         "population": "28.5M",
         "hospitals": "175",
         "schools": "4700",
-        "economy": "₹60,000 crore"
+        "economy": "₹88,862 crore"
       },
       {
         "year": 2018,
         "population": "29.0M",
         "hospitals": "180",
         "schools": "4800",
-        "economy": "₹62,000 crore"
+        "economy": "₹95,971 crore"
       },
       {
         "year": 2019,
         "population": "29.5M",
         "hospitals": "185",
         "schools": "4900",
-        "economy": "₹64,000 crore"
+        "economy": "₹103,648 crore"
       },
       {
         "year": 2020,
         "population": "30.0M",
         "hospitals": "190",
         "schools": "5000",
-        "economy": "₹66,000 crore"
+        "economy": "₹111,940 crore"
       },
       {
         "year": 2021,
         "population": "30.5M",
         "hospitals": "195",
         "schools": "5100",
-        "economy": "₹68,000 crore"
+        "economy": "₹120,895 crore"
       },
       {
         "year": 2022,
         "population": "31.0M",
         "hospitals": "200",
         "schools": "5200",
-        "economy": "₹70,000 crore"
+        "economy": "₹130,566 crore"
       },
       {
         "year": 2023,
         "population": "31.5M",
         "hospitals": "205",
         "schools": "5300",
-        "economy": "₹72,000 crore"
+        "economy": "₹141,011 crore"
       }
-    ]
-  },
+    ],
+    "information": {
+      "famous_for": "Chhattisgarh is known for its natural beauty, rich cultural heritage, and the abundance of mineral resources. The state is also famous for its tribal communities and their traditions.",
+      "nickname": "The Rice Bowl of India",
+      "additional_info": "Chhattisgarh was formed in 2000 after separating from Madhya Pradesh. It is known for its vibrant dance forms like the Panthi and Raut Nacha, as well as its role in the mining and steel industries."
+    },
+    "image": {
+      "state_image": "./images/chhattisgarh.png"
+    }
+  },  
   {
     "state": "Goa",
     "data": [
@@ -958,7 +1075,15 @@
         "schools": "1260",
         "economy": "₹18,500 crore"
       }
-    ]
+    ],
+    "information": {
+      "famous_for": "Goa is known for its stunning beaches, vibrant nightlife, Portuguese heritage, and rich history. It is also famous for its seafood and spice plantations.",
+      "nickname": "The Pearl of the East",
+      "additional_info": "Goa is India's smallest state by area, and it attracts millions of tourists annually for its beaches, churches, and festivals. The state's economy is largely based on tourism, mining, and agriculture."
+    },
+    "image": {
+      "state_image": "./images/goa.png"
+    }
   },
   {
     "state": "Gujarat",
@@ -1131,7 +1256,15 @@
         "schools": "14600",
         "economy": "₹7,90,000 crore"
       }
-    ]
+    ],
+    "information": {
+      "famous_for": "Gujarat is known for its rich cultural heritage, textile industry, tourism, and being the birthplace of Mahatma Gandhi. The state is also renowned for its vibrant festivals such as Navratri.",
+      "nickname": "The Land of the Lions",
+      "additional_info": "Gujarat is one of India's fastest-growing states and plays a pivotal role in the country's economy. It is known for its thriving industries, including petrochemicals, engineering, and diamond polishing."
+    },
+    "image": {
+      "state_image": "./images/gujarat.png"
+    }
   },
   {
     "state": "Haryana",
@@ -1304,7 +1437,15 @@
         "schools": "6300",
         "economy": "₹3,50,000 crore"
       }
-    ]
+    ],
+    "information": {
+      "famous_for": "Haryana is known for its agriculture, particularly its production of wheat, rice, and milk. It is also famous for its robust industrial sector and its contribution to the Indian economy.",
+      "nickname": "The Green Land of India",
+      "additional_info": "Haryana is an important agricultural state and plays a key role in the nation's food security. It has a high literacy rate and boasts numerous prestigious educational institutions."
+    },
+    "image": {
+      "state_image": "./images/haryana.png"
+    }
   },
   {
     "state": "Himachal Pradesh",
@@ -1477,7 +1618,15 @@
         "schools": "1660",
         "economy": "₹76,000 crore"
       }
-    ]
+    ],
+    "information": {
+      "famous_for": "Himachal Pradesh is famous for its scenic beauty, including the Himalayan range, and is known for its tourism, agriculture, and hydropower production.",
+      "nickname": "The Land of Snow",
+      "additional_info": "The state is a major producer of apples, and its economy relies heavily on tourism, horticulture, and hydropower industries."
+    },
+    "image": {
+      "state_image": "./images/himachal pradesh.png"
+    }
   },
   {
     "state": "Jammu and Kashmir",
@@ -1650,7 +1799,15 @@
         "schools": "9300",
         "economy": "₹1,06,000 crore"
       }
-    ]
+    ],
+    "information": {
+      "famous_for": "Jammu and Kashmir is famous for its natural beauty, including the Dal Lake, snow-capped mountains, and vibrant culture. It is a major tourist destination.",
+      "nickname": "The Paradise on Earth",
+      "additional_info": "The state's economy relies on agriculture (especially saffron and apples), tourism, and handicrafts like Pashmina wool and carpets."
+    },
+    "image": {
+      "state_image": "./images/jammu and kashmir.png"
+    }
   },
   {
     "state": "Jharkhand",
@@ -1823,7 +1980,15 @@
         "schools": "7800",
         "economy": "₹1,31,000 crore"
       }
-    ]
+    ],
+    "information": {
+      "famous_for": "Jharkhand is known for its rich mineral resources, including coal and iron ore, as well as for its scenic beauty and tribal culture.",
+      "nickname": "The Land of Forests",
+      "additional_info": "The state's economy is heavily driven by mining, manufacturing, and agriculture, with a focus on iron, steel, and power generation industries."
+    },
+    "image": {
+      "state_image": "./images/jharkhand.png"
+    }
   },
   {
     "state": "Karnataka",
@@ -1996,7 +2161,15 @@
         "schools": "31500",
         "economy": "₹3,15,000 crore"
       }
-    ]
+    ],
+    "information": {
+      "famous_for": "Karnataka is known for its rich cultural heritage, historic temples, and technological advancements, particularly in the city of Bangalore.",
+      "nickname": "The Silicon Valley of India",
+      "additional_info": "Karnataka is one of India's leading states in the fields of IT, biotechnology, and aerospace. Its economy is also supported by agriculture, especially in sectors like coffee and silk."
+    },
+    "image": {
+      "state_image": "./images/karnataka.png"
+    }
   },
   {
     "state": "Kerala",
@@ -2169,7 +2342,15 @@
         "schools": "19300",
         "economy": "₹2,65,000 crore"
       }
-    ]
+    ],
+    "information": {
+      "famous_for": "Kerala is known for its backwaters, scenic landscapes, Ayurveda treatments, and beautiful beaches.",
+      "nickname": "God's Own Country",
+      "additional_info": "Kerala has made significant strides in social development, particularly in literacy and healthcare, and is a popular tourist destination."
+    },
+    "image": {
+      "state_image": "./images/kerela.png"
+    }
   },
   {
     "state": "Madhya Pradesh",
@@ -2342,7 +2523,15 @@
         "schools": "14600",
         "economy": "₹96,000 crore"
       }
-    ]
+    ],
+    "information": {
+      "famous_for": "Madhya Pradesh is known for its ancient temples, forts, and wildlife sanctuaries, including the famous Khajuraho temples and Kanha National Park.",
+      "nickname": "The Heart of India",
+      "additional_info": "Madhya Pradesh is one of the largest states in India and has significant contributions to the country's cultural and historical heritage."
+    },
+    "image": {
+      "state_image": "./images/madhyapradesh.png"
+    }
   },
   {
     "state": "Maharashtra",
@@ -2515,7 +2704,15 @@
         "schools": "41500",
         "economy": "₹9,20,000 crore"
       }
-    ]
+    ],
+    "information": {
+      "famous_for": "Maharashtra is known for its bustling metropolitan city Mumbai, a major financial hub, along with the scenic hill stations and beaches such as Lonavala and Alibaug.",
+      "nickname": "The Gateway of India",
+      "additional_info": "Maharashtra is the second-most populous state in India, and its capital, Mumbai, is known as the financial capital of the country."
+    },
+    "image": {
+      "state_image": "./images/maharashtra.png"
+    }
   },
   {
     "state": "Manipur",
@@ -2688,7 +2885,15 @@
         "schools": "5800",
         "economy": "₹9,600 crore"
       }
-    ]
+    ],
+    "information": {
+      "famous_for": "Manipur is known for its rich cultural heritage, including classical dance forms like Manipuri dance, as well as the scenic Loktak Lake and the Keibul Lamjao National Park.",
+      "nickname": "The Jewel of India",
+      "additional_info": "Manipur is a northeastern state with a vibrant history, notable for its martial arts and traditional music."
+    },
+    "image": {
+      "state_image": "./images/manipur.png"
+    }
   },
   {
     "state": "Meghalaya",
@@ -2861,7 +3066,15 @@
         "schools": "5900",
         "economy": "₹9,400 crore"
       }
-    ]
+    ],
+    "information": {
+      "famous_for": "Meghalaya is known for its picturesque landscapes, living root bridges, and the rainfall-rich town of Mawsynram.",
+      "nickname": "The Abode of Clouds",
+      "additional_info": "Meghalaya is a state in northeastern India, famous for its beautiful hills, valleys, and lush greenery."
+    },
+    "image": {
+      "state_image": "./images/meghalaya.png"
+    }
   },
   {
     "state": "Mizoram",
@@ -3034,7 +3247,15 @@
         "schools": "5100",
         "economy": "₹6,600 crore"
       }
-    ]
+    ],
+    "information": {
+      "famous_for": "Mizoram is known for its scenic hills, rich culture, and bamboo forests.",
+      "nickname": "The Land of Blue Mountains",
+      "additional_info": "Mizoram is located in the northeastern part of India, renowned for its picturesque landscapes and vibrant traditions."
+    },
+    "image": {
+      "state_image": "./images/mizoram.png"
+    }
   },
   {
     "state": "Nagaland",
@@ -3207,7 +3428,15 @@
         "schools": "4300",
         "economy": "₹7,400 crore"
       }
-    ]
+    ],
+    "information": {
+      "famous_for": "Nagaland is known for its rich tribal culture, festivals, and traditional arts.",
+      "nickname": "The Land of Festivals",
+      "additional_info": "Nagaland, located in the northeastern part of India, is home to various indigenous tribes, each with its unique culture and traditions."
+    },
+    "image": {
+      "state_image": "./images/nagaland.png"
+    }
   },
   {
     "state": "Odisha",
@@ -3380,7 +3609,15 @@
         "schools": "11600",
         "economy": "₹63,000 crore"
       }
-    ]
+    ],
+    "information": {
+      "famous_for": "Odisha is known for its ancient temples, rich culture, classical dance forms, and scenic beaches.",
+      "nickname": "The Soul of Incredible India",
+      "additional_info": "Odisha is a state on the eastern coast of India, famous for its traditional crafts, dance, and the Rath Yatra festival in Puri."
+    },
+    "image": {
+      "state_image": "./images/odisha.png"
+    }
   },
   {
     "state": "Punjab",
@@ -3553,7 +3790,15 @@
         "schools": "14600",
         "economy": "₹2,15,000 crore"
       }
-    ]
+    ],
+    "information": {
+      "famous_for": "Punjab is known for its rich history, agricultural productivity, culture, and vibrant festivals.",
+      "nickname": "The Granary of India",
+      "additional_info": "Punjab is a northern state in India, famous for its agricultural output, folk music, and dance, such as Bhangra and Gidda."
+    },
+    "image": {
+      "state_image": "./images/punjab.png"
+    }
   },
   {
     "state": "Rajasthan",
@@ -3726,7 +3971,15 @@
         "schools": "41500",
         "economy": "₹3,65,000 crore"
       }
-    ]
+    ],
+    "information": {
+      "famous_for": "Rajasthan is famous for its rich cultural heritage, palaces, forts, deserts, and vibrant festivals. It is known for its historical significance and grand architecture.",
+      "nickname": "The Land of Kings",
+      "additional_info": "Rajasthan is the largest state in India by area, home to the Thar Desert, and famous for its traditional arts, crafts, and colorful attire. Major tourist attractions include Jaipur, Udaipur, Jodhpur, and Jaisalmer."
+    },
+    "image": {
+      "state_image": "./images/rajasthan.png"
+    }
   },
   {
     "state": "Sikkim",
@@ -3899,10 +4152,18 @@
         "schools": "1060",
         "economy": "₹9600 crore"
       }
-    ]
+    ],
+    "information": {
+      "famous_for": "Sikkim is known for its beautiful landscapes, vibrant culture, and scenic beauty. It is famous for the majestic Kanchenjunga, the third-highest mountain in the world, and its rich biodiversity.",
+      "nickname": "The Land of Mist",
+      "additional_info": "Sikkim is the second smallest state in India, bordered by Nepal, Bhutan, and China. It is also famous for its Buddhist monasteries, trekking routes, and organic farming practices."
+    },
+    "image": {
+      "state_image": "./images/sikkim.png"
+    }
   },
   {
-    "state": "Tamil_Nadu",
+    "state": "Tamil Nadu",
     "data": [
       {
         "year": 2000,
@@ -4072,7 +4333,15 @@
         "schools": "71,000",
         "economy": "₹2,65,000 crore"
       }
-    ]
+    ],
+    "information": {
+      "famous_for": "Tamil Nadu is famous for its Dravidian-style Hindu temples, classical dance forms like Bharatanatyam, and its vibrant cinema industry, Kollywood.",
+      "nickname": "The Land of Tamils",
+      "additional_info": "Tamil Nadu is one of the most industrialized states in India, known for its textile, automobile, and IT industries. Chennai, the capital, is a major hub for business and culture."
+    },
+    "image": {
+      "state_image": "./images/Tamil nadu.png"
+    }
   },  
   {
     "state": "Tripura",
@@ -4245,7 +4514,15 @@
         "schools": "5150",
         "economy": "₹21,500 crore"
       }
-    ]
+    ],
+    "information": {
+      "famous_for": "Tripura is known for its lush green landscapes, rich cultural heritage, and historical sites like Ujjayanta Palace.",
+      "nickname": "The Land of Greenery",
+      "additional_info": "Tripura, located in the northeastern part of India, is known for its vibrant tribal culture and scenic beauty."
+    },
+    "image": {
+      "state_image": "./images/tripura.png"
+    }
   },
   {
     "state": "Uttar Pradesh",
@@ -4418,7 +4695,15 @@
         "schools": "49600",
         "economy": "₹5,80,000 crore"
       }
-    ]
+    ],
+    "information": {
+      "famous_for": "Uttar Pradesh is known for its historical landmarks, including the Taj Mahal, and its religious significance with holy places like Varanasi and Mathura.",
+      "nickname": "The Heartland of India",
+      "additional_info": "Uttar Pradesh is the most populous state in India and has significant cultural, religious, and political importance."
+    },
+    "image": {
+      "state_image": "./images/Uttar pradesh.png"
+    }
   },      
   {
     "state": "Uttarakhand",
@@ -4591,7 +4876,15 @@
         "schools": "7300",
         "economy": "₹48,000 crore"
       }
-    ]
+    ],
+    "information": {
+      "famous_for": "Uttarakhand is famous for its scenic landscapes, religious tourism, and hill stations like Nainital and Mussoorie.",
+      "nickname": "The Land of Gods",
+      "additional_info": "Uttarakhand is known for its spiritual significance with famous pilgrim destinations like Haridwar and Rishikesh."
+    },
+    "image": {
+      "state_image": "./images/uttarakhand.png"
+    }
   },
   {
     "state": "West Bengal",
@@ -4764,10 +5057,18 @@
         "schools": "61500",
         "economy": "₹2,65,000 crore"
       }
-    ]
+    ],
+    "information": {
+      "famous_for": "West Bengal is famous for its rich cultural heritage, literature, arts, and historical landmarks.",
+      "nickname": "The City of Joy",
+      "additional_info": "It is also known for its contributions to Indian cinema, with Kolkata being the hub of Bengali cinema."
+    },
+    "image": {
+      "state_image": "./images/west bengal.png"
+    }
   },
   {
-    "state": "Andaman_and_Nicobar_Islands",
+    "state": "Andaman and Nicobar Islands",
     "data": [
       {
         "year": 2000,
@@ -4937,7 +5238,15 @@
         "schools": "365",
         "economy": "₹4,800 crore"
       }
-    ]
+    ],
+    "information": {
+      "famous_for": "Andaman and Nicobar Islands is famous for its beautiful beaches, tropical forests, and rich biodiversity.",
+      "nickname": "The Emerald Isles",
+      "additional_info": "It is a popular tourist destination and houses one of India's indigenous tribes, the Great Andamanese."
+    },
+    "image": {
+      "state_image": "./images/andaman and nicobar islands.png"
+    }
   },
   {
     "state": "Chandigarh",
@@ -5110,10 +5419,18 @@
         "schools": "265",
         "economy": "₹12,600 crore"
       }
-    ]
+    ],
+    "information": {
+      "famous_for": "Chandigarh is known for its modern architecture, the Rock Garden, and as the capital of both Punjab and Haryana.",
+      "nickname": "The City Beautiful",
+      "additional_info": "It is one of the cleanest and most well-planned cities in India, with a mix of modern and traditional elements."
+    },
+    "image": {
+      "state_image": "./images/chandigarh.png"
+    }
   },
   {
-    "state": "Dadra_and_Nagar_Haveli",
+    "state": "Dadra and Nagar Haveli",
     "data": [
       {
         "year": 2000,
@@ -5283,10 +5600,18 @@
         "schools": "215",
         "economy": "₹4,300 crore"
       }
-    ]
+    ],
+    "information": {
+      "famous_for": "Dadra and Nagar Haveli is known for its scenic beauty, rich cultural heritage, and lush greenery.",
+      "nickname": "A Land of Serenity",
+      "additional_info": "It is located on the western coast of India, known for its tranquil environment and unique blend of tribal and modern cultures."
+    },
+    "image": {
+      "state_image": "./images/Dadra and nagra haveli & Daman and diu.png"
+    }
   },
   {
-    "state": "Daman_and_Diu",
+    "state": "Daman and Diu",
     "data": [
       {
         "year": 2000,
@@ -5456,7 +5781,15 @@
         "schools": "195",
         "economy": "₹4,100 crore"
       }
-    ]
+    ],
+    "information": {
+      "famous_for": "Daman and Diu is known for its beautiful beaches, historic Portuguese forts, and colonial architecture.",
+      "nickname": "The Coastal Gem",
+      "additional_info": "It is a union territory of India located on the western coast, known for its serene environment and vibrant culture."
+    },
+    "image": {
+      "state_image": "./images/Dadra and nagra haveli & Daman and diu.png"
+    }
   },      
   {
     "state": "Delhi",
@@ -5629,7 +5962,15 @@
         "schools": "10300",
         "economy": "₹6,60,000 crore"
       }
-    ]
+    ],
+    "information": {
+      "famous_for": "Delhi is known for its rich history, bustling markets, and as the capital of India. It is a hub for culture, politics, and education.",
+      "nickname": "The Heart of India",
+      "additional_info": "Delhi is a metropolitan region that serves as the seat of the government of India, with a mix of ancient and modern architecture, and an ever-growing economy."
+    },
+    "image": {
+      "state_image": "./images/Delhi.png"
+    }
   },
   {
     "state": "Lakshadweep",
@@ -5802,7 +6143,15 @@
         "schools": "207",
         "economy": "₹860 crore"
       }
-    ]
+    ],
+    "information": {
+      "famous_for": "Lakshadweep is famous for its beautiful coral islands, pristine beaches, and marine life, offering unique opportunities for tourism and water sports.",
+      "nickname": "The Coral Paradise",
+      "additional_info": "Lakshadweep is a group of islands located off the southwestern coast of India. The islands are known for their stunning beaches, vibrant marine life, and the simplicity of life on the islands."
+    },
+    "image": {
+      "state_image": "./images/lakshadweep.png"
+    }
   },
   {
     "state": "Puducherry",
@@ -5975,6 +6324,14 @@
         "schools": "415",
         "economy": "₹26,500 crore"
       }
-    ]
-  }
+    ],
+    "information": {
+      "famous_for": "Puducherry is known for its French colonial heritage, pristine beaches, spiritual centers, and vibrant culture.",
+      "nickname": "The French Riviera of the East",
+      "additional_info": "Puducherry, formerly known as Pondicherry, is a Union Territory in India, known for its unique blend of Indian and French culture, its picturesque seafront, and numerous spiritual retreats."
+    },
+    "image": {
+      "state_image": "./images/puducherry.png"
+    }
+  }  
 ]

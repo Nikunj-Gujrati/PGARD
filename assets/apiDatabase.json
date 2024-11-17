@@ -1,0 +1,6337 @@
+[
+  {
+    "state": "Andhra_Pradesh",
+    "data": [
+      {
+        "year": 2000,
+        "population": "75.8M",
+        "hospitals": "120",
+        "schools": "5400",
+        "economy": "₹120,000 crore"
+      },
+      {
+        "year": 2001,
+        "population": "76.1M",
+        "hospitals": "123",
+        "schools": "5450",
+        "economy": "₹132,000 crore"
+      },
+      {
+        "year": 2002,
+        "population": "76.4M",
+        "hospitals": "125",
+        "schools": "5500",
+        "economy": "₹145,200 crore"
+      },
+      {
+        "year": 2003,
+        "population": "76.7M",
+        "hospitals": "130",
+        "schools": "5550",
+        "economy": "₹159,720 crore"
+      },
+      {
+        "year": 2004,
+        "population": "77.0M",
+        "hospitals": "135",
+        "schools": "5600",
+        "economy": "₹175,692 crore"
+      },
+      {
+        "year": 2005,
+        "population": "77.3M",
+        "hospitals": "140",
+        "schools": "5650",
+        "economy": "₹193,261 crore"
+      },
+      {
+        "year": 2006,
+        "population": "77.6M",
+        "hospitals": "145",
+        "schools": "5700",
+        "economy": "₹212,587 crore"
+      },
+      {
+        "year": 2007,
+        "population": "78.0M",
+        "hospitals": "150",
+        "schools": "5750",
+        "economy": "₹233,845 crore"
+      },
+      {
+        "year": 2008,
+        "population": "78.3M",
+        "hospitals": "155",
+        "schools": "5800",
+        "economy": "₹257,229 crore"
+      },
+      {
+        "year": 2009,
+        "population": "78.6M",
+        "hospitals": "160",
+        "schools": "5850",
+        "economy": "₹282,952 crore"
+      },
+      {
+        "year": 2010,
+        "population": "79.0M",
+        "hospitals": "165",
+        "schools": "5900",
+        "economy": "₹311,247 crore"
+      },
+      {
+        "year": 2011,
+        "population": "79.4M",
+        "hospitals": "170",
+        "schools": "5950",
+        "economy": "₹379,402 crore"
+      },
+      {
+        "year": 2012,
+        "population": "79.8M",
+        "hospitals": "175",
+        "schools": "6000",
+        "economy": "₹411,404 crore"
+      },
+      {
+        "year": 2013,
+        "population": "80.1M",
+        "hospitals": "180",
+        "schools": "6050",
+        "economy": "₹464,272 crore"
+      },
+      {
+        "year": 2014,
+        "population": "80.5M",
+        "hospitals": "185",
+        "schools": "6100",
+        "economy": "₹524,976 crore"
+      },
+      {
+        "year": 2015,
+        "population": "80.9M",
+        "hospitals": "190",
+        "schools": "6150",
+        "economy": "₹604,229 crore"
+      },
+      {
+        "year": 2016,
+        "population": "81.3M",
+        "hospitals": "195",
+        "schools": "6200",
+        "economy": "₹684,416 crore"
+      },
+      {
+        "year": 2017,
+        "population": "81.7M",
+        "hospitals": "200",
+        "schools": "6250",
+        "economy": "₹786,135 crore"
+      },
+      {
+        "year": 2018,
+        "population": "82.1M",
+        "hospitals": "205",
+        "schools": "6300",
+        "economy": "₹873,721 crore"
+      },
+      {
+        "year": 2019,
+        "population": "82.5M",
+        "hospitals": "210",
+        "schools": "6350",
+        "economy": "₹925,839 crore"
+      },
+      {
+        "year": 2020,
+        "population": "82.9M",
+        "hospitals": "215",
+        "schools": "6400",
+        "economy": "₹978,581 crore"
+      },
+      {
+        "year": 2021,
+        "population": "83.3M",
+        "hospitals": "220",
+        "schools": "6450",
+        "economy": "₹1,148,471 crore"
+      },
+      {
+        "year": 2022,
+        "population": "83.7M",
+        "hospitals": "225",
+        "schools": "6500",
+        "economy": "₹1,303,524 crore"
+      },
+      {
+        "year": 2023,
+        "population": "84.1M",
+        "hospitals": "230",
+        "schools": "6550",
+        "economy": "₹1,439,674 crore"
+      }  
+    ],
+    "information": {
+      "famous_for": "Andhra Pradesh is known for its rich cultural heritage, historic sites, and beautiful landscapes. It is often referred to as the 'Rice Bowl of India' due to its significant rice production. The state is also famous for its temple towns like Tirupati, and for being the birthplace of famous Indian leaders like Nandamuri Taraka Rama Rao (NTR).",
+      "nickname": "The Rice Bowl of India",
+      "additional_info": "Andhra Pradesh has a diverse geography ranging from beaches along the eastern coast to the Nallamala Hills. The state has seen significant economic growth, particularly in agriculture, information technology, and industrial sectors."
+    },
+    "image": {
+      "state_image": "./images/andhra pradesh.png"
+    }
+  },
+  {
+    "state": "Arunachal Pradesh",
+    "data": [
+      {
+        "year": 2000,
+        "population": "1.0M",
+        "hospitals": "30",
+        "schools": "1000",
+        "economy": "₹1,106.27 crore"
+      },
+      {
+        "year": 2001,
+        "population": "1.02M",
+        "hospitals": "32",
+        "schools": "1020",
+        "economy": "₹1,254.66 crore"
+      },
+      {
+        "year": 2002,
+        "population": "1.04M",
+        "hospitals": "34",
+        "schools": "1040",
+        "economy": "₹1,458.11 crore"
+      },
+      {
+        "year": 2003,
+        "population": "1.06M",
+        "hospitals": "36",
+        "schools": "1060",
+        "economy": "₹1,795.94 crore"
+      },
+      {
+        "year": 2004,
+        "population": "1.08M",
+        "hospitals": "38",
+        "schools": "1080",
+        "economy": "₹1,850.92 crore"
+      },
+      {
+        "year": 2005,
+        "population": "1.10M",
+        "hospitals": "40",
+        "schools": "1100",
+        "economy": "₹1,990.21 crore"
+      },
+      {
+        "year": 2006,
+        "population": "1.12M",
+        "hospitals": "42",
+        "schools": "1120",
+        "economy": "₹2,247.48 crore"
+      },
+      {
+        "year": 2007,
+        "population": "1.14M",
+        "hospitals": "44",
+        "schools": "1140",
+        "economy": "₹2,533.49 crore"
+      },
+      {
+        "year": 2008,
+        "population": "1.16M",
+        "hospitals": "46",
+        "schools": "1160",
+        "economy": "₹3,002.52 crore"
+      },
+      {
+        "year": 2009,
+        "population": "1.18M",
+        "hospitals": "48",
+        "schools": "1180",
+        "economy": "₹3,094.53 crore"
+      },
+      {
+        "year": 2010,
+        "population": "1.20M",
+        "hospitals": "50",
+        "schools": "1200",
+        "economy": "₹3,548.38 crore"
+      },
+      {
+        "year": 2011,
+        "population": "1.22M",
+        "hospitals": "52",
+        "schools": "1220",
+        "economy": "₹3,967.12 crore"
+      },
+      {
+        "year": 2012,
+        "population": "1.24M",
+        "hospitals": "54",
+        "schools": "1240",
+        "economy": "₹3,967.12 crore"
+      },
+      {
+        "year": 2013,
+        "population": "1.26M",
+        "hospitals": "56",
+        "schools": "1260",
+        "economy": "₹3,967.12 crore"
+      },
+      {
+        "year": 2014,
+        "population": "1.28M",
+        "hospitals": "58",
+        "schools": "1280",
+        "economy": "₹3,967.12 crore"
+      },
+      {
+        "year": 2015,
+        "population": "1.30M",
+        "hospitals": "60",
+        "schools": "1300",
+        "economy": "₹3,967.12 crore"
+      },
+      {
+        "year": 2016,
+        "population": "1.32M",
+        "hospitals": "62",
+        "schools": "1320",
+        "economy": "₹3,967.12 crore"
+      },
+      {
+        "year": 2017,
+        "population": "1.34M",
+        "hospitals": "64",
+        "schools": "1340",
+        "economy": "₹3,967.12 crore"
+      },
+      {
+        "year": 2018,
+        "population": "1.36M",
+        "hospitals": "66",
+        "schools": "1360",
+        "economy": "₹3,967.12 crore"
+      },
+      {
+        "year": 2019,
+        "population": "1.38M",
+        "hospitals": "68",
+        "schools": "1380",
+        "economy": "₹3,967.12 crore"
+      },
+      {
+        "year": 2020,
+        "population": "1.40M",
+        "hospitals": "70",
+        "schools": "1400",
+        "economy": "₹3,967.12 crore"
+      },
+      {
+        "year": 2021,
+        "population": "1.42M",
+        "hospitals": "72",
+        "schools": "1420",
+        "economy": "₹3,967.12 crore"
+      },
+      {
+        "year": 2022,
+        "population": "1.44M",
+        "hospitals": "74",
+        "schools": "1440",
+        "economy": "₹3,967.12 crore"
+      },
+      {
+        "year": 2023,
+        "population": "1.46M",
+        "hospitals": "76",
+        "schools": "1460",
+        "economy": "₹3,967.12 crore"
+      }
+    ],
+    "information": {
+      "famous_for": "Arunachal Pradesh is renowned for its stunning natural beauty, with lush forests, high-altitude mountains, and pristine rivers. It is famous for its vibrant culture, including the unique traditions of the tribal communities that reside in the state. Arunachal Pradesh is often called the 'Land of the Dawn-Lit Mountains' due to its location in the easternmost part of India, where the sun first rises.",
+      "nickname": "Land of the Dawn-Lit Mountains",
+      "additional_info": "The state is a biodiversity hotspot, with diverse flora and fauna. Arunachal Pradesh also has several key Buddhist monasteries, such as Tawang Monastery, and is known for adventure tourism, including trekking, river rafting, and camping."
+    },
+    "image": {
+      "state_image": "./images/arunachal pradesh.png"
+    }
+  },
+  {
+    "state": "Assam",
+    "data": [
+      {
+        "year": 2000,
+        "population": "26.6M",
+        "hospitals": "85",
+        "schools": "4000",
+        "economy": "₹44,000 crore"
+      },
+      {
+        "year": 2001,
+        "population": "27.1M",
+        "hospitals": "90",
+        "schools": "4100",
+        "economy": "₹47,000 crore"
+      },
+      {
+        "year": 2002,
+        "population": "27.6M",
+        "hospitals": "95",
+        "schools": "4200",
+        "economy": "₹49,500 crore"
+      },
+      {
+        "year": 2003,
+        "population": "28.1M",
+        "hospitals": "100",
+        "schools": "4300",
+        "economy": "₹52,000 crore"
+      },
+      {
+        "year": 2004,
+        "population": "28.6M",
+        "hospitals": "105",
+        "schools": "4400",
+        "economy": "₹55,000 crore"
+      },
+      {
+        "year": 2005,
+        "population": "29.1M",
+        "hospitals": "110",
+        "schools": "4500",
+        "economy": "₹58,000 crore"
+      },
+      {
+        "year": 2006,
+        "population": "29.6M",
+        "hospitals": "115",
+        "schools": "4600",
+        "economy": "₹61,000 crore"
+      },
+      {
+        "year": 2007,
+        "population": "30.1M",
+        "hospitals": "120",
+        "schools": "4700",
+        "economy": "₹65,000 crore"
+      },
+      {
+        "year": 2008,
+        "population": "30.6M",
+        "hospitals": "125",
+        "schools": "4800",
+        "economy": "₹70,000 crore"
+      },
+      {
+        "year": 2009,
+        "population": "31.1M",
+        "hospitals": "130",
+        "schools": "4900",
+        "economy": "₹75,000 crore"
+      },
+      {
+        "year": 2010,
+        "population": "31.6M",
+        "hospitals": "135",
+        "schools": "5000",
+        "economy": "₹80,000 crore"
+      },
+      {
+        "year": 2011,
+        "population": "32.1M",
+        "hospitals": "140",
+        "schools": "5100",
+        "economy": "₹85,000 crore"
+      },
+      {
+        "year": 2012,
+        "population": "32.6M",
+        "hospitals": "145",
+        "schools": "5200",
+        "economy": "₹88,500 crore"
+      },
+      {
+        "year": 2013,
+        "population": "33.1M",
+        "hospitals": "150",
+        "schools": "5300",
+        "economy": "₹92,000 crore"
+      },
+      {
+        "year": 2014,
+        "population": "33.6M",
+        "hospitals": "155",
+        "schools": "5400",
+        "economy": "₹95,500 crore"
+      },
+      {
+        "year": 2015,
+        "population": "34.1M",
+        "hospitals": "160",
+        "schools": "5500",
+        "economy": "₹99,000 crore"
+      },
+      {
+        "year": 2016,
+        "population": "34.6M",
+        "hospitals": "165",
+        "schools": "5600",
+        "economy": "₹104,000 crore"
+      },
+      {
+        "year": 2017,
+        "population": "35.1M",
+        "hospitals": "170",
+        "schools": "5700",
+        "economy": "₹110,000 crore"
+      },
+      {
+        "year": 2018,
+        "population": "35.6M",
+        "hospitals": "175",
+        "schools": "5800",
+        "economy": "₹116,000 crore"
+      },
+      {
+        "year": 2019,
+        "population": "36.1M",
+        "hospitals": "180",
+        "schools": "5900",
+        "economy": "₹122,000 crore"
+      },
+      {
+        "year": 2020,
+        "population": "36.6M",
+        "hospitals": "185",
+        "schools": "6000",
+        "economy": "₹115,000 crore"
+      },
+      {
+        "year": 2021,
+        "population": "37.1M",
+        "hospitals": "190",
+        "schools": "6100",
+        "economy": "₹130,000 crore"
+      },
+      {
+        "year": 2022,
+        "population": "37.6M",
+        "hospitals": "195",
+        "schools": "6200",
+        "economy": "₹138,000 crore"
+      },
+      {
+        "year": 2023,
+        "population": "38.1M",
+        "hospitals": "200",
+        "schools": "6300",
+        "economy": "₹145,000 crore"
+      }
+    ],
+    "information": {
+      "famous_for": "Assam is famous for its tea gardens, wildlife, and the Brahmaputra River. The state is known for its rich cultural heritage, including traditional dance forms like Bihu. Assam is also recognized for its diverse flora and fauna, including one-horned rhinoceroses in Kaziranga National Park.",
+      "nickname": "The Tea Garden of India",
+      "additional_info": "Assam is a major producer of tea in India, and its tea gardens attract tourists from around the world. The state also has a rich history of cultural festivals, with Bihu being the most famous festival celebrated in Assam."
+    },
+    "image": {
+      "state_image": "./images/assam.png"
+    }
+  },
+  {
+    "state": "Bihar",
+    "data": [
+      {
+        "year": 2000,
+        "population": "82.9M",
+        "hospitals": "105",
+        "schools": "5000",
+        "economy": "₹48,000 crore"
+      },
+      {
+        "year": 2001,
+        "population": "83.7M",
+        "hospitals": "110",
+        "schools": "5100",
+        "economy": "₹51,000 crore"
+      },
+      {
+        "year": 2002,
+        "population": "84.5M",
+        "hospitals": "115",
+        "schools": "5200",
+        "economy": "₹54,000 crore"
+      },
+      {
+        "year": 2003,
+        "population": "85.3M",
+        "hospitals": "120",
+        "schools": "5300",
+        "economy": "₹57,000 crore"
+      },
+      {
+        "year": 2004,
+        "population": "86.1M",
+        "hospitals": "125",
+        "schools": "5400",
+        "economy": "₹60,000 crore"
+      },
+      {
+        "year": 2005,
+        "population": "86.9M",
+        "hospitals": "130",
+        "schools": "5500",
+        "economy": "₹63,000 crore"
+      },
+      {
+        "year": 2006,
+        "population": "87.7M",
+        "hospitals": "135",
+        "schools": "5600",
+        "economy": "₹66,000 crore"
+      },
+      {
+        "year": 2007,
+        "population": "88.5M",
+        "hospitals": "140",
+        "schools": "5700",
+        "economy": "₹69,000 crore"
+      },
+      {
+        "year": 2008,
+        "population": "89.3M",
+        "hospitals": "145",
+        "schools": "5800",
+        "economy": "₹72,000 crore"
+      },
+      {
+        "year": 2009,
+        "population": "90.1M",
+        "hospitals": "150",
+        "schools": "5900",
+        "economy": "₹75,000 crore"
+      },
+      {
+        "year": 2010,
+        "population": "90.9M",
+        "hospitals": "155",
+        "schools": "6000",
+        "economy": "₹79,000 crore"
+      },
+      {
+        "year": 2011,
+        "population": "91.7M",
+        "hospitals": "160",
+        "schools": "6100",
+        "economy": "₹83,000 crore"
+      },
+      {
+        "year": 2012,
+        "population": "92.5M",
+        "hospitals": "165",
+        "schools": "6200",
+        "economy": "₹87,000 crore"
+      },
+      {
+        "year": 2013,
+        "population": "93.3M",
+        "hospitals": "170",
+        "schools": "6300",
+        "economy": "₹91,000 crore"
+      },
+      {
+        "year": 2014,
+        "population": "94.1M",
+        "hospitals": "175",
+        "schools": "6400",
+        "economy": "₹95,000 crore"
+      },
+      {
+        "year": 2015,
+        "population": "94.9M",
+        "hospitals": "180",
+        "schools": "6500",
+        "economy": "₹99,000 crore"
+      },
+      {
+        "year": 2016,
+        "population": "95.7M",
+        "hospitals": "185",
+        "schools": "6600",
+        "economy": "₹103,000 crore"
+      },
+      {
+        "year": 2017,
+        "population": "96.5M",
+        "hospitals": "190",
+        "schools": "6700",
+        "economy": "₹108,000 crore"
+      },
+      {
+        "year": 2018,
+        "population": "97.3M",
+        "hospitals": "195",
+        "schools": "6800",
+        "economy": "₹113,000 crore"
+      },
+      {
+        "year": 2019,
+        "population": "98.1M",
+        "hospitals": "200",
+        "schools": "6900",
+        "economy": "₹118,000 crore"
+      },
+      {
+        "year": 2020,
+        "population": "98.9M",
+        "hospitals": "205",
+        "schools": "7000",
+        "economy": "₹122,000 crore"
+      },
+      {
+        "year": 2021,
+        "population": "99.7M",
+        "hospitals": "210",
+        "schools": "7100",
+        "economy": "₹127,000 crore"
+      },
+      {
+        "year": 2022,
+        "population": "100.5M",
+        "hospitals": "215",
+        "schools": "7200",
+        "economy": "₹132,000 crore"
+      },
+      {
+        "year": 2023,
+        "population": "101.3M",
+        "hospitals": "220",
+        "schools": "7300",
+        "economy": "₹137,000 crore"
+      }
+    ],
+    "information": {
+      "famous_for": "Bihar is known for its rich cultural heritage, historical significance, and ancient sites like Nalanda University. The state is also famous for its distinct cuisine, including dishes like Litti Chokha and Sattu.",
+      "nickname": "The Cradle of Indian Civilization",
+      "additional_info": "Bihar has a long history, being home to important ancient kingdoms such as the Maurya Empire and Gupta Empire. The state has also contributed significantly to literature, education, and politics."
+    },
+    "image": {
+      "state_image": "./images/bihar.png"
+    }
+  },
+  {
+    "state": "Chhattisgarh",
+    "data": [
+      {
+        "year": 2000,
+        "population": "20.0M",
+        "hospitals": "90",
+        "schools": "3000",
+        "economy": "₹24,000 crore"
+      },
+      {
+        "year": 2001,
+        "population": "20.5M",
+        "hospitals": "95",
+        "schools": "3100",
+        "economy": "₹25,920 crore"
+      },
+      {
+        "year": 2002,
+        "population": "21.0M",
+        "hospitals": "100",
+        "schools": "3200",
+        "economy": "₹27,993 crore"
+      },
+      {
+        "year": 2003,
+        "population": "21.5M",
+        "hospitals": "105",
+        "schools": "3300",
+        "economy": "₹30,232 crore"
+      },
+      {
+        "year": 2004,
+        "population": "22.0M",
+        "hospitals": "110",
+        "schools": "3400",
+        "economy": "₹32,651 crore"
+      },
+      {
+        "year": 2005,
+        "population": "22.5M",
+        "hospitals": "115",
+        "schools": "3500",
+        "economy": "₹35,263 crore"
+      },
+      {
+        "year": 2006,
+        "population": "23.0M",
+        "hospitals": "120",
+        "schools": "3600",
+        "economy": "₹38,083 crore"
+      },
+      {
+        "year": 2007,
+        "population": "23.5M",
+        "hospitals": "125",
+        "schools": "3700",
+        "economy": "₹41,130 crore"
+      },
+      {
+        "year": 2008,
+        "population": "24.0M",
+        "hospitals": "130",
+        "schools": "3800",
+        "economy": "₹44,421 crore"
+      },
+      {
+        "year": 2009,
+        "population": "24.5M",
+        "hospitals": "135",
+        "schools": "3900",
+        "economy": "₹47,975 crore"
+      },
+      {
+        "year": 2010,
+        "population": "25.0M",
+        "hospitals": "140",
+        "schools": "4000",
+        "economy": "₹51,813 crore"
+      },
+      {
+        "year": 2011,
+        "population": "25.5M",
+        "hospitals": "145",
+        "schools": "4100",
+        "economy": "₹56,000 crore"
+      },
+      {
+        "year": 2012,
+        "population": "26.0M",
+        "hospitals": "150",
+        "schools": "4200",
+        "economy": "₹60,480 crore"
+      },
+      {
+        "year": 2013,
+        "population": "26.5M",
+        "hospitals": "155",
+        "schools": "4300",
+        "economy": "₹65,318 crore"
+      },
+      {
+        "year": 2014,
+        "population": "27.0M",
+        "hospitals": "160",
+        "schools": "4400",
+        "economy": "₹70,543 crore"
+      },
+      {
+        "year": 2015,
+        "population": "27.5M",
+        "hospitals": "165",
+        "schools": "4500",
+        "economy": "₹76,186 crore"
+      },
+      {
+        "year": 2016,
+        "population": "28.0M",
+        "hospitals": "170",
+        "schools": "4600",
+        "economy": "₹82,281 crore"
+      },
+      {
+        "year": 2017,
+        "population": "28.5M",
+        "hospitals": "175",
+        "schools": "4700",
+        "economy": "₹88,862 crore"
+      },
+      {
+        "year": 2018,
+        "population": "29.0M",
+        "hospitals": "180",
+        "schools": "4800",
+        "economy": "₹95,971 crore"
+      },
+      {
+        "year": 2019,
+        "population": "29.5M",
+        "hospitals": "185",
+        "schools": "4900",
+        "economy": "₹103,648 crore"
+      },
+      {
+        "year": 2020,
+        "population": "30.0M",
+        "hospitals": "190",
+        "schools": "5000",
+        "economy": "₹111,940 crore"
+      },
+      {
+        "year": 2021,
+        "population": "30.5M",
+        "hospitals": "195",
+        "schools": "5100",
+        "economy": "₹120,895 crore"
+      },
+      {
+        "year": 2022,
+        "population": "31.0M",
+        "hospitals": "200",
+        "schools": "5200",
+        "economy": "₹130,566 crore"
+      },
+      {
+        "year": 2023,
+        "population": "31.5M",
+        "hospitals": "205",
+        "schools": "5300",
+        "economy": "₹141,011 crore"
+      }
+    ],
+    "information": {
+      "famous_for": "Chhattisgarh is known for its natural beauty, rich cultural heritage, and the abundance of mineral resources. The state is also famous for its tribal communities and their traditions.",
+      "nickname": "The Rice Bowl of India",
+      "additional_info": "Chhattisgarh was formed in 2000 after separating from Madhya Pradesh. It is known for its vibrant dance forms like the Panthi and Raut Nacha, as well as its role in the mining and steel industries."
+    },
+    "image": {
+      "state_image": "./images/chhattisgarh.png"
+    }
+  },  
+  {
+    "state": "Goa",
+    "data": [
+      {
+        "year": 2000,
+        "population": "1.4M",
+        "hospitals": "15",
+        "schools": "800",
+        "economy": "₹7,000 crore"
+      },
+      {
+        "year": 2001,
+        "population": "1.5M",
+        "hospitals": "15",
+        "schools": "820",
+        "economy": "₹7,500 crore"
+      },
+      {
+        "year": 2002,
+        "population": "1.5M",
+        "hospitals": "15",
+        "schools": "840",
+        "economy": "₹8,000 crore"
+      },
+      {
+        "year": 2003,
+        "population": "1.6M",
+        "hospitals": "16",
+        "schools": "860",
+        "economy": "₹8,500 crore"
+      },
+      {
+        "year": 2004,
+        "population": "1.6M",
+        "hospitals": "16",
+        "schools": "880",
+        "economy": "₹9,000 crore"
+      },
+      {
+        "year": 2005,
+        "population": "1.6M",
+        "hospitals": "16",
+        "schools": "900",
+        "economy": "₹9,500 crore"
+      },
+      {
+        "year": 2006,
+        "population": "1.7M",
+        "hospitals": "17",
+        "schools": "920",
+        "economy": "₹10,000 crore"
+      },
+      {
+        "year": 2007,
+        "population": "1.7M",
+        "hospitals": "17",
+        "schools": "940",
+        "economy": "₹10,500 crore"
+      },
+      {
+        "year": 2008,
+        "population": "1.7M",
+        "hospitals": "17",
+        "schools": "960",
+        "economy": "₹11,000 crore"
+      },
+      {
+        "year": 2009,
+        "population": "1.8M",
+        "hospitals": "18",
+        "schools": "980",
+        "economy": "₹11,500 crore"
+      },
+      {
+        "year": 2010,
+        "population": "1.8M",
+        "hospitals": "18",
+        "schools": "1000",
+        "economy": "₹12,000 crore"
+      },
+      {
+        "year": 2011,
+        "population": "1.8M",
+        "hospitals": "18",
+        "schools": "1020",
+        "economy": "₹12,500 crore"
+      },
+      {
+        "year": 2012,
+        "population": "1.9M",
+        "hospitals": "19",
+        "schools": "1040",
+        "economy": "₹13,000 crore"
+      },
+      {
+        "year": 2013,
+        "population": "1.9M",
+        "hospitals": "19",
+        "schools": "1060",
+        "economy": "₹13,500 crore"
+      },
+      {
+        "year": 2014,
+        "population": "1.9M",
+        "hospitals": "19",
+        "schools": "1080",
+        "economy": "₹14,000 crore"
+      },
+      {
+        "year": 2015,
+        "population": "2.0M",
+        "hospitals": "20",
+        "schools": "1100",
+        "economy": "₹14,500 crore"
+      },
+      {
+        "year": 2016,
+        "population": "2.0M",
+        "hospitals": "20",
+        "schools": "1120",
+        "economy": "₹15,000 crore"
+      },
+      {
+        "year": 2017,
+        "population": "2.0M",
+        "hospitals": "20",
+        "schools": "1140",
+        "economy": "₹15,500 crore"
+      },
+      {
+        "year": 2018,
+        "population": "2.1M",
+        "hospitals": "21",
+        "schools": "1160",
+        "economy": "₹16,000 crore"
+      },
+      {
+        "year": 2019,
+        "population": "2.1M",
+        "hospitals": "21",
+        "schools": "1180",
+        "economy": "₹16,500 crore"
+      },
+      {
+        "year": 2020,
+        "population": "2.1M",
+        "hospitals": "21",
+        "schools": "1200",
+        "economy": "₹17,000 crore"
+      },
+      {
+        "year": 2021,
+        "population": "2.2M",
+        "hospitals": "22",
+        "schools": "1220",
+        "economy": "₹17,500 crore"
+      },
+      {
+        "year": 2022,
+        "population": "2.2M",
+        "hospitals": "22",
+        "schools": "1240",
+        "economy": "₹18,000 crore"
+      },
+      {
+        "year": 2023,
+        "population": "2.2M",
+        "hospitals": "22",
+        "schools": "1260",
+        "economy": "₹18,500 crore"
+      }
+    ],
+    "information": {
+      "famous_for": "Goa is known for its stunning beaches, vibrant nightlife, Portuguese heritage, and rich history. It is also famous for its seafood and spice plantations.",
+      "nickname": "The Pearl of the East",
+      "additional_info": "Goa is India's smallest state by area, and it attracts millions of tourists annually for its beaches, churches, and festivals. The state's economy is largely based on tourism, mining, and agriculture."
+    },
+    "image": {
+      "state_image": "./images/goa.png"
+    }
+  },
+  {
+    "state": "Gujarat",
+    "data": [
+      {
+        "year": 2000,
+        "population": "50.7M",
+        "hospitals": "300",
+        "schools": "10000",
+        "economy": "₹2,50,000 crore"
+      },
+      {
+        "year": 2001,
+        "population": "51.2M",
+        "hospitals": "305",
+        "schools": "10200",
+        "economy": "₹2,70,000 crore"
+      },
+      {
+        "year": 2002,
+        "population": "51.7M",
+        "hospitals": "310",
+        "schools": "10400",
+        "economy": "₹2,90,000 crore"
+      },
+      {
+        "year": 2003,
+        "population": "52.2M",
+        "hospitals": "315",
+        "schools": "10600",
+        "economy": "₹3,10,000 crore"
+      },
+      {
+        "year": 2004,
+        "population": "52.7M",
+        "hospitals": "320",
+        "schools": "10800",
+        "economy": "₹3,30,000 crore"
+      },
+      {
+        "year": 2005,
+        "population": "53.2M",
+        "hospitals": "325",
+        "schools": "11000",
+        "economy": "₹3,50,000 crore"
+      },
+      {
+        "year": 2006,
+        "population": "53.7M",
+        "hospitals": "330",
+        "schools": "11200",
+        "economy": "₹3,70,000 crore"
+      },
+      {
+        "year": 2007,
+        "population": "54.2M",
+        "hospitals": "335",
+        "schools": "11400",
+        "economy": "₹3,90,000 crore"
+      },
+      {
+        "year": 2008,
+        "population": "54.7M",
+        "hospitals": "340",
+        "schools": "11600",
+        "economy": "₹4,10,000 crore"
+      },
+      {
+        "year": 2009,
+        "population": "55.2M",
+        "hospitals": "345",
+        "schools": "11800",
+        "economy": "₹4,30,000 crore"
+      },
+      {
+        "year": 2010,
+        "population": "55.7M",
+        "hospitals": "350",
+        "schools": "12000",
+        "economy": "₹4,50,000 crore"
+      },
+      {
+        "year": 2011,
+        "population": "56.2M",
+        "hospitals": "355",
+        "schools": "12200",
+        "economy": "₹4,70,000 crore"
+      },
+      {
+        "year": 2012,
+        "population": "56.7M",
+        "hospitals": "360",
+        "schools": "12400",
+        "economy": "₹4,90,000 crore"
+      },
+      {
+        "year": 2013,
+        "population": "57.2M",
+        "hospitals": "365",
+        "schools": "12600",
+        "economy": "₹5,10,000 crore"
+      },
+      {
+        "year": 2014,
+        "population": "57.7M",
+        "hospitals": "370",
+        "schools": "12800",
+        "economy": "₹5,30,000 crore"
+      },
+      {
+        "year": 2015,
+        "population": "58.2M",
+        "hospitals": "375",
+        "schools": "13000",
+        "economy": "₹5,50,000 crore"
+      },
+      {
+        "year": 2016,
+        "population": "58.7M",
+        "hospitals": "380",
+        "schools": "13200",
+        "economy": "₹5,80,000 crore"
+      },
+      {
+        "year": 2017,
+        "population": "59.2M",
+        "hospitals": "385",
+        "schools": "13400",
+        "economy": "₹6,10,000 crore"
+      },
+      {
+        "year": 2018,
+        "population": "59.7M",
+        "hospitals": "390",
+        "schools": "13600",
+        "economy": "₹6,40,000 crore"
+      },
+      {
+        "year": 2019,
+        "population": "60.2M",
+        "hospitals": "395",
+        "schools": "13800",
+        "economy": "₹6,70,000 crore"
+      },
+      {
+        "year": 2020,
+        "population": "60.7M",
+        "hospitals": "400",
+        "schools": "14000",
+        "economy": "₹7,00,000 crore"
+      },
+      {
+        "year": 2021,
+        "population": "61.2M",
+        "hospitals": "405",
+        "schools": "14200",
+        "economy": "₹7,30,000 crore"
+      },
+      {
+        "year": 2022,
+        "population": "61.7M",
+        "hospitals": "410",
+        "schools": "14400",
+        "economy": "₹7,60,000 crore"
+      },
+      {
+        "year": 2023,
+        "population": "62.2M",
+        "hospitals": "415",
+        "schools": "14600",
+        "economy": "₹7,90,000 crore"
+      }
+    ],
+    "information": {
+      "famous_for": "Gujarat is known for its rich cultural heritage, textile industry, tourism, and being the birthplace of Mahatma Gandhi. The state is also renowned for its vibrant festivals such as Navratri.",
+      "nickname": "The Land of the Lions",
+      "additional_info": "Gujarat is one of India's fastest-growing states and plays a pivotal role in the country's economy. It is known for its thriving industries, including petrochemicals, engineering, and diamond polishing."
+    },
+    "image": {
+      "state_image": "./images/gujarat.png"
+    }
+  },
+  {
+    "state": "Haryana",
+    "data": [
+      {
+        "year": 2000,
+        "population": "21.1M",
+        "hospitals": "100",
+        "schools": "4000",
+        "economy": "₹1,20,000 crore"
+      },
+      {
+        "year": 2001,
+        "population": "21.6M",
+        "hospitals": "105",
+        "schools": "4100",
+        "economy": "₹1,30,000 crore"
+      },
+      {
+        "year": 2002,
+        "population": "22.1M",
+        "hospitals": "110",
+        "schools": "4200",
+        "economy": "₹1,40,000 crore"
+      },
+      {
+        "year": 2003,
+        "population": "22.6M",
+        "hospitals": "115",
+        "schools": "4300",
+        "economy": "₹1,50,000 crore"
+      },
+      {
+        "year": 2004,
+        "population": "23.1M",
+        "hospitals": "120",
+        "schools": "4400",
+        "economy": "₹1,60,000 crore"
+      },
+      {
+        "year": 2005,
+        "population": "23.6M",
+        "hospitals": "125",
+        "schools": "4500",
+        "economy": "₹1,70,000 crore"
+      },
+      {
+        "year": 2006,
+        "population": "24.1M",
+        "hospitals": "130",
+        "schools": "4600",
+        "economy": "₹1,80,000 crore"
+      },
+      {
+        "year": 2007,
+        "population": "24.6M",
+        "hospitals": "135",
+        "schools": "4700",
+        "economy": "₹1,90,000 crore"
+      },
+      {
+        "year": 2008,
+        "population": "25.1M",
+        "hospitals": "140",
+        "schools": "4800",
+        "economy": "₹2,00,000 crore"
+      },
+      {
+        "year": 2009,
+        "population": "25.6M",
+        "hospitals": "145",
+        "schools": "4900",
+        "economy": "₹2,10,000 crore"
+      },
+      {
+        "year": 2010,
+        "population": "26.1M",
+        "hospitals": "150",
+        "schools": "5000",
+        "economy": "₹2,20,000 crore"
+      },
+      {
+        "year": 2011,
+        "population": "26.6M",
+        "hospitals": "155",
+        "schools": "5100",
+        "economy": "₹2,30,000 crore"
+      },
+      {
+        "year": 2012,
+        "population": "27.1M",
+        "hospitals": "160",
+        "schools": "5200",
+        "economy": "₹2,40,000 crore"
+      },
+      {
+        "year": 2013,
+        "population": "27.6M",
+        "hospitals": "165",
+        "schools": "5300",
+        "economy": "₹2,50,000 crore"
+      },
+      {
+        "year": 2014,
+        "population": "28.1M",
+        "hospitals": "170",
+        "schools": "5400",
+        "economy": "₹2,60,000 crore"
+      },
+      {
+        "year": 2015,
+        "population": "28.6M",
+        "hospitals": "175",
+        "schools": "5500",
+        "economy": "₹2,70,000 crore"
+      },
+      {
+        "year": 2016,
+        "population": "29.1M",
+        "hospitals": "180",
+        "schools": "5600",
+        "economy": "₹2,80,000 crore"
+      },
+      {
+        "year": 2017,
+        "population": "29.6M",
+        "hospitals": "185",
+        "schools": "5700",
+        "economy": "₹2,90,000 crore"
+      },
+      {
+        "year": 2018,
+        "population": "30.1M",
+        "hospitals": "190",
+        "schools": "5800",
+        "economy": "₹3,00,000 crore"
+      },
+      {
+        "year": 2019,
+        "population": "30.6M",
+        "hospitals": "195",
+        "schools": "5900",
+        "economy": "₹3,10,000 crore"
+      },
+      {
+        "year": 2020,
+        "population": "31.1M",
+        "hospitals": "200",
+        "schools": "6000",
+        "economy": "₹3,20,000 crore"
+      },
+      {
+        "year": 2021,
+        "population": "31.6M",
+        "hospitals": "205",
+        "schools": "6100",
+        "economy": "₹3,30,000 crore"
+      },
+      {
+        "year": 2022,
+        "population": "32.1M",
+        "hospitals": "210",
+        "schools": "6200",
+        "economy": "₹3,40,000 crore"
+      },
+      {
+        "year": 2023,
+        "population": "32.6M",
+        "hospitals": "215",
+        "schools": "6300",
+        "economy": "₹3,50,000 crore"
+      }
+    ],
+    "information": {
+      "famous_for": "Haryana is known for its agriculture, particularly its production of wheat, rice, and milk. It is also famous for its robust industrial sector and its contribution to the Indian economy.",
+      "nickname": "The Green Land of India",
+      "additional_info": "Haryana is an important agricultural state and plays a key role in the nation's food security. It has a high literacy rate and boasts numerous prestigious educational institutions."
+    },
+    "image": {
+      "state_image": "./images/haryana.png"
+    }
+  },
+  {
+    "state": "Himachal Pradesh",
+    "data": [
+      {
+        "year": 2000,
+        "population": "6.1M",
+        "hospitals": "30",
+        "schools": "1200",
+        "economy": "₹30,000 crore"
+      },
+      {
+        "year": 2001,
+        "population": "6.2M",
+        "hospitals": "31",
+        "schools": "1220",
+        "economy": "₹32,000 crore"
+      },
+      {
+        "year": 2002,
+        "population": "6.3M",
+        "hospitals": "32",
+        "schools": "1240",
+        "economy": "₹34,000 crore"
+      },
+      {
+        "year": 2003,
+        "population": "6.4M",
+        "hospitals": "33",
+        "schools": "1260",
+        "economy": "₹36,000 crore"
+      },
+      {
+        "year": 2004,
+        "population": "6.5M",
+        "hospitals": "34",
+        "schools": "1280",
+        "economy": "₹38,000 crore"
+      },
+      {
+        "year": 2005,
+        "population": "6.6M",
+        "hospitals": "35",
+        "schools": "1300",
+        "economy": "₹40,000 crore"
+      },
+      {
+        "year": 2006,
+        "population": "6.7M",
+        "hospitals": "36",
+        "schools": "1320",
+        "economy": "₹42,000 crore"
+      },
+      {
+        "year": 2007,
+        "population": "6.8M",
+        "hospitals": "37",
+        "schools": "1340",
+        "economy": "₹44,000 crore"
+      },
+      {
+        "year": 2008,
+        "population": "6.9M",
+        "hospitals": "38",
+        "schools": "1360",
+        "economy": "₹46,000 crore"
+      },
+      {
+        "year": 2009,
+        "population": "7.0M",
+        "hospitals": "39",
+        "schools": "1380",
+        "economy": "₹48,000 crore"
+      },
+      {
+        "year": 2010,
+        "population": "7.1M",
+        "hospitals": "40",
+        "schools": "1400",
+        "economy": "₹50,000 crore"
+      },
+      {
+        "year": 2011,
+        "population": "7.2M",
+        "hospitals": "41",
+        "schools": "1420",
+        "economy": "₹52,000 crore"
+      },
+      {
+        "year": 2012,
+        "population": "7.3M",
+        "hospitals": "42",
+        "schools": "1440",
+        "economy": "₹54,000 crore"
+      },
+      {
+        "year": 2013,
+        "population": "7.4M",
+        "hospitals": "43",
+        "schools": "1460",
+        "economy": "₹56,000 crore"
+      },
+      {
+        "year": 2014,
+        "population": "7.5M",
+        "hospitals": "44",
+        "schools": "1480",
+        "economy": "₹58,000 crore"
+      },
+      {
+        "year": 2015,
+        "population": "7.6M",
+        "hospitals": "45",
+        "schools": "1500",
+        "economy": "₹60,000 crore"
+      },
+      {
+        "year": 2016,
+        "population": "7.7M",
+        "hospitals": "46",
+        "schools": "1520",
+        "economy": "₹62,000 crore"
+      },
+      {
+        "year": 2017,
+        "population": "7.8M",
+        "hospitals": "47",
+        "schools": "1540",
+        "economy": "₹64,000 crore"
+      },
+      {
+        "year": 2018,
+        "population": "7.9M",
+        "hospitals": "48",
+        "schools": "1560",
+        "economy": "₹66,000 crore"
+      },
+      {
+        "year": 2019,
+        "population": "8.0M",
+        "hospitals": "49",
+        "schools": "1580",
+        "economy": "₹68,000 crore"
+      },
+      {
+        "year": 2020,
+        "population": "8.1M",
+        "hospitals": "50",
+        "schools": "1600",
+        "economy": "₹70,000 crore"
+      },
+      {
+        "year": 2021,
+        "population": "8.2M",
+        "hospitals": "51",
+        "schools": "1620",
+        "economy": "₹72,000 crore"
+      },
+      {
+        "year": 2022,
+        "population": "8.3M",
+        "hospitals": "52",
+        "schools": "1640",
+        "economy": "₹74,000 crore"
+      },
+      {
+        "year": 2023,
+        "population": "8.4M",
+        "hospitals": "53",
+        "schools": "1660",
+        "economy": "₹76,000 crore"
+      }
+    ],
+    "information": {
+      "famous_for": "Himachal Pradesh is famous for its scenic beauty, including the Himalayan range, and is known for its tourism, agriculture, and hydropower production.",
+      "nickname": "The Land of Snow",
+      "additional_info": "The state is a major producer of apples, and its economy relies heavily on tourism, horticulture, and hydropower industries."
+    },
+    "image": {
+      "state_image": "./images/himachal pradesh.png"
+    }
+  },
+  {
+    "state": "Jammu and Kashmir",
+    "data": [
+      {
+        "year": 2000,
+        "population": "10.0M",
+        "hospitals": "200",
+        "schools": "7000",
+        "economy": "₹60,000 crore"
+      },
+      {
+        "year": 2001,
+        "population": "10.5M",
+        "hospitals": "210",
+        "schools": "7100",
+        "economy": "₹62,000 crore"
+      },
+      {
+        "year": 2002,
+        "population": "11.0M",
+        "hospitals": "220",
+        "schools": "7200",
+        "economy": "₹64,000 crore"
+      },
+      {
+        "year": 2003,
+        "population": "11.5M",
+        "hospitals": "230",
+        "schools": "7300",
+        "economy": "₹66,000 crore"
+      },
+      {
+        "year": 2004,
+        "population": "12.0M",
+        "hospitals": "240",
+        "schools": "7400",
+        "economy": "₹68,000 crore"
+      },
+      {
+        "year": 2005,
+        "population": "12.5M",
+        "hospitals": "250",
+        "schools": "7500",
+        "economy": "₹70,000 crore"
+      },
+      {
+        "year": 2006,
+        "population": "13.0M",
+        "hospitals": "260",
+        "schools": "7600",
+        "economy": "₹72,000 crore"
+      },
+      {
+        "year": 2007,
+        "population": "13.5M",
+        "hospitals": "270",
+        "schools": "7700",
+        "economy": "₹74,000 crore"
+      },
+      {
+        "year": 2008,
+        "population": "14.0M",
+        "hospitals": "280",
+        "schools": "7800",
+        "economy": "₹76,000 crore"
+      },
+      {
+        "year": 2009,
+        "population": "14.5M",
+        "hospitals": "290",
+        "schools": "7900",
+        "economy": "₹78,000 crore"
+      },
+      {
+        "year": 2010,
+        "population": "15.0M",
+        "hospitals": "300",
+        "schools": "8000",
+        "economy": "₹80,000 crore"
+      },
+      {
+        "year": 2011,
+        "population": "15.5M",
+        "hospitals": "310",
+        "schools": "8100",
+        "economy": "₹82,000 crore"
+      },
+      {
+        "year": 2012,
+        "population": "16.0M",
+        "hospitals": "320",
+        "schools": "8200",
+        "economy": "₹84,000 crore"
+      },
+      {
+        "year": 2013,
+        "population": "16.5M",
+        "hospitals": "330",
+        "schools": "8300",
+        "economy": "₹86,000 crore"
+      },
+      {
+        "year": 2014,
+        "population": "17.0M",
+        "hospitals": "340",
+        "schools": "8400",
+        "economy": "₹88,000 crore"
+      },
+      {
+        "year": 2015,
+        "population": "17.5M",
+        "hospitals": "350",
+        "schools": "8500",
+        "economy": "₹90,000 crore"
+      },
+      {
+        "year": 2016,
+        "population": "18.0M",
+        "hospitals": "360",
+        "schools": "8600",
+        "economy": "₹92,000 crore"
+      },
+      {
+        "year": 2017,
+        "population": "18.5M",
+        "hospitals": "370",
+        "schools": "8700",
+        "economy": "₹94,000 crore"
+      },
+      {
+        "year": 2018,
+        "population": "19.0M",
+        "hospitals": "380",
+        "schools": "8800",
+        "economy": "₹96,000 crore"
+      },
+      {
+        "year": 2019,
+        "population": "19.5M",
+        "hospitals": "390",
+        "schools": "8900",
+        "economy": "₹98,000 crore"
+      },
+      {
+        "year": 2020,
+        "population": "20.0M",
+        "hospitals": "400",
+        "schools": "9000",
+        "economy": "₹1,00,000 crore"
+      },
+      {
+        "year": 2021,
+        "population": "20.5M",
+        "hospitals": "410",
+        "schools": "9100",
+        "economy": "₹1,02,000 crore"
+      },
+      {
+        "year": 2022,
+        "population": "21.0M",
+        "hospitals": "420",
+        "schools": "9200",
+        "economy": "₹1,04,000 crore"
+      },
+      {
+        "year": 2023,
+        "population": "21.5M",
+        "hospitals": "430",
+        "schools": "9300",
+        "economy": "₹1,06,000 crore"
+      }
+    ],
+    "information": {
+      "famous_for": "Jammu and Kashmir is famous for its natural beauty, including the Dal Lake, snow-capped mountains, and vibrant culture. It is a major tourist destination.",
+      "nickname": "The Paradise on Earth",
+      "additional_info": "The state's economy relies on agriculture (especially saffron and apples), tourism, and handicrafts like Pashmina wool and carpets."
+    },
+    "image": {
+      "state_image": "./images/jammu and kashmir.png"
+    }
+  },
+  {
+    "state": "Jharkhand",
+    "data": [
+      {
+        "year": 2000,
+        "population": "26.0M",
+        "hospitals": "150",
+        "schools": "5500",
+        "economy": "₹85,000 crore"
+      },
+      {
+        "year": 2001,
+        "population": "26.5M",
+        "hospitals": "155",
+        "schools": "5600",
+        "economy": "₹87,000 crore"
+      },
+      {
+        "year": 2002,
+        "population": "27.0M",
+        "hospitals": "160",
+        "schools": "5700",
+        "economy": "₹89,000 crore"
+      },
+      {
+        "year": 2003,
+        "population": "27.5M",
+        "hospitals": "165",
+        "schools": "5800",
+        "economy": "₹91,000 crore"
+      },
+      {
+        "year": 2004,
+        "population": "28.0M",
+        "hospitals": "170",
+        "schools": "5900",
+        "economy": "₹93,000 crore"
+      },
+      {
+        "year": 2005,
+        "population": "28.5M",
+        "hospitals": "175",
+        "schools": "6000",
+        "economy": "₹95,000 crore"
+      },
+      {
+        "year": 2006,
+        "population": "29.0M",
+        "hospitals": "180",
+        "schools": "6100",
+        "economy": "₹97,000 crore"
+      },
+      {
+        "year": 2007,
+        "population": "29.5M",
+        "hospitals": "185",
+        "schools": "6200",
+        "economy": "₹99,000 crore"
+      },
+      {
+        "year": 2008,
+        "population": "30.0M",
+        "hospitals": "190",
+        "schools": "6300",
+        "economy": "₹1,01,000 crore"
+      },
+      {
+        "year": 2009,
+        "population": "30.5M",
+        "hospitals": "195",
+        "schools": "6400",
+        "economy": "₹1,03,000 crore"
+      },
+      {
+        "year": 2010,
+        "population": "31.0M",
+        "hospitals": "200",
+        "schools": "6500",
+        "economy": "₹1,05,000 crore"
+      },
+      {
+        "year": 2011,
+        "population": "31.5M",
+        "hospitals": "205",
+        "schools": "6600",
+        "economy": "₹1,07,000 crore"
+      },
+      {
+        "year": 2012,
+        "population": "32.0M",
+        "hospitals": "210",
+        "schools": "6700",
+        "economy": "₹1,09,000 crore"
+      },
+      {
+        "year": 2013,
+        "population": "32.5M",
+        "hospitals": "215",
+        "schools": "6800",
+        "economy": "₹1,11,000 crore"
+      },
+      {
+        "year": 2014,
+        "population": "33.0M",
+        "hospitals": "220",
+        "schools": "6900",
+        "economy": "₹1,13,000 crore"
+      },
+      {
+        "year": 2015,
+        "population": "33.5M",
+        "hospitals": "225",
+        "schools": "7000",
+        "economy": "₹1,15,000 crore"
+      },
+      {
+        "year": 2016,
+        "population": "34.0M",
+        "hospitals": "230",
+        "schools": "7100",
+        "economy": "₹1,17,000 crore"
+      },
+      {
+        "year": 2017,
+        "population": "34.5M",
+        "hospitals": "235",
+        "schools": "7200",
+        "economy": "₹1,19,000 crore"
+      },
+      {
+        "year": 2018,
+        "population": "35.0M",
+        "hospitals": "240",
+        "schools": "7300",
+        "economy": "₹1,21,000 crore"
+      },
+      {
+        "year": 2019,
+        "population": "35.5M",
+        "hospitals": "245",
+        "schools": "7400",
+        "economy": "₹1,23,000 crore"
+      },
+      {
+        "year": 2020,
+        "population": "36.0M",
+        "hospitals": "250",
+        "schools": "7500",
+        "economy": "₹1,25,000 crore"
+      },
+      {
+        "year": 2021,
+        "population": "36.5M",
+        "hospitals": "255",
+        "schools": "7600",
+        "economy": "₹1,27,000 crore"
+      },
+      {
+        "year": 2022,
+        "population": "37.0M",
+        "hospitals": "260",
+        "schools": "7700",
+        "economy": "₹1,29,000 crore"
+      },
+      {
+        "year": 2023,
+        "population": "37.5M",
+        "hospitals": "265",
+        "schools": "7800",
+        "economy": "₹1,31,000 crore"
+      }
+    ],
+    "information": {
+      "famous_for": "Jharkhand is known for its rich mineral resources, including coal and iron ore, as well as for its scenic beauty and tribal culture.",
+      "nickname": "The Land of Forests",
+      "additional_info": "The state's economy is heavily driven by mining, manufacturing, and agriculture, with a focus on iron, steel, and power generation industries."
+    },
+    "image": {
+      "state_image": "./images/jharkhand.png"
+    }
+  },
+  {
+    "state": "Karnataka",
+    "data": [
+      {
+        "year": 2000,
+        "population": "52.0M",
+        "hospitals": "500",
+        "schools": "20000",
+        "economy": "₹2,00,000 crore"
+      },
+      {
+        "year": 2001,
+        "population": "52.5M",
+        "hospitals": "510",
+        "schools": "20500",
+        "economy": "₹2,05,000 crore"
+      },
+      {
+        "year": 2002,
+        "population": "53.0M",
+        "hospitals": "520",
+        "schools": "21000",
+        "economy": "₹2,10,000 crore"
+      },
+      {
+        "year": 2003,
+        "population": "53.5M",
+        "hospitals": "530",
+        "schools": "21500",
+        "economy": "₹2,15,000 crore"
+      },
+      {
+        "year": 2004,
+        "population": "54.0M",
+        "hospitals": "540",
+        "schools": "22000",
+        "economy": "₹2,20,000 crore"
+      },
+      {
+        "year": 2005,
+        "population": "54.5M",
+        "hospitals": "550",
+        "schools": "22500",
+        "economy": "₹2,25,000 crore"
+      },
+      {
+        "year": 2006,
+        "population": "55.0M",
+        "hospitals": "560",
+        "schools": "23000",
+        "economy": "₹2,30,000 crore"
+      },
+      {
+        "year": 2007,
+        "population": "55.5M",
+        "hospitals": "570",
+        "schools": "23500",
+        "economy": "₹2,35,000 crore"
+      },
+      {
+        "year": 2008,
+        "population": "56.0M",
+        "hospitals": "580",
+        "schools": "24000",
+        "economy": "₹2,40,000 crore"
+      },
+      {
+        "year": 2009,
+        "population": "56.5M",
+        "hospitals": "590",
+        "schools": "24500",
+        "economy": "₹2,45,000 crore"
+      },
+      {
+        "year": 2010,
+        "population": "57.0M",
+        "hospitals": "600",
+        "schools": "25000",
+        "economy": "₹2,50,000 crore"
+      },
+      {
+        "year": 2011,
+        "population": "57.5M",
+        "hospitals": "610",
+        "schools": "25500",
+        "economy": "₹2,55,000 crore"
+      },
+      {
+        "year": 2012,
+        "population": "58.0M",
+        "hospitals": "620",
+        "schools": "26000",
+        "economy": "₹2,60,000 crore"
+      },
+      {
+        "year": 2013,
+        "population": "58.5M",
+        "hospitals": "630",
+        "schools": "26500",
+        "economy": "₹2,65,000 crore"
+      },
+      {
+        "year": 2014,
+        "population": "59.0M",
+        "hospitals": "640",
+        "schools": "27000",
+        "economy": "₹2,70,000 crore"
+      },
+      {
+        "year": 2015,
+        "population": "59.5M",
+        "hospitals": "650",
+        "schools": "27500",
+        "economy": "₹2,75,000 crore"
+      },
+      {
+        "year": 2016,
+        "population": "60.0M",
+        "hospitals": "660",
+        "schools": "28000",
+        "economy": "₹2,80,000 crore"
+      },
+      {
+        "year": 2017,
+        "population": "60.5M",
+        "hospitals": "670",
+        "schools": "28500",
+        "economy": "₹2,85,000 crore"
+      },
+      {
+        "year": 2018,
+        "population": "61.0M",
+        "hospitals": "680",
+        "schools": "29000",
+        "economy": "₹2,90,000 crore"
+      },
+      {
+        "year": 2019,
+        "population": "61.5M",
+        "hospitals": "690",
+        "schools": "29500",
+        "economy": "₹2,95,000 crore"
+      },
+      {
+        "year": 2020,
+        "population": "62.0M",
+        "hospitals": "700",
+        "schools": "30000",
+        "economy": "₹3,00,000 crore"
+      },
+      {
+        "year": 2021,
+        "population": "62.5M",
+        "hospitals": "710",
+        "schools": "30500",
+        "economy": "₹3,05,000 crore"
+      },
+      {
+        "year": 2022,
+        "population": "63.0M",
+        "hospitals": "720",
+        "schools": "31000",
+        "economy": "₹3,10,000 crore"
+      },
+      {
+        "year": 2023,
+        "population": "63.5M",
+        "hospitals": "730",
+        "schools": "31500",
+        "economy": "₹3,15,000 crore"
+      }
+    ],
+    "information": {
+      "famous_for": "Karnataka is known for its rich cultural heritage, historic temples, and technological advancements, particularly in the city of Bangalore.",
+      "nickname": "The Silicon Valley of India",
+      "additional_info": "Karnataka is one of India's leading states in the fields of IT, biotechnology, and aerospace. Its economy is also supported by agriculture, especially in sectors like coffee and silk."
+    },
+    "image": {
+      "state_image": "./images/karnataka.png"
+    }
+  },
+  {
+    "state": "Kerala",
+    "data": [
+      {
+        "year": 2000,
+        "population": "33.4M",
+        "hospitals": "550",
+        "schools": "17000",
+        "economy": "₹1,50,000 crore"
+      },
+      {
+        "year": 2001,
+        "population": "33.9M",
+        "hospitals": "555",
+        "schools": "17100",
+        "economy": "₹1,55,000 crore"
+      },
+      {
+        "year": 2002,
+        "population": "34.4M",
+        "hospitals": "560",
+        "schools": "17200",
+        "economy": "₹1,60,000 crore"
+      },
+      {
+        "year": 2003,
+        "population": "34.9M",
+        "hospitals": "565",
+        "schools": "17300",
+        "economy": "₹1,65,000 crore"
+      },
+      {
+        "year": 2004,
+        "population": "35.4M",
+        "hospitals": "570",
+        "schools": "17400",
+        "economy": "₹1,70,000 crore"
+      },
+      {
+        "year": 2005,
+        "population": "35.9M",
+        "hospitals": "575",
+        "schools": "17500",
+        "economy": "₹1,75,000 crore"
+      },
+      {
+        "year": 2006,
+        "population": "36.4M",
+        "hospitals": "580",
+        "schools": "17600",
+        "economy": "₹1,80,000 crore"
+      },
+      {
+        "year": 2007,
+        "population": "36.9M",
+        "hospitals": "585",
+        "schools": "17700",
+        "economy": "₹1,85,000 crore"
+      },
+      {
+        "year": 2008,
+        "population": "37.4M",
+        "hospitals": "590",
+        "schools": "17800",
+        "economy": "₹1,90,000 crore"
+      },
+      {
+        "year": 2009,
+        "population": "37.9M",
+        "hospitals": "595",
+        "schools": "17900",
+        "economy": "₹1,95,000 crore"
+      },
+      {
+        "year": 2010,
+        "population": "38.4M",
+        "hospitals": "600",
+        "schools": "18000",
+        "economy": "₹2,00,000 crore"
+      },
+      {
+        "year": 2011,
+        "population": "38.9M",
+        "hospitals": "605",
+        "schools": "18100",
+        "economy": "₹2,05,000 crore"
+      },
+      {
+        "year": 2012,
+        "population": "39.4M",
+        "hospitals": "610",
+        "schools": "18200",
+        "economy": "₹2,10,000 crore"
+      },
+      {
+        "year": 2013,
+        "population": "39.9M",
+        "hospitals": "615",
+        "schools": "18300",
+        "economy": "₹2,15,000 crore"
+      },
+      {
+        "year": 2014,
+        "population": "40.4M",
+        "hospitals": "620",
+        "schools": "18400",
+        "economy": "₹2,20,000 crore"
+      },
+      {
+        "year": 2015,
+        "population": "40.9M",
+        "hospitals": "625",
+        "schools": "18500",
+        "economy": "₹2,25,000 crore"
+      },
+      {
+        "year": 2016,
+        "population": "41.4M",
+        "hospitals": "630",
+        "schools": "18600",
+        "economy": "₹2,30,000 crore"
+      },
+      {
+        "year": 2017,
+        "population": "41.9M",
+        "hospitals": "635",
+        "schools": "18700",
+        "economy": "₹2,35,000 crore"
+      },
+      {
+        "year": 2018,
+        "population": "42.4M",
+        "hospitals": "640",
+        "schools": "18800",
+        "economy": "₹2,40,000 crore"
+      },
+      {
+        "year": 2019,
+        "population": "42.9M",
+        "hospitals": "645",
+        "schools": "18900",
+        "economy": "₹2,45,000 crore"
+      },
+      {
+        "year": 2020,
+        "population": "43.4M",
+        "hospitals": "650",
+        "schools": "19000",
+        "economy": "₹2,50,000 crore"
+      },
+      {
+        "year": 2021,
+        "population": "43.9M",
+        "hospitals": "655",
+        "schools": "19100",
+        "economy": "₹2,55,000 crore"
+      },
+      {
+        "year": 2022,
+        "population": "44.4M",
+        "hospitals": "660",
+        "schools": "19200",
+        "economy": "₹2,60,000 crore"
+      },
+      {
+        "year": 2023,
+        "population": "44.9M",
+        "hospitals": "665",
+        "schools": "19300",
+        "economy": "₹2,65,000 crore"
+      }
+    ],
+    "information": {
+      "famous_for": "Kerala is known for its backwaters, scenic landscapes, Ayurveda treatments, and beautiful beaches.",
+      "nickname": "God's Own Country",
+      "additional_info": "Kerala has made significant strides in social development, particularly in literacy and healthcare, and is a popular tourist destination."
+    },
+    "image": {
+      "state_image": "./images/kerela.png"
+    }
+  },
+  {
+    "state": "Madhya Pradesh",
+    "data": [
+      {
+        "year": 2000,
+        "population": "60.0M",
+        "hospitals": "300",
+        "schools": "10000",
+        "economy": "₹50,000 crore"
+      },
+      {
+        "year": 2001,
+        "population": "60.5M",
+        "hospitals": "305",
+        "schools": "10200",
+        "economy": "₹52,000 crore"
+      },
+      {
+        "year": 2002,
+        "population": "61.0M",
+        "hospitals": "310",
+        "schools": "10400",
+        "economy": "₹54,000 crore"
+      },
+      {
+        "year": 2003,
+        "population": "61.5M",
+        "hospitals": "315",
+        "schools": "10600",
+        "economy": "₹56,000 crore"
+      },
+      {
+        "year": 2004,
+        "population": "62.0M",
+        "hospitals": "320",
+        "schools": "10800",
+        "economy": "₹58,000 crore"
+      },
+      {
+        "year": 2005,
+        "population": "62.5M",
+        "hospitals": "325",
+        "schools": "11000",
+        "economy": "₹60,000 crore"
+      },
+      {
+        "year": 2006,
+        "population": "63.0M",
+        "hospitals": "330",
+        "schools": "11200",
+        "economy": "₹62,000 crore"
+      },
+      {
+        "year": 2007,
+        "population": "63.5M",
+        "hospitals": "335",
+        "schools": "11400",
+        "economy": "₹64,000 crore"
+      },
+      {
+        "year": 2008,
+        "population": "64.0M",
+        "hospitals": "340",
+        "schools": "11600",
+        "economy": "₹66,000 crore"
+      },
+      {
+        "year": 2009,
+        "population": "64.5M",
+        "hospitals": "345",
+        "schools": "11800",
+        "economy": "₹68,000 crore"
+      },
+      {
+        "year": 2010,
+        "population": "65.0M",
+        "hospitals": "350",
+        "schools": "12000",
+        "economy": "₹70,000 crore"
+      },
+      {
+        "year": 2011,
+        "population": "65.5M",
+        "hospitals": "355",
+        "schools": "12200",
+        "economy": "₹72,000 crore"
+      },
+      {
+        "year": 2012,
+        "population": "66.0M",
+        "hospitals": "360",
+        "schools": "12400",
+        "economy": "₹74,000 crore"
+      },
+      {
+        "year": 2013,
+        "population": "66.5M",
+        "hospitals": "365",
+        "schools": "12600",
+        "economy": "₹76,000 crore"
+      },
+      {
+        "year": 2014,
+        "population": "67.0M",
+        "hospitals": "370",
+        "schools": "12800",
+        "economy": "₹78,000 crore"
+      },
+      {
+        "year": 2015,
+        "population": "67.5M",
+        "hospitals": "375",
+        "schools": "13000",
+        "economy": "₹80,000 crore"
+      },
+      {
+        "year": 2016,
+        "population": "68.0M",
+        "hospitals": "380",
+        "schools": "13200",
+        "economy": "₹82,000 crore"
+      },
+      {
+        "year": 2017,
+        "population": "68.5M",
+        "hospitals": "385",
+        "schools": "13400",
+        "economy": "₹84,000 crore"
+      },
+      {
+        "year": 2018,
+        "population": "69.0M",
+        "hospitals": "390",
+        "schools": "13600",
+        "economy": "₹86,000 crore"
+      },
+      {
+        "year": 2019,
+        "population": "69.5M",
+        "hospitals": "395",
+        "schools": "13800",
+        "economy": "₹88,000 crore"
+      },
+      {
+        "year": 2020,
+        "population": "70.0M",
+        "hospitals": "400",
+        "schools": "14000",
+        "economy": "₹90,000 crore"
+      },
+      {
+        "year": 2021,
+        "population": "70.5M",
+        "hospitals": "405",
+        "schools": "14200",
+        "economy": "₹92,000 crore"
+      },
+      {
+        "year": 2022,
+        "population": "71.0M",
+        "hospitals": "410",
+        "schools": "14400",
+        "economy": "₹94,000 crore"
+      },
+      {
+        "year": 2023,
+        "population": "71.5M",
+        "hospitals": "415",
+        "schools": "14600",
+        "economy": "₹96,000 crore"
+      }
+    ],
+    "information": {
+      "famous_for": "Madhya Pradesh is known for its ancient temples, forts, and wildlife sanctuaries, including the famous Khajuraho temples and Kanha National Park.",
+      "nickname": "The Heart of India",
+      "additional_info": "Madhya Pradesh is one of the largest states in India and has significant contributions to the country's cultural and historical heritage."
+    },
+    "image": {
+      "state_image": "./images/madhyapradesh.png"
+    }
+  },
+  {
+    "state": "Maharashtra",
+    "data": [
+      {
+        "year": 2000,
+        "population": "96.0M",
+        "hospitals": "1200",
+        "schools": "30000",
+        "economy": "₹4,50,000 crore"
+      },
+      {
+        "year": 2001,
+        "population": "96.5M",
+        "hospitals": "1210",
+        "schools": "30500",
+        "economy": "₹4,70,000 crore"
+      },
+      {
+        "year": 2002,
+        "population": "97.0M",
+        "hospitals": "1220",
+        "schools": "31000",
+        "economy": "₹5,00,000 crore"
+      },
+      {
+        "year": 2003,
+        "population": "97.5M",
+        "hospitals": "1230",
+        "schools": "31500",
+        "economy": "₹5,20,000 crore"
+      },
+      {
+        "year": 2004,
+        "population": "98.0M",
+        "hospitals": "1240",
+        "schools": "32000",
+        "economy": "₹5,40,000 crore"
+      },
+      {
+        "year": 2005,
+        "population": "98.5M",
+        "hospitals": "1250",
+        "schools": "32500",
+        "economy": "₹5,60,000 crore"
+      },
+      {
+        "year": 2006,
+        "population": "99.0M",
+        "hospitals": "1260",
+        "schools": "33000",
+        "economy": "₹5,80,000 crore"
+      },
+      {
+        "year": 2007,
+        "population": "99.5M",
+        "hospitals": "1270",
+        "schools": "33500",
+        "economy": "₹6,00,000 crore"
+      },
+      {
+        "year": 2008,
+        "population": "100.0M",
+        "hospitals": "1280",
+        "schools": "34000",
+        "economy": "₹6,20,000 crore"
+      },
+      {
+        "year": 2009,
+        "population": "100.5M",
+        "hospitals": "1290",
+        "schools": "34500",
+        "economy": "₹6,40,000 crore"
+      },
+      {
+        "year": 2010,
+        "population": "101.0M",
+        "hospitals": "1300",
+        "schools": "35000",
+        "economy": "₹6,60,000 crore"
+      },
+      {
+        "year": 2011,
+        "population": "101.5M",
+        "hospitals": "1310",
+        "schools": "35500",
+        "economy": "₹6,80,000 crore"
+      },
+      {
+        "year": 2012,
+        "population": "102.0M",
+        "hospitals": "1320",
+        "schools": "36000",
+        "economy": "₹7,00,000 crore"
+      },
+      {
+        "year": 2013,
+        "population": "102.5M",
+        "hospitals": "1330",
+        "schools": "36500",
+        "economy": "₹7,20,000 crore"
+      },
+      {
+        "year": 2014,
+        "population": "103.0M",
+        "hospitals": "1340",
+        "schools": "37000",
+        "economy": "₹7,40,000 crore"
+      },
+      {
+        "year": 2015,
+        "population": "103.5M",
+        "hospitals": "1350",
+        "schools": "37500",
+        "economy": "₹7,60,000 crore"
+      },
+      {
+        "year": 2016,
+        "population": "104.0M",
+        "hospitals": "1360",
+        "schools": "38000",
+        "economy": "₹7,80,000 crore"
+      },
+      {
+        "year": 2017,
+        "population": "104.5M",
+        "hospitals": "1370",
+        "schools": "38500",
+        "economy": "₹8,00,000 crore"
+      },
+      {
+        "year": 2018,
+        "population": "105.0M",
+        "hospitals": "1380",
+        "schools": "39000",
+        "economy": "₹8,20,000 crore"
+      },
+      {
+        "year": 2019,
+        "population": "105.5M",
+        "hospitals": "1390",
+        "schools": "39500",
+        "economy": "₹8,40,000 crore"
+      },
+      {
+        "year": 2020,
+        "population": "106.0M",
+        "hospitals": "1400",
+        "schools": "40000",
+        "economy": "₹8,60,000 crore"
+      },
+      {
+        "year": 2021,
+        "population": "106.5M",
+        "hospitals": "1410",
+        "schools": "40500",
+        "economy": "₹8,80,000 crore"
+      },
+      {
+        "year": 2022,
+        "population": "107.0M",
+        "hospitals": "1420",
+        "schools": "41000",
+        "economy": "₹9,00,000 crore"
+      },
+      {
+        "year": 2023,
+        "population": "107.5M",
+        "hospitals": "1430",
+        "schools": "41500",
+        "economy": "₹9,20,000 crore"
+      }
+    ],
+    "information": {
+      "famous_for": "Maharashtra is known for its bustling metropolitan city Mumbai, a major financial hub, along with the scenic hill stations and beaches such as Lonavala and Alibaug.",
+      "nickname": "The Gateway of India",
+      "additional_info": "Maharashtra is the second-most populous state in India, and its capital, Mumbai, is known as the financial capital of the country."
+    },
+    "image": {
+      "state_image": "./images/maharashtra.png"
+    }
+  },
+  {
+    "state": "Manipur",
+    "data": [
+      {
+        "year": 2000,
+        "population": "2.2M",
+        "hospitals": "150",
+        "schools": "3500",
+        "economy": "₹5,000 crore"
+      },
+      {
+        "year": 2001,
+        "population": "2.3M",
+        "hospitals": "155",
+        "schools": "3600",
+        "economy": "₹5,200 crore"
+      },
+      {
+        "year": 2002,
+        "population": "2.4M",
+        "hospitals": "160",
+        "schools": "3700",
+        "economy": "₹5,400 crore"
+      },
+      {
+        "year": 2003,
+        "population": "2.5M",
+        "hospitals": "165",
+        "schools": "3800",
+        "economy": "₹5,600 crore"
+      },
+      {
+        "year": 2004,
+        "population": "2.6M",
+        "hospitals": "170",
+        "schools": "3900",
+        "economy": "₹5,800 crore"
+      },
+      {
+        "year": 2005,
+        "population": "2.7M",
+        "hospitals": "175",
+        "schools": "4000",
+        "economy": "₹6,000 crore"
+      },
+      {
+        "year": 2006,
+        "population": "2.8M",
+        "hospitals": "180",
+        "schools": "4100",
+        "economy": "₹6,200 crore"
+      },
+      {
+        "year": 2007,
+        "population": "2.9M",
+        "hospitals": "185",
+        "schools": "4200",
+        "economy": "₹6,400 crore"
+      },
+      {
+        "year": 2008,
+        "population": "3.0M",
+        "hospitals": "190",
+        "schools": "4300",
+        "economy": "₹6,600 crore"
+      },
+      {
+        "year": 2009,
+        "population": "3.1M",
+        "hospitals": "195",
+        "schools": "4400",
+        "economy": "₹6,800 crore"
+      },
+      {
+        "year": 2010,
+        "population": "3.2M",
+        "hospitals": "200",
+        "schools": "4500",
+        "economy": "₹7,000 crore"
+      },
+      {
+        "year": 2011,
+        "population": "3.3M",
+        "hospitals": "205",
+        "schools": "4600",
+        "economy": "₹7,200 crore"
+      },
+      {
+        "year": 2012,
+        "population": "3.4M",
+        "hospitals": "210",
+        "schools": "4700",
+        "economy": "₹7,400 crore"
+      },
+      {
+        "year": 2013,
+        "population": "3.5M",
+        "hospitals": "215",
+        "schools": "4800",
+        "economy": "₹7,600 crore"
+      },
+      {
+        "year": 2014,
+        "population": "3.6M",
+        "hospitals": "220",
+        "schools": "4900",
+        "economy": "₹7,800 crore"
+      },
+      {
+        "year": 2015,
+        "population": "3.7M",
+        "hospitals": "225",
+        "schools": "5000",
+        "economy": "₹8,000 crore"
+      },
+      {
+        "year": 2016,
+        "population": "3.8M",
+        "hospitals": "230",
+        "schools": "5100",
+        "economy": "₹8,200 crore"
+      },
+      {
+        "year": 2017,
+        "population": "3.9M",
+        "hospitals": "235",
+        "schools": "5200",
+        "economy": "₹8,400 crore"
+      },
+      {
+        "year": 2018,
+        "population": "4.0M",
+        "hospitals": "240",
+        "schools": "5300",
+        "economy": "₹8,600 crore"
+      },
+      {
+        "year": 2019,
+        "population": "4.1M",
+        "hospitals": "245",
+        "schools": "5400",
+        "economy": "₹8,800 crore"
+      },
+      {
+        "year": 2020,
+        "population": "4.2M",
+        "hospitals": "250",
+        "schools": "5500",
+        "economy": "₹9,000 crore"
+      },
+      {
+        "year": 2021,
+        "population": "4.3M",
+        "hospitals": "255",
+        "schools": "5600",
+        "economy": "₹9,200 crore"
+      },
+      {
+        "year": 2022,
+        "population": "4.4M",
+        "hospitals": "260",
+        "schools": "5700",
+        "economy": "₹9,400 crore"
+      },
+      {
+        "year": 2023,
+        "population": "4.5M",
+        "hospitals": "265",
+        "schools": "5800",
+        "economy": "₹9,600 crore"
+      }
+    ],
+    "information": {
+      "famous_for": "Manipur is known for its rich cultural heritage, including classical dance forms like Manipuri dance, as well as the scenic Loktak Lake and the Keibul Lamjao National Park.",
+      "nickname": "The Jewel of India",
+      "additional_info": "Manipur is a northeastern state with a vibrant history, notable for its martial arts and traditional music."
+    },
+    "image": {
+      "state_image": "./images/manipur.png"
+    }
+  },
+  {
+    "state": "Meghalaya",
+    "data": [
+      {
+        "year": 2000,
+        "population": "2.3M",
+        "hospitals": "130",
+        "schools": "3600",
+        "economy": "₹4,800 crore"
+      },
+      {
+        "year": 2001,
+        "population": "2.4M",
+        "hospitals": "135",
+        "schools": "3700",
+        "economy": "₹5,000 crore"
+      },
+      {
+        "year": 2002,
+        "population": "2.5M",
+        "hospitals": "140",
+        "schools": "3800",
+        "economy": "₹5,200 crore"
+      },
+      {
+        "year": 2003,
+        "population": "2.6M",
+        "hospitals": "145",
+        "schools": "3900",
+        "economy": "₹5,400 crore"
+      },
+      {
+        "year": 2004,
+        "population": "2.7M",
+        "hospitals": "150",
+        "schools": "4000",
+        "economy": "₹5,600 crore"
+      },
+      {
+        "year": 2005,
+        "population": "2.8M",
+        "hospitals": "155",
+        "schools": "4100",
+        "economy": "₹5,800 crore"
+      },
+      {
+        "year": 2006,
+        "population": "2.9M",
+        "hospitals": "160",
+        "schools": "4200",
+        "economy": "₹6,000 crore"
+      },
+      {
+        "year": 2007,
+        "population": "3.0M",
+        "hospitals": "165",
+        "schools": "4300",
+        "economy": "₹6,200 crore"
+      },
+      {
+        "year": 2008,
+        "population": "3.1M",
+        "hospitals": "170",
+        "schools": "4400",
+        "economy": "₹6,400 crore"
+      },
+      {
+        "year": 2009,
+        "population": "3.2M",
+        "hospitals": "175",
+        "schools": "4500",
+        "economy": "₹6,600 crore"
+      },
+      {
+        "year": 2010,
+        "population": "3.3M",
+        "hospitals": "180",
+        "schools": "4600",
+        "economy": "₹6,800 crore"
+      },
+      {
+        "year": 2011,
+        "population": "3.4M",
+        "hospitals": "185",
+        "schools": "4700",
+        "economy": "₹7,000 crore"
+      },
+      {
+        "year": 2012,
+        "population": "3.5M",
+        "hospitals": "190",
+        "schools": "4800",
+        "economy": "₹7,200 crore"
+      },
+      {
+        "year": 2013,
+        "population": "3.6M",
+        "hospitals": "195",
+        "schools": "4900",
+        "economy": "₹7,400 crore"
+      },
+      {
+        "year": 2014,
+        "population": "3.7M",
+        "hospitals": "200",
+        "schools": "5000",
+        "economy": "₹7,600 crore"
+      },
+      {
+        "year": 2015,
+        "population": "3.8M",
+        "hospitals": "205",
+        "schools": "5100",
+        "economy": "₹7,800 crore"
+      },
+      {
+        "year": 2016,
+        "population": "3.9M",
+        "hospitals": "210",
+        "schools": "5200",
+        "economy": "₹8,000 crore"
+      },
+      {
+        "year": 2017,
+        "population": "4.0M",
+        "hospitals": "215",
+        "schools": "5300",
+        "economy": "₹8,200 crore"
+      },
+      {
+        "year": 2018,
+        "population": "4.1M",
+        "hospitals": "220",
+        "schools": "5400",
+        "economy": "₹8,400 crore"
+      },
+      {
+        "year": 2019,
+        "population": "4.2M",
+        "hospitals": "225",
+        "schools": "5500",
+        "economy": "₹8,600 crore"
+      },
+      {
+        "year": 2020,
+        "population": "4.3M",
+        "hospitals": "230",
+        "schools": "5600",
+        "economy": "₹8,800 crore"
+      },
+      {
+        "year": 2021,
+        "population": "4.4M",
+        "hospitals": "235",
+        "schools": "5700",
+        "economy": "₹9,000 crore"
+      },
+      {
+        "year": 2022,
+        "population": "4.5M",
+        "hospitals": "240",
+        "schools": "5800",
+        "economy": "₹9,200 crore"
+      },
+      {
+        "year": 2023,
+        "population": "4.6M",
+        "hospitals": "245",
+        "schools": "5900",
+        "economy": "₹9,400 crore"
+      }
+    ],
+    "information": {
+      "famous_for": "Meghalaya is known for its picturesque landscapes, living root bridges, and the rainfall-rich town of Mawsynram.",
+      "nickname": "The Abode of Clouds",
+      "additional_info": "Meghalaya is a state in northeastern India, famous for its beautiful hills, valleys, and lush greenery."
+    },
+    "image": {
+      "state_image": "./images/meghalaya.png"
+    }
+  },
+  {
+    "state": "Mizoram",
+    "data": [
+      {
+        "year": 2000,
+        "population": "0.9M",
+        "hospitals": "75",
+        "schools": "2800",
+        "economy": "₹2,300 crore"
+      },
+      {
+        "year": 2001,
+        "population": "0.95M",
+        "hospitals": "77",
+        "schools": "2900",
+        "economy": "₹2,400 crore"
+      },
+      {
+        "year": 2002,
+        "population": "1.0M",
+        "hospitals": "80",
+        "schools": "3000",
+        "economy": "₹2,500 crore"
+      },
+      {
+        "year": 2003,
+        "population": "1.05M",
+        "hospitals": "82",
+        "schools": "3100",
+        "economy": "₹2,600 crore"
+      },
+      {
+        "year": 2004,
+        "population": "1.1M",
+        "hospitals": "85",
+        "schools": "3200",
+        "economy": "₹2,800 crore"
+      },
+      {
+        "year": 2005,
+        "population": "1.15M",
+        "hospitals": "88",
+        "schools": "3300",
+        "economy": "₹3,000 crore"
+      },
+      {
+        "year": 2006,
+        "population": "1.2M",
+        "hospitals": "90",
+        "schools": "3400",
+        "economy": "₹3,200 crore"
+      },
+      {
+        "year": 2007,
+        "population": "1.25M",
+        "hospitals": "93",
+        "schools": "3500",
+        "economy": "₹3,400 crore"
+      },
+      {
+        "year": 2008,
+        "population": "1.3M",
+        "hospitals": "95",
+        "schools": "3600",
+        "economy": "₹3,600 crore"
+      },
+      {
+        "year": 2009,
+        "population": "1.35M",
+        "hospitals": "98",
+        "schools": "3700",
+        "economy": "₹3,800 crore"
+      },
+      {
+        "year": 2010,
+        "population": "1.4M",
+        "hospitals": "100",
+        "schools": "3800",
+        "economy": "₹4,000 crore"
+      },
+      {
+        "year": 2011,
+        "population": "1.45M",
+        "hospitals": "102",
+        "schools": "3900",
+        "economy": "₹4,200 crore"
+      },
+      {
+        "year": 2012,
+        "population": "1.5M",
+        "hospitals": "105",
+        "schools": "4000",
+        "economy": "₹4,400 crore"
+      },
+      {
+        "year": 2013,
+        "population": "1.55M",
+        "hospitals": "108",
+        "schools": "4100",
+        "economy": "₹4,600 crore"
+      },
+      {
+        "year": 2014,
+        "population": "1.6M",
+        "hospitals": "110",
+        "schools": "4200",
+        "economy": "₹4,800 crore"
+      },
+      {
+        "year": 2015,
+        "population": "1.65M",
+        "hospitals": "112",
+        "schools": "4300",
+        "economy": "₹5,000 crore"
+      },
+      {
+        "year": 2016,
+        "population": "1.7M",
+        "hospitals": "115",
+        "schools": "4400",
+        "economy": "₹5,200 crore"
+      },
+      {
+        "year": 2017,
+        "population": "1.75M",
+        "hospitals": "117",
+        "schools": "4500",
+        "economy": "₹5,400 crore"
+      },
+      {
+        "year": 2018,
+        "population": "1.8M",
+        "hospitals": "120",
+        "schools": "4600",
+        "economy": "₹5,600 crore"
+      },
+      {
+        "year": 2019,
+        "population": "1.85M",
+        "hospitals": "122",
+        "schools": "4700",
+        "economy": "₹5,800 crore"
+      },
+      {
+        "year": 2020,
+        "population": "1.9M",
+        "hospitals": "125",
+        "schools": "4800",
+        "economy": "₹6,000 crore"
+      },
+      {
+        "year": 2021,
+        "population": "1.95M",
+        "hospitals": "127",
+        "schools": "4900",
+        "economy": "₹6,200 crore"
+      },
+      {
+        "year": 2022,
+        "population": "2.0M",
+        "hospitals": "130",
+        "schools": "5000",
+        "economy": "₹6,400 crore"
+      },
+      {
+        "year": 2023,
+        "population": "2.05M",
+        "hospitals": "132",
+        "schools": "5100",
+        "economy": "₹6,600 crore"
+      }
+    ],
+    "information": {
+      "famous_for": "Mizoram is known for its scenic hills, rich culture, and bamboo forests.",
+      "nickname": "The Land of Blue Mountains",
+      "additional_info": "Mizoram is located in the northeastern part of India, renowned for its picturesque landscapes and vibrant traditions."
+    },
+    "image": {
+      "state_image": "./images/mizoram.png"
+    }
+  },
+  {
+    "state": "Nagaland",
+    "data": [
+      {
+        "year": 2000,
+        "population": "1.9M",
+        "hospitals": "80",
+        "schools": "2000",
+        "economy": "₹3,000 crore"
+      },
+      {
+        "year": 2001,
+        "population": "2.0M",
+        "hospitals": "82",
+        "schools": "2100",
+        "economy": "₹3,100 crore"
+      },
+      {
+        "year": 2002,
+        "population": "2.1M",
+        "hospitals": "85",
+        "schools": "2200",
+        "economy": "₹3,200 crore"
+      },
+      {
+        "year": 2003,
+        "population": "2.2M",
+        "hospitals": "87",
+        "schools": "2300",
+        "economy": "₹3,400 crore"
+      },
+      {
+        "year": 2004,
+        "population": "2.3M",
+        "hospitals": "90",
+        "schools": "2400",
+        "economy": "₹3,600 crore"
+      },
+      {
+        "year": 2005,
+        "population": "2.4M",
+        "hospitals": "92",
+        "schools": "2500",
+        "economy": "₹3,800 crore"
+      },
+      {
+        "year": 2006,
+        "population": "2.5M",
+        "hospitals": "95",
+        "schools": "2600",
+        "economy": "₹4,000 crore"
+      },
+      {
+        "year": 2007,
+        "population": "2.6M",
+        "hospitals": "97",
+        "schools": "2700",
+        "economy": "₹4,200 crore"
+      },
+      {
+        "year": 2008,
+        "population": "2.7M",
+        "hospitals": "100",
+        "schools": "2800",
+        "economy": "₹4,400 crore"
+      },
+      {
+        "year": 2009,
+        "population": "2.8M",
+        "hospitals": "102",
+        "schools": "2900",
+        "economy": "₹4,600 crore"
+      },
+      {
+        "year": 2010,
+        "population": "2.9M",
+        "hospitals": "105",
+        "schools": "3000",
+        "economy": "₹4,800 crore"
+      },
+      {
+        "year": 2011,
+        "population": "3.0M",
+        "hospitals": "107",
+        "schools": "3100",
+        "economy": "₹5,000 crore"
+      },
+      {
+        "year": 2012,
+        "population": "3.1M",
+        "hospitals": "110",
+        "schools": "3200",
+        "economy": "₹5,200 crore"
+      },
+      {
+        "year": 2013,
+        "population": "3.2M",
+        "hospitals": "112",
+        "schools": "3300",
+        "economy": "₹5,400 crore"
+      },
+      {
+        "year": 2014,
+        "population": "3.3M",
+        "hospitals": "115",
+        "schools": "3400",
+        "economy": "₹5,600 crore"
+      },
+      {
+        "year": 2015,
+        "population": "3.4M",
+        "hospitals": "117",
+        "schools": "3500",
+        "economy": "₹5,800 crore"
+      },
+      {
+        "year": 2016,
+        "population": "3.5M",
+        "hospitals": "120",
+        "schools": "3600",
+        "economy": "₹6,000 crore"
+      },
+      {
+        "year": 2017,
+        "population": "3.6M",
+        "hospitals": "122",
+        "schools": "3700",
+        "economy": "₹6,200 crore"
+      },
+      {
+        "year": 2018,
+        "population": "3.7M",
+        "hospitals": "125",
+        "schools": "3800",
+        "economy": "₹6,400 crore"
+      },
+      {
+        "year": 2019,
+        "population": "3.8M",
+        "hospitals": "127",
+        "schools": "3900",
+        "economy": "₹6,600 crore"
+      },
+      {
+        "year": 2020,
+        "population": "3.9M",
+        "hospitals": "130",
+        "schools": "4000",
+        "economy": "₹6,800 crore"
+      },
+      {
+        "year": 2021,
+        "population": "4.0M",
+        "hospitals": "132",
+        "schools": "4100",
+        "economy": "₹7,000 crore"
+      },
+      {
+        "year": 2022,
+        "population": "4.1M",
+        "hospitals": "135",
+        "schools": "4200",
+        "economy": "₹7,200 crore"
+      },
+      {
+        "year": 2023,
+        "population": "4.2M",
+        "hospitals": "137",
+        "schools": "4300",
+        "economy": "₹7,400 crore"
+      }
+    ],
+    "information": {
+      "famous_for": "Nagaland is known for its rich tribal culture, festivals, and traditional arts.",
+      "nickname": "The Land of Festivals",
+      "additional_info": "Nagaland, located in the northeastern part of India, is home to various indigenous tribes, each with its unique culture and traditions."
+    },
+    "image": {
+      "state_image": "./images/nagaland.png"
+    }
+  },
+  {
+    "state": "Odisha",
+    "data": [
+      {
+        "year": 2000,
+        "population": "36.0M",
+        "hospitals": "250",
+        "schools": "7000",
+        "economy": "₹40,000 crore"
+      },
+      {
+        "year": 2001,
+        "population": "36.5M",
+        "hospitals": "255",
+        "schools": "7200",
+        "economy": "₹41,000 crore"
+      },
+      {
+        "year": 2002,
+        "population": "37.0M",
+        "hospitals": "260",
+        "schools": "7400",
+        "economy": "₹42,000 crore"
+      },
+      {
+        "year": 2003,
+        "population": "37.5M",
+        "hospitals": "265",
+        "schools": "7600",
+        "economy": "₹43,000 crore"
+      },
+      {
+        "year": 2004,
+        "population": "38.0M",
+        "hospitals": "270",
+        "schools": "7800",
+        "economy": "₹44,000 crore"
+      },
+      {
+        "year": 2005,
+        "population": "38.5M",
+        "hospitals": "275",
+        "schools": "8000",
+        "economy": "₹45,000 crore"
+      },
+      {
+        "year": 2006,
+        "population": "39.0M",
+        "hospitals": "280",
+        "schools": "8200",
+        "economy": "₹46,000 crore"
+      },
+      {
+        "year": 2007,
+        "population": "39.5M",
+        "hospitals": "285",
+        "schools": "8400",
+        "economy": "₹47,000 crore"
+      },
+      {
+        "year": 2008,
+        "population": "40.0M",
+        "hospitals": "290",
+        "schools": "8600",
+        "economy": "₹48,000 crore"
+      },
+      {
+        "year": 2009,
+        "population": "40.5M",
+        "hospitals": "295",
+        "schools": "8800",
+        "economy": "₹49,000 crore"
+      },
+      {
+        "year": 2010,
+        "population": "41.0M",
+        "hospitals": "300",
+        "schools": "9000",
+        "economy": "₹50,000 crore"
+      },
+      {
+        "year": 2011,
+        "population": "41.5M",
+        "hospitals": "305",
+        "schools": "9200",
+        "economy": "₹51,000 crore"
+      },
+      {
+        "year": 2012,
+        "population": "42.0M",
+        "hospitals": "310",
+        "schools": "9400",
+        "economy": "₹52,000 crore"
+      },
+      {
+        "year": 2013,
+        "population": "42.5M",
+        "hospitals": "315",
+        "schools": "9600",
+        "economy": "₹53,000 crore"
+      },
+      {
+        "year": 2014,
+        "population": "43.0M",
+        "hospitals": "320",
+        "schools": "9800",
+        "economy": "₹54,000 crore"
+      },
+      {
+        "year": 2015,
+        "population": "43.5M",
+        "hospitals": "325",
+        "schools": "10000",
+        "economy": "₹55,000 crore"
+      },
+      {
+        "year": 2016,
+        "population": "44.0M",
+        "hospitals": "330",
+        "schools": "10200",
+        "economy": "₹56,000 crore"
+      },
+      {
+        "year": 2017,
+        "population": "44.5M",
+        "hospitals": "335",
+        "schools": "10400",
+        "economy": "₹57,000 crore"
+      },
+      {
+        "year": 2018,
+        "population": "45.0M",
+        "hospitals": "340",
+        "schools": "10600",
+        "economy": "₹58,000 crore"
+      },
+      {
+        "year": 2019,
+        "population": "45.5M",
+        "hospitals": "345",
+        "schools": "10800",
+        "economy": "₹59,000 crore"
+      },
+      {
+        "year": 2020,
+        "population": "46.0M",
+        "hospitals": "350",
+        "schools": "11000",
+        "economy": "₹60,000 crore"
+      },
+      {
+        "year": 2021,
+        "population": "46.5M",
+        "hospitals": "355",
+        "schools": "11200",
+        "economy": "₹61,000 crore"
+      },
+      {
+        "year": 2022,
+        "population": "47.0M",
+        "hospitals": "360",
+        "schools": "11400",
+        "economy": "₹62,000 crore"
+      },
+      {
+        "year": 2023,
+        "population": "47.5M",
+        "hospitals": "365",
+        "schools": "11600",
+        "economy": "₹63,000 crore"
+      }
+    ],
+    "information": {
+      "famous_for": "Odisha is known for its ancient temples, rich culture, classical dance forms, and scenic beaches.",
+      "nickname": "The Soul of Incredible India",
+      "additional_info": "Odisha is a state on the eastern coast of India, famous for its traditional crafts, dance, and the Rath Yatra festival in Puri."
+    },
+    "image": {
+      "state_image": "./images/odisha.png"
+    }
+  },
+  {
+    "state": "Punjab",
+    "data": [
+      {
+        "year": 2000,
+        "population": "25.0M",
+        "hospitals": "300",
+        "schools": "10000",
+        "economy": "₹1,00,000 crore"
+      },
+      {
+        "year": 2001,
+        "population": "25.5M",
+        "hospitals": "305",
+        "schools": "10200",
+        "economy": "₹1,05,000 crore"
+      },
+      {
+        "year": 2002,
+        "population": "26.0M",
+        "hospitals": "310",
+        "schools": "10400",
+        "economy": "₹1,10,000 crore"
+      },
+      {
+        "year": 2003,
+        "population": "26.5M",
+        "hospitals": "315",
+        "schools": "10600",
+        "economy": "₹1,15,000 crore"
+      },
+      {
+        "year": 2004,
+        "population": "27.0M",
+        "hospitals": "320",
+        "schools": "10800",
+        "economy": "₹1,20,000 crore"
+      },
+      {
+        "year": 2005,
+        "population": "27.5M",
+        "hospitals": "325",
+        "schools": "11000",
+        "economy": "₹1,25,000 crore"
+      },
+      {
+        "year": 2006,
+        "population": "28.0M",
+        "hospitals": "330",
+        "schools": "11200",
+        "economy": "₹1,30,000 crore"
+      },
+      {
+        "year": 2007,
+        "population": "28.5M",
+        "hospitals": "335",
+        "schools": "11400",
+        "economy": "₹1,35,000 crore"
+      },
+      {
+        "year": 2008,
+        "population": "29.0M",
+        "hospitals": "340",
+        "schools": "11600",
+        "economy": "₹1,40,000 crore"
+      },
+      {
+        "year": 2009,
+        "population": "29.5M",
+        "hospitals": "345",
+        "schools": "11800",
+        "economy": "₹1,45,000 crore"
+      },
+      {
+        "year": 2010,
+        "population": "30.0M",
+        "hospitals": "350",
+        "schools": "12000",
+        "economy": "₹1,50,000 crore"
+      },
+      {
+        "year": 2011,
+        "population": "30.5M",
+        "hospitals": "355",
+        "schools": "12200",
+        "economy": "₹1,55,000 crore"
+      },
+      {
+        "year": 2012,
+        "population": "31.0M",
+        "hospitals": "360",
+        "schools": "12400",
+        "economy": "₹1,60,000 crore"
+      },
+      {
+        "year": 2013,
+        "population": "31.5M",
+        "hospitals": "365",
+        "schools": "12600",
+        "economy": "₹1,65,000 crore"
+      },
+      {
+        "year": 2014,
+        "population": "32.0M",
+        "hospitals": "370",
+        "schools": "12800",
+        "economy": "₹1,70,000 crore"
+      },
+      {
+        "year": 2015,
+        "population": "32.5M",
+        "hospitals": "375",
+        "schools": "13000",
+        "economy": "₹1,75,000 crore"
+      },
+      {
+        "year": 2016,
+        "population": "33.0M",
+        "hospitals": "380",
+        "schools": "13200",
+        "economy": "₹1,80,000 crore"
+      },
+      {
+        "year": 2017,
+        "population": "33.5M",
+        "hospitals": "385",
+        "schools": "13400",
+        "economy": "₹1,85,000 crore"
+      },
+      {
+        "year": 2018,
+        "population": "34.0M",
+        "hospitals": "390",
+        "schools": "13600",
+        "economy": "₹1,90,000 crore"
+      },
+      {
+        "year": 2019,
+        "population": "34.5M",
+        "hospitals": "395",
+        "schools": "13800",
+        "economy": "₹1,95,000 crore"
+      },
+      {
+        "year": 2020,
+        "population": "35.0M",
+        "hospitals": "400",
+        "schools": "14000",
+        "economy": "₹2,00,000 crore"
+      },
+      {
+        "year": 2021,
+        "population": "35.5M",
+        "hospitals": "405",
+        "schools": "14200",
+        "economy": "₹2,05,000 crore"
+      },
+      {
+        "year": 2022,
+        "population": "36.0M",
+        "hospitals": "410",
+        "schools": "14400",
+        "economy": "₹2,10,000 crore"
+      },
+      {
+        "year": 2023,
+        "population": "36.5M",
+        "hospitals": "415",
+        "schools": "14600",
+        "economy": "₹2,15,000 crore"
+      }
+    ],
+    "information": {
+      "famous_for": "Punjab is known for its rich history, agricultural productivity, culture, and vibrant festivals.",
+      "nickname": "The Granary of India",
+      "additional_info": "Punjab is a northern state in India, famous for its agricultural output, folk music, and dance, such as Bhangra and Gidda."
+    },
+    "image": {
+      "state_image": "./images/punjab.png"
+    }
+  },
+  {
+    "state": "Rajasthan",
+    "data": [
+      {
+        "year": 2000,
+        "population": "56.0M",
+        "hospitals": "500",
+        "schools": "30000",
+        "economy": "₹2,50,000 crore"
+      },
+      {
+        "year": 2001,
+        "population": "56.5M",
+        "hospitals": "510",
+        "schools": "30500",
+        "economy": "₹2,55,000 crore"
+      },
+      {
+        "year": 2002,
+        "population": "57.0M",
+        "hospitals": "520",
+        "schools": "31000",
+        "economy": "₹2,60,000 crore"
+      },
+      {
+        "year": 2003,
+        "population": "57.5M",
+        "hospitals": "530",
+        "schools": "31500",
+        "economy": "₹2,65,000 crore"
+      },
+      {
+        "year": 2004,
+        "population": "58.0M",
+        "hospitals": "540",
+        "schools": "32000",
+        "economy": "₹2,70,000 crore"
+      },
+      {
+        "year": 2005,
+        "population": "58.5M",
+        "hospitals": "550",
+        "schools": "32500",
+        "economy": "₹2,75,000 crore"
+      },
+      {
+        "year": 2006,
+        "population": "59.0M",
+        "hospitals": "560",
+        "schools": "33000",
+        "economy": "₹2,80,000 crore"
+      },
+      {
+        "year": 2007,
+        "population": "59.5M",
+        "hospitals": "570",
+        "schools": "33500",
+        "economy": "₹2,85,000 crore"
+      },
+      {
+        "year": 2008,
+        "population": "60.0M",
+        "hospitals": "580",
+        "schools": "34000",
+        "economy": "₹2,90,000 crore"
+      },
+      {
+        "year": 2009,
+        "population": "60.5M",
+        "hospitals": "590",
+        "schools": "34500",
+        "economy": "₹2,95,000 crore"
+      },
+      {
+        "year": 2010,
+        "population": "61.0M",
+        "hospitals": "600",
+        "schools": "35000",
+        "economy": "₹3,00,000 crore"
+      },
+      {
+        "year": 2011,
+        "population": "61.5M",
+        "hospitals": "610",
+        "schools": "35500",
+        "economy": "₹3,05,000 crore"
+      },
+      {
+        "year": 2012,
+        "population": "62.0M",
+        "hospitals": "620",
+        "schools": "36000",
+        "economy": "₹3,10,000 crore"
+      },
+      {
+        "year": 2013,
+        "population": "62.5M",
+        "hospitals": "630",
+        "schools": "36500",
+        "economy": "₹3,15,000 crore"
+      },
+      {
+        "year": 2014,
+        "population": "63.0M",
+        "hospitals": "640",
+        "schools": "37000",
+        "economy": "₹3,20,000 crore"
+      },
+      {
+        "year": 2015,
+        "population": "63.5M",
+        "hospitals": "650",
+        "schools": "37500",
+        "economy": "₹3,25,000 crore"
+      },
+      {
+        "year": 2016,
+        "population": "64.0M",
+        "hospitals": "660",
+        "schools": "38000",
+        "economy": "₹3,30,000 crore"
+      },
+      {
+        "year": 2017,
+        "population": "64.5M",
+        "hospitals": "670",
+        "schools": "38500",
+        "economy": "₹3,35,000 crore"
+      },
+      {
+        "year": 2018,
+        "population": "65.0M",
+        "hospitals": "680",
+        "schools": "39000",
+        "economy": "₹3,40,000 crore"
+      },
+      {
+        "year": 2019,
+        "population": "65.5M",
+        "hospitals": "690",
+        "schools": "39500",
+        "economy": "₹3,45,000 crore"
+      },
+      {
+        "year": 2020,
+        "population": "66.0M",
+        "hospitals": "700",
+        "schools": "40000",
+        "economy": "₹3,50,000 crore"
+      },
+      {
+        "year": 2021,
+        "population": "66.5M",
+        "hospitals": "710",
+        "schools": "40500",
+        "economy": "₹3,55,000 crore"
+      },
+      {
+        "year": 2022,
+        "population": "67.0M",
+        "hospitals": "720",
+        "schools": "41000",
+        "economy": "₹3,60,000 crore"
+      },
+      {
+        "year": 2023,
+        "population": "67.5M",
+        "hospitals": "730",
+        "schools": "41500",
+        "economy": "₹3,65,000 crore"
+      }
+    ],
+    "information": {
+      "famous_for": "Rajasthan is famous for its rich cultural heritage, palaces, forts, deserts, and vibrant festivals. It is known for its historical significance and grand architecture.",
+      "nickname": "The Land of Kings",
+      "additional_info": "Rajasthan is the largest state in India by area, home to the Thar Desert, and famous for its traditional arts, crafts, and colorful attire. Major tourist attractions include Jaipur, Udaipur, Jodhpur, and Jaisalmer."
+    },
+    "image": {
+      "state_image": "./images/rajasthan.png"
+    }
+  },
+  {
+    "state": "Sikkim",
+    "data": [
+      {
+        "year": 2000,
+        "population": "0.5M",
+        "hospitals": "25",
+        "schools": "600",
+        "economy": "₹5000 crore"
+      },
+      {
+        "year": 2001,
+        "population": "0.51M",
+        "hospitals": "26",
+        "schools": "620",
+        "economy": "₹5200 crore"
+      },
+      {
+        "year": 2002,
+        "population": "0.52M",
+        "hospitals": "27",
+        "schools": "640",
+        "economy": "₹5400 crore"
+      },
+      {
+        "year": 2003,
+        "population": "0.53M",
+        "hospitals": "28",
+        "schools": "660",
+        "economy": "₹5600 crore"
+      },
+      {
+        "year": 2004,
+        "population": "0.54M",
+        "hospitals": "29",
+        "schools": "680",
+        "economy": "₹5800 crore"
+      },
+      {
+        "year": 2005,
+        "population": "0.55M",
+        "hospitals": "30",
+        "schools": "700",
+        "economy": "₹6000 crore"
+      },
+      {
+        "year": 2006,
+        "population": "0.56M",
+        "hospitals": "31",
+        "schools": "720",
+        "economy": "₹6200 crore"
+      },
+      {
+        "year": 2007,
+        "population": "0.57M",
+        "hospitals": "32",
+        "schools": "740",
+        "economy": "₹6400 crore"
+      },
+      {
+        "year": 2008,
+        "population": "0.58M",
+        "hospitals": "33",
+        "schools": "760",
+        "economy": "₹6600 crore"
+      },
+      {
+        "year": 2009,
+        "population": "0.59M",
+        "hospitals": "34",
+        "schools": "780",
+        "economy": "₹6800 crore"
+      },
+      {
+        "year": 2010,
+        "population": "0.6M",
+        "hospitals": "35",
+        "schools": "800",
+        "economy": "₹7000 crore"
+      },
+      {
+        "year": 2011,
+        "population": "0.61M",
+        "hospitals": "36",
+        "schools": "820",
+        "economy": "₹7200 crore"
+      },
+      {
+        "year": 2012,
+        "population": "0.62M",
+        "hospitals": "37",
+        "schools": "840",
+        "economy": "₹7400 crore"
+      },
+      {
+        "year": 2013,
+        "population": "0.63M",
+        "hospitals": "38",
+        "schools": "860",
+        "economy": "₹7600 crore"
+      },
+      {
+        "year": 2014,
+        "population": "0.64M",
+        "hospitals": "39",
+        "schools": "880",
+        "economy": "₹7800 crore"
+      },
+      {
+        "year": 2015,
+        "population": "0.65M",
+        "hospitals": "40",
+        "schools": "900",
+        "economy": "₹8000 crore"
+      },
+      {
+        "year": 2016,
+        "population": "0.66M",
+        "hospitals": "41",
+        "schools": "920",
+        "economy": "₹8200 crore"
+      },
+      {
+        "year": 2017,
+        "population": "0.67M",
+        "hospitals": "42",
+        "schools": "940",
+        "economy": "₹8400 crore"
+      },
+      {
+        "year": 2018,
+        "population": "0.68M",
+        "hospitals": "43",
+        "schools": "960",
+        "economy": "₹8600 crore"
+      },
+      {
+        "year": 2019,
+        "population": "0.69M",
+        "hospitals": "44",
+        "schools": "980",
+        "economy": "₹8800 crore"
+      },
+      {
+        "year": 2020,
+        "population": "0.7M",
+        "hospitals": "45",
+        "schools": "1000",
+        "economy": "₹9000 crore"
+      },
+      {
+        "year": 2021,
+        "population": "0.71M",
+        "hospitals": "46",
+        "schools": "1020",
+        "economy": "₹9200 crore"
+      },
+      {
+        "year": 2022,
+        "population": "0.72M",
+        "hospitals": "47",
+        "schools": "1040",
+        "economy": "₹9400 crore"
+      },
+      {
+        "year": 2023,
+        "population": "0.73M",
+        "hospitals": "48",
+        "schools": "1060",
+        "economy": "₹9600 crore"
+      }
+    ],
+    "information": {
+      "famous_for": "Sikkim is known for its beautiful landscapes, vibrant culture, and scenic beauty. It is famous for the majestic Kanchenjunga, the third-highest mountain in the world, and its rich biodiversity.",
+      "nickname": "The Land of Mist",
+      "additional_info": "Sikkim is the second smallest state in India, bordered by Nepal, Bhutan, and China. It is also famous for its Buddhist monasteries, trekking routes, and organic farming practices."
+    },
+    "image": {
+      "state_image": "./images/sikkim.png"
+    }
+  },
+  {
+    "state": "Tamil Nadu",
+    "data": [
+      {
+        "year": 2000,
+        "population": "62.1M",
+        "hospitals": "2,050",
+        "schools": "60,000",
+        "economy": "₹1,50,000 crore"
+      },
+      {
+        "year": 2001,
+        "population": "63.3M",
+        "hospitals": "2,070",
+        "schools": "60,200",
+        "economy": "₹1,55,000 crore"
+      },
+      {
+        "year": 2002,
+        "population": "64.5M",
+        "hospitals": "2,100",
+        "schools": "60,500",
+        "economy": "₹1,60,000 crore"
+      },
+      {
+        "year": 2003,
+        "population": "65.7M",
+        "hospitals": "2,120",
+        "schools": "61,000",
+        "economy": "₹1,65,000 crore"
+      },
+      {
+        "year": 2004,
+        "population": "66.9M",
+        "hospitals": "2,150",
+        "schools": "61,500",
+        "economy": "₹1,70,000 crore"
+      },
+      {
+        "year": 2005,
+        "population": "68.1M",
+        "hospitals": "2,180",
+        "schools": "62,000",
+        "economy": "₹1,75,000 crore"
+      },
+      {
+        "year": 2006,
+        "population": "69.3M",
+        "hospitals": "2,200",
+        "schools": "62,500",
+        "economy": "₹1,80,000 crore"
+      },
+      {
+        "year": 2007,
+        "population": "70.5M",
+        "hospitals": "2,230",
+        "schools": "63,000",
+        "economy": "₹1,85,000 crore"
+      },
+      {
+        "year": 2008,
+        "population": "71.7M",
+        "hospitals": "2,260",
+        "schools": "63,500",
+        "economy": "₹1,90,000 crore"
+      },
+      {
+        "year": 2009,
+        "population": "72.9M",
+        "hospitals": "2,290",
+        "schools": "64,000",
+        "economy": "₹1,95,000 crore"
+      },
+      {
+        "year": 2010,
+        "population": "74.1M",
+        "hospitals": "2,320",
+        "schools": "64,500",
+        "economy": "₹2,00,000 crore"
+      },
+      {
+        "year": 2011,
+        "population": "75.3M",
+        "hospitals": "2,350",
+        "schools": "65,000",
+        "economy": "₹2,05,000 crore"
+      },
+      {
+        "year": 2012,
+        "population": "76.5M",
+        "hospitals": "2,380",
+        "schools": "65,500",
+        "economy": "₹2,10,000 crore"
+      },
+      {
+        "year": 2013,
+        "population": "77.7M",
+        "hospitals": "2,400",
+        "schools": "66,000",
+        "economy": "₹2,15,000 crore"
+      },
+      {
+        "year": 2014,
+        "population": "78.9M",
+        "hospitals": "2,430",
+        "schools": "66,500",
+        "economy": "₹2,20,000 crore"
+      },
+      {
+        "year": 2015,
+        "population": "80.1M",
+        "hospitals": "2,460",
+        "schools": "67,000",
+        "economy": "₹2,25,000 crore"
+      },
+      {
+        "year": 2016,
+        "population": "81.3M",
+        "hospitals": "2,490",
+        "schools": "67,500",
+        "economy": "₹2,30,000 crore"
+      },
+      {
+        "year": 2017,
+        "population": "82.5M",
+        "hospitals": "2,520",
+        "schools": "68,000",
+        "economy": "₹2,35,000 crore"
+      },
+      {
+        "year": 2018,
+        "population": "83.7M",
+        "hospitals": "2,550",
+        "schools": "68,500",
+        "economy": "₹2,40,000 crore"
+      },
+      {
+        "year": 2019,
+        "population": "84.9M",
+        "hospitals": "2,580",
+        "schools": "69,000",
+        "economy": "₹2,45,000 crore"
+      },
+      {
+        "year": 2020,
+        "population": "86.1M",
+        "hospitals": "2,610",
+        "schools": "69,500",
+        "economy": "₹2,50,000 crore"
+      },
+      {
+        "year": 2021,
+        "population": "87.3M",
+        "hospitals": "2,640",
+        "schools": "70,000",
+        "economy": "₹2,55,000 crore"
+      },
+      {
+        "year": 2022,
+        "population": "88.5M",
+        "hospitals": "2,670",
+        "schools": "70,500",
+        "economy": "₹2,60,000 crore"
+      },
+      {
+        "year": 2023,
+        "population": "89.7M",
+        "hospitals": "2,700",
+        "schools": "71,000",
+        "economy": "₹2,65,000 crore"
+      }
+    ],
+    "information": {
+      "famous_for": "Tamil Nadu is famous for its Dravidian-style Hindu temples, classical dance forms like Bharatanatyam, and its vibrant cinema industry, Kollywood.",
+      "nickname": "The Land of Tamils",
+      "additional_info": "Tamil Nadu is one of the most industrialized states in India, known for its textile, automobile, and IT industries. Chennai, the capital, is a major hub for business and culture."
+    },
+    "image": {
+      "state_image": "./images/Tamil nadu.png"
+    }
+  },  
+  {
+    "state": "Tripura",
+    "data": [
+      {
+        "year": 2000,
+        "population": "3.1M",
+        "hospitals": "45",
+        "schools": "4000",
+        "economy": "₹10,000 crore"
+      },
+      {
+        "year": 2001,
+        "population": "3.15M",
+        "hospitals": "46",
+        "schools": "4050",
+        "economy": "₹10,500 crore"
+      },
+      {
+        "year": 2002,
+        "population": "3.2M",
+        "hospitals": "47",
+        "schools": "4100",
+        "economy": "₹11,000 crore"
+      },
+      {
+        "year": 2003,
+        "population": "3.25M",
+        "hospitals": "48",
+        "schools": "4150",
+        "economy": "₹11,500 crore"
+      },
+      {
+        "year": 2004,
+        "population": "3.3M",
+        "hospitals": "49",
+        "schools": "4200",
+        "economy": "₹12,000 crore"
+      },
+      {
+        "year": 2005,
+        "population": "3.35M",
+        "hospitals": "50",
+        "schools": "4250",
+        "economy": "₹12,500 crore"
+      },
+      {
+        "year": 2006,
+        "population": "3.4M",
+        "hospitals": "51",
+        "schools": "4300",
+        "economy": "₹13,000 crore"
+      },
+      {
+        "year": 2007,
+        "population": "3.45M",
+        "hospitals": "52",
+        "schools": "4350",
+        "economy": "₹13,500 crore"
+      },
+      {
+        "year": 2008,
+        "population": "3.5M",
+        "hospitals": "53",
+        "schools": "4400",
+        "economy": "₹14,000 crore"
+      },
+      {
+        "year": 2009,
+        "population": "3.55M",
+        "hospitals": "54",
+        "schools": "4450",
+        "economy": "₹14,500 crore"
+      },
+      {
+        "year": 2010,
+        "population": "3.6M",
+        "hospitals": "55",
+        "schools": "4500",
+        "economy": "₹15,000 crore"
+      },
+      {
+        "year": 2011,
+        "population": "3.65M",
+        "hospitals": "56",
+        "schools": "4550",
+        "economy": "₹15,500 crore"
+      },
+      {
+        "year": 2012,
+        "population": "3.7M",
+        "hospitals": "57",
+        "schools": "4600",
+        "economy": "₹16,000 crore"
+      },
+      {
+        "year": 2013,
+        "population": "3.75M",
+        "hospitals": "58",
+        "schools": "4650",
+        "economy": "₹16,500 crore"
+      },
+      {
+        "year": 2014,
+        "population": "3.8M",
+        "hospitals": "59",
+        "schools": "4700",
+        "economy": "₹17,000 crore"
+      },
+      {
+        "year": 2015,
+        "population": "3.85M",
+        "hospitals": "60",
+        "schools": "4750",
+        "economy": "₹17,500 crore"
+      },
+      {
+        "year": 2016,
+        "population": "3.9M",
+        "hospitals": "61",
+        "schools": "4800",
+        "economy": "₹18,000 crore"
+      },
+      {
+        "year": 2017,
+        "population": "3.95M",
+        "hospitals": "62",
+        "schools": "4850",
+        "economy": "₹18,500 crore"
+      },
+      {
+        "year": 2018,
+        "population": "4.0M",
+        "hospitals": "63",
+        "schools": "4900",
+        "economy": "₹19,000 crore"
+      },
+      {
+        "year": 2019,
+        "population": "4.05M",
+        "hospitals": "64",
+        "schools": "4950",
+        "economy": "₹19,500 crore"
+      },
+      {
+        "year": 2020,
+        "population": "4.1M",
+        "hospitals": "65",
+        "schools": "5000",
+        "economy": "₹20,000 crore"
+      },
+      {
+        "year": 2021,
+        "population": "4.15M",
+        "hospitals": "66",
+        "schools": "5050",
+        "economy": "₹20,500 crore"
+      },
+      {
+        "year": 2022,
+        "population": "4.2M",
+        "hospitals": "67",
+        "schools": "5100",
+        "economy": "₹21,000 crore"
+      },
+      {
+        "year": 2023,
+        "population": "4.25M",
+        "hospitals": "68",
+        "schools": "5150",
+        "economy": "₹21,500 crore"
+      }
+    ],
+    "information": {
+      "famous_for": "Tripura is known for its lush green landscapes, rich cultural heritage, and historical sites like Ujjayanta Palace.",
+      "nickname": "The Land of Greenery",
+      "additional_info": "Tripura, located in the northeastern part of India, is known for its vibrant tribal culture and scenic beauty."
+    },
+    "image": {
+      "state_image": "./images/tripura.png"
+    }
+  },
+  {
+    "state": "Uttar Pradesh",
+    "data": [
+      {
+        "year": 2000,
+        "population": "166.0M",
+        "hospitals": "800",
+        "schools": "45000",
+        "economy": "₹3,50,000 crore"
+      },
+      {
+        "year": 2001,
+        "population": "166.5M",
+        "hospitals": "805",
+        "schools": "45200",
+        "economy": "₹3,60,000 crore"
+      },
+      {
+        "year": 2002,
+        "population": "167.0M",
+        "hospitals": "810",
+        "schools": "45400",
+        "economy": "₹3,70,000 crore"
+      },
+      {
+        "year": 2003,
+        "population": "167.5M",
+        "hospitals": "815",
+        "schools": "45600",
+        "economy": "₹3,80,000 crore"
+      },
+      {
+        "year": 2004,
+        "population": "168.0M",
+        "hospitals": "820",
+        "schools": "45800",
+        "economy": "₹3,90,000 crore"
+      },
+      {
+        "year": 2005,
+        "population": "168.5M",
+        "hospitals": "825",
+        "schools": "46000",
+        "economy": "₹4,00,000 crore"
+      },
+      {
+        "year": 2006,
+        "population": "169.0M",
+        "hospitals": "830",
+        "schools": "46200",
+        "economy": "₹4,10,000 crore"
+      },
+      {
+        "year": 2007,
+        "population": "169.5M",
+        "hospitals": "835",
+        "schools": "46400",
+        "economy": "₹4,20,000 crore"
+      },
+      {
+        "year": 2008,
+        "population": "170.0M",
+        "hospitals": "840",
+        "schools": "46600",
+        "economy": "₹4,30,000 crore"
+      },
+      {
+        "year": 2009,
+        "population": "170.5M",
+        "hospitals": "845",
+        "schools": "46800",
+        "economy": "₹4,40,000 crore"
+      },
+      {
+        "year": 2010,
+        "population": "171.0M",
+        "hospitals": "850",
+        "schools": "47000",
+        "economy": "₹4,50,000 crore"
+      },
+      {
+        "year": 2011,
+        "population": "171.5M",
+        "hospitals": "855",
+        "schools": "47200",
+        "economy": "₹4,60,000 crore"
+      },
+      {
+        "year": 2012,
+        "population": "172.0M",
+        "hospitals": "860",
+        "schools": "47400",
+        "economy": "₹4,70,000 crore"
+      },
+      {
+        "year": 2013,
+        "population": "172.5M",
+        "hospitals": "865",
+        "schools": "47600",
+        "economy": "₹4,80,000 crore"
+      },
+      {
+        "year": 2014,
+        "population": "173.0M",
+        "hospitals": "870",
+        "schools": "47800",
+        "economy": "₹4,90,000 crore"
+      },
+      {
+        "year": 2015,
+        "population": "173.5M",
+        "hospitals": "875",
+        "schools": "48000",
+        "economy": "₹5,00,000 crore"
+      },
+      {
+        "year": 2016,
+        "population": "174.0M",
+        "hospitals": "880",
+        "schools": "48200",
+        "economy": "₹5,10,000 crore"
+      },
+      {
+        "year": 2017,
+        "population": "174.5M",
+        "hospitals": "885",
+        "schools": "48400",
+        "economy": "₹5,20,000 crore"
+      },
+      {
+        "year": 2018,
+        "population": "175.0M",
+        "hospitals": "890",
+        "schools": "48600",
+        "economy": "₹5,30,000 crore"
+      },
+      {
+        "year": 2019,
+        "population": "175.5M",
+        "hospitals": "895",
+        "schools": "48800",
+        "economy": "₹5,40,000 crore"
+      },
+      {
+        "year": 2020,
+        "population": "176.0M",
+        "hospitals": "900",
+        "schools": "49000",
+        "economy": "₹5,50,000 crore"
+      },
+      {
+        "year": 2021,
+        "population": "176.5M",
+        "hospitals": "905",
+        "schools": "49200",
+        "economy": "₹5,60,000 crore"
+      },
+      {
+        "year": 2022,
+        "population": "177.0M",
+        "hospitals": "910",
+        "schools": "49400",
+        "economy": "₹5,70,000 crore"
+      },
+      {
+        "year": 2023,
+        "population": "177.5M",
+        "hospitals": "915",
+        "schools": "49600",
+        "economy": "₹5,80,000 crore"
+      }
+    ],
+    "information": {
+      "famous_for": "Uttar Pradesh is known for its historical landmarks, including the Taj Mahal, and its religious significance with holy places like Varanasi and Mathura.",
+      "nickname": "The Heartland of India",
+      "additional_info": "Uttar Pradesh is the most populous state in India and has significant cultural, religious, and political importance."
+    },
+    "image": {
+      "state_image": "./images/Uttar pradesh.png"
+    }
+  },      
+  {
+    "state": "Uttarakhand",
+    "data": [
+      {
+        "year": 2000,
+        "population": "8.5M",
+        "hospitals": "150",
+        "schools": "5000",
+        "economy": "₹25,000 crore"
+      },
+      {
+        "year": 2001,
+        "population": "8.6M",
+        "hospitals": "155",
+        "schools": "5100",
+        "economy": "₹26,000 crore"
+      },
+      {
+        "year": 2002,
+        "population": "8.7M",
+        "hospitals": "160",
+        "schools": "5200",
+        "economy": "₹27,000 crore"
+      },
+      {
+        "year": 2003,
+        "population": "8.8M",
+        "hospitals": "165",
+        "schools": "5300",
+        "economy": "₹28,000 crore"
+      },
+      {
+        "year": 2004,
+        "population": "8.9M",
+        "hospitals": "170",
+        "schools": "5400",
+        "economy": "₹29,000 crore"
+      },
+      {
+        "year": 2005,
+        "population": "9.0M",
+        "hospitals": "175",
+        "schools": "5500",
+        "economy": "₹30,000 crore"
+      },
+      {
+        "year": 2006,
+        "population": "9.1M",
+        "hospitals": "180",
+        "schools": "5600",
+        "economy": "₹31,000 crore"
+      },
+      {
+        "year": 2007,
+        "population": "9.2M",
+        "hospitals": "185",
+        "schools": "5700",
+        "economy": "₹32,000 crore"
+      },
+      {
+        "year": 2008,
+        "population": "9.3M",
+        "hospitals": "190",
+        "schools": "5800",
+        "economy": "₹33,000 crore"
+      },
+      {
+        "year": 2009,
+        "population": "9.4M",
+        "hospitals": "195",
+        "schools": "5900",
+        "economy": "₹34,000 crore"
+      },
+      {
+        "year": 2010,
+        "population": "9.5M",
+        "hospitals": "200",
+        "schools": "6000",
+        "economy": "₹35,000 crore"
+      },
+      {
+        "year": 2011,
+        "population": "9.6M",
+        "hospitals": "205",
+        "schools": "6100",
+        "economy": "₹36,000 crore"
+      },
+      {
+        "year": 2012,
+        "population": "9.7M",
+        "hospitals": "210",
+        "schools": "6200",
+        "economy": "₹37,000 crore"
+      },
+      {
+        "year": 2013,
+        "population": "9.8M",
+        "hospitals": "215",
+        "schools": "6300",
+        "economy": "₹38,000 crore"
+      },
+      {
+        "year": 2014,
+        "population": "9.9M",
+        "hospitals": "220",
+        "schools": "6400",
+        "economy": "₹39,000 crore"
+      },
+      {
+        "year": 2015,
+        "population": "10.0M",
+        "hospitals": "225",
+        "schools": "6500",
+        "economy": "₹40,000 crore"
+      },
+      {
+        "year": 2016,
+        "population": "10.1M",
+        "hospitals": "230",
+        "schools": "6600",
+        "economy": "₹41,000 crore"
+      },
+      {
+        "year": 2017,
+        "population": "10.2M",
+        "hospitals": "235",
+        "schools": "6700",
+        "economy": "₹42,000 crore"
+      },
+      {
+        "year": 2018,
+        "population": "10.3M",
+        "hospitals": "240",
+        "schools": "6800",
+        "economy": "₹43,000 crore"
+      },
+      {
+        "year": 2019,
+        "population": "10.4M",
+        "hospitals": "245",
+        "schools": "6900",
+        "economy": "₹44,000 crore"
+      },
+      {
+        "year": 2020,
+        "population": "10.5M",
+        "hospitals": "250",
+        "schools": "7000",
+        "economy": "₹45,000 crore"
+      },
+      {
+        "year": 2021,
+        "population": "10.6M",
+        "hospitals": "255",
+        "schools": "7100",
+        "economy": "₹46,000 crore"
+      },
+      {
+        "year": 2022,
+        "population": "10.7M",
+        "hospitals": "260",
+        "schools": "7200",
+        "economy": "₹47,000 crore"
+      },
+      {
+        "year": 2023,
+        "population": "10.8M",
+        "hospitals": "265",
+        "schools": "7300",
+        "economy": "₹48,000 crore"
+      }
+    ],
+    "information": {
+      "famous_for": "Uttarakhand is famous for its scenic landscapes, religious tourism, and hill stations like Nainital and Mussoorie.",
+      "nickname": "The Land of Gods",
+      "additional_info": "Uttarakhand is known for its spiritual significance with famous pilgrim destinations like Haridwar and Rishikesh."
+    },
+    "image": {
+      "state_image": "./images/uttarakhand.png"
+    }
+  },
+  {
+    "state": "West Bengal",
+    "data": [
+      {
+        "year": 2000,
+        "population": "80.0M",
+        "hospitals": "600",
+        "schools": "50000",
+        "economy": "₹1,50,000 crore"
+      },
+      {
+        "year": 2001,
+        "population": "80.5M",
+        "hospitals": "610",
+        "schools": "50500",
+        "economy": "₹1,55,000 crore"
+      },
+      {
+        "year": 2002,
+        "population": "81.0M",
+        "hospitals": "620",
+        "schools": "51000",
+        "economy": "₹1,60,000 crore"
+      },
+      {
+        "year": 2003,
+        "population": "81.5M",
+        "hospitals": "630",
+        "schools": "51500",
+        "economy": "₹1,65,000 crore"
+      },
+      {
+        "year": 2004,
+        "population": "82.0M",
+        "hospitals": "640",
+        "schools": "52000",
+        "economy": "₹1,70,000 crore"
+      },
+      {
+        "year": 2005,
+        "population": "82.5M",
+        "hospitals": "650",
+        "schools": "52500",
+        "economy": "₹1,75,000 crore"
+      },
+      {
+        "year": 2006,
+        "population": "83.0M",
+        "hospitals": "660",
+        "schools": "53000",
+        "economy": "₹1,80,000 crore"
+      },
+      {
+        "year": 2007,
+        "population": "83.5M",
+        "hospitals": "670",
+        "schools": "53500",
+        "economy": "₹1,85,000 crore"
+      },
+      {
+        "year": 2008,
+        "population": "84.0M",
+        "hospitals": "680",
+        "schools": "54000",
+        "economy": "₹1,90,000 crore"
+      },
+      {
+        "year": 2009,
+        "population": "84.5M",
+        "hospitals": "690",
+        "schools": "54500",
+        "economy": "₹1,95,000 crore"
+      },
+      {
+        "year": 2010,
+        "population": "85.0M",
+        "hospitals": "700",
+        "schools": "55000",
+        "economy": "₹2,00,000 crore"
+      },
+      {
+        "year": 2011,
+        "population": "85.5M",
+        "hospitals": "710",
+        "schools": "55500",
+        "economy": "₹2,05,000 crore"
+      },
+      {
+        "year": 2012,
+        "population": "86.0M",
+        "hospitals": "720",
+        "schools": "56000",
+        "economy": "₹2,10,000 crore"
+      },
+      {
+        "year": 2013,
+        "population": "86.5M",
+        "hospitals": "730",
+        "schools": "56500",
+        "economy": "₹2,15,000 crore"
+      },
+      {
+        "year": 2014,
+        "population": "87.0M",
+        "hospitals": "740",
+        "schools": "57000",
+        "economy": "₹2,20,000 crore"
+      },
+      {
+        "year": 2015,
+        "population": "87.5M",
+        "hospitals": "750",
+        "schools": "57500",
+        "economy": "₹2,25,000 crore"
+      },
+      {
+        "year": 2016,
+        "population": "88.0M",
+        "hospitals": "760",
+        "schools": "58000",
+        "economy": "₹2,30,000 crore"
+      },
+      {
+        "year": 2017,
+        "population": "88.5M",
+        "hospitals": "770",
+        "schools": "58500",
+        "economy": "₹2,35,000 crore"
+      },
+      {
+        "year": 2018,
+        "population": "89.0M",
+        "hospitals": "780",
+        "schools": "59000",
+        "economy": "₹2,40,000 crore"
+      },
+      {
+        "year": 2019,
+        "population": "89.5M",
+        "hospitals": "790",
+        "schools": "59500",
+        "economy": "₹2,45,000 crore"
+      },
+      {
+        "year": 2020,
+        "population": "90.0M",
+        "hospitals": "800",
+        "schools": "60000",
+        "economy": "₹2,50,000 crore"
+      },
+      {
+        "year": 2021,
+        "population": "90.5M",
+        "hospitals": "810",
+        "schools": "60500",
+        "economy": "₹2,55,000 crore"
+      },
+      {
+        "year": 2022,
+        "population": "91.0M",
+        "hospitals": "820",
+        "schools": "61000",
+        "economy": "₹2,60,000 crore"
+      },
+      {
+        "year": 2023,
+        "population": "91.5M",
+        "hospitals": "830",
+        "schools": "61500",
+        "economy": "₹2,65,000 crore"
+      }
+    ],
+    "information": {
+      "famous_for": "West Bengal is famous for its rich cultural heritage, literature, arts, and historical landmarks.",
+      "nickname": "The City of Joy",
+      "additional_info": "It is also known for its contributions to Indian cinema, with Kolkata being the hub of Bengali cinema."
+    },
+    "image": {
+      "state_image": "./images/west bengal.png"
+    }
+  },
+  {
+    "state": "Andaman and Nicobar Islands",
+    "data": [
+      {
+        "year": 2000,
+        "population": "0.36M",
+        "hospitals": "20",
+        "schools": "250",
+        "economy": "₹2,500 crore"
+      },
+      {
+        "year": 2001,
+        "population": "0.37M",
+        "hospitals": "21",
+        "schools": "255",
+        "economy": "₹2,600 crore"
+      },
+      {
+        "year": 2002,
+        "population": "0.38M",
+        "hospitals": "22",
+        "schools": "260",
+        "economy": "₹2,700 crore"
+      },
+      {
+        "year": 2003,
+        "population": "0.39M",
+        "hospitals": "23",
+        "schools": "265",
+        "economy": "₹2,800 crore"
+      },
+      {
+        "year": 2004,
+        "population": "0.40M",
+        "hospitals": "24",
+        "schools": "270",
+        "economy": "₹2,900 crore"
+      },
+      {
+        "year": 2005,
+        "population": "0.41M",
+        "hospitals": "25",
+        "schools": "275",
+        "economy": "₹3,000 crore"
+      },
+      {
+        "year": 2006,
+        "population": "0.42M",
+        "hospitals": "26",
+        "schools": "280",
+        "economy": "₹3,100 crore"
+      },
+      {
+        "year": 2007,
+        "population": "0.43M",
+        "hospitals": "27",
+        "schools": "285",
+        "economy": "₹3,200 crore"
+      },
+      {
+        "year": 2008,
+        "population": "0.44M",
+        "hospitals": "28",
+        "schools": "290",
+        "economy": "₹3,300 crore"
+      },
+      {
+        "year": 2009,
+        "population": "0.45M",
+        "hospitals": "29",
+        "schools": "295",
+        "economy": "₹3,400 crore"
+      },
+      {
+        "year": 2010,
+        "population": "0.46M",
+        "hospitals": "30",
+        "schools": "300",
+        "economy": "₹3,500 crore"
+      },
+      {
+        "year": 2011,
+        "population": "0.47M",
+        "hospitals": "31",
+        "schools": "305",
+        "economy": "₹3,600 crore"
+      },
+      {
+        "year": 2012,
+        "population": "0.48M",
+        "hospitals": "32",
+        "schools": "310",
+        "economy": "₹3,700 crore"
+      },
+      {
+        "year": 2013,
+        "population": "0.49M",
+        "hospitals": "33",
+        "schools": "315",
+        "economy": "₹3,800 crore"
+      },
+      {
+        "year": 2014,
+        "population": "0.50M",
+        "hospitals": "34",
+        "schools": "320",
+        "economy": "₹3,900 crore"
+      },
+      {
+        "year": 2015,
+        "population": "0.51M",
+        "hospitals": "35",
+        "schools": "325",
+        "economy": "₹4,000 crore"
+      },
+      {
+        "year": 2016,
+        "population": "0.52M",
+        "hospitals": "36",
+        "schools": "330",
+        "economy": "₹4,100 crore"
+      },
+      {
+        "year": 2017,
+        "population": "0.53M",
+        "hospitals": "37",
+        "schools": "335",
+        "economy": "₹4,200 crore"
+      },
+      {
+        "year": 2018,
+        "population": "0.54M",
+        "hospitals": "38",
+        "schools": "340",
+        "economy": "₹4,300 crore"
+      },
+      {
+        "year": 2019,
+        "population": "0.55M",
+        "hospitals": "39",
+        "schools": "345",
+        "economy": "₹4,400 crore"
+      },
+      {
+        "year": 2020,
+        "population": "0.56M",
+        "hospitals": "40",
+        "schools": "350",
+        "economy": "₹4,500 crore"
+      },
+      {
+        "year": 2021,
+        "population": "0.57M",
+        "hospitals": "41",
+        "schools": "355",
+        "economy": "₹4,600 crore"
+      },
+      {
+        "year": 2022,
+        "population": "0.58M",
+        "hospitals": "42",
+        "schools": "360",
+        "economy": "₹4,700 crore"
+      },
+      {
+        "year": 2023,
+        "population": "0.59M",
+        "hospitals": "43",
+        "schools": "365",
+        "economy": "₹4,800 crore"
+      }
+    ],
+    "information": {
+      "famous_for": "Andaman and Nicobar Islands is famous for its beautiful beaches, tropical forests, and rich biodiversity.",
+      "nickname": "The Emerald Isles",
+      "additional_info": "It is a popular tourist destination and houses one of India's indigenous tribes, the Great Andamanese."
+    },
+    "image": {
+      "state_image": "./images/andaman and nicobar islands.png"
+    }
+  },
+  {
+    "state": "Chandigarh",
+    "data": [
+      {
+        "year": 2000,
+        "population": "0.9M",
+        "hospitals": "15",
+        "schools": "150",
+        "economy": "₹8,000 crore"
+      },
+      {
+        "year": 2001,
+        "population": "0.91M",
+        "hospitals": "16",
+        "schools": "155",
+        "economy": "₹8,200 crore"
+      },
+      {
+        "year": 2002,
+        "population": "0.92M",
+        "hospitals": "17",
+        "schools": "160",
+        "economy": "₹8,400 crore"
+      },
+      {
+        "year": 2003,
+        "population": "0.93M",
+        "hospitals": "18",
+        "schools": "165",
+        "economy": "₹8,600 crore"
+      },
+      {
+        "year": 2004,
+        "population": "0.94M",
+        "hospitals": "19",
+        "schools": "170",
+        "economy": "₹8,800 crore"
+      },
+      {
+        "year": 2005,
+        "population": "0.95M",
+        "hospitals": "20",
+        "schools": "175",
+        "economy": "₹9,000 crore"
+      },
+      {
+        "year": 2006,
+        "population": "0.96M",
+        "hospitals": "21",
+        "schools": "180",
+        "economy": "₹9,200 crore"
+      },
+      {
+        "year": 2007,
+        "population": "0.97M",
+        "hospitals": "22",
+        "schools": "185",
+        "economy": "₹9,400 crore"
+      },
+      {
+        "year": 2008,
+        "population": "0.98M",
+        "hospitals": "23",
+        "schools": "190",
+        "economy": "₹9,600 crore"
+      },
+      {
+        "year": 2009,
+        "population": "0.99M",
+        "hospitals": "24",
+        "schools": "195",
+        "economy": "₹9,800 crore"
+      },
+      {
+        "year": 2010,
+        "population": "1.0M",
+        "hospitals": "25",
+        "schools": "200",
+        "economy": "₹10,000 crore"
+      },
+      {
+        "year": 2011,
+        "population": "1.01M",
+        "hospitals": "26",
+        "schools": "205",
+        "economy": "₹10,200 crore"
+      },
+      {
+        "year": 2012,
+        "population": "1.02M",
+        "hospitals": "27",
+        "schools": "210",
+        "economy": "₹10,400 crore"
+      },
+      {
+        "year": 2013,
+        "population": "1.03M",
+        "hospitals": "28",
+        "schools": "215",
+        "economy": "₹10,600 crore"
+      },
+      {
+        "year": 2014,
+        "population": "1.04M",
+        "hospitals": "29",
+        "schools": "220",
+        "economy": "₹10,800 crore"
+      },
+      {
+        "year": 2015,
+        "population": "1.05M",
+        "hospitals": "30",
+        "schools": "225",
+        "economy": "₹11,000 crore"
+      },
+      {
+        "year": 2016,
+        "population": "1.06M",
+        "hospitals": "31",
+        "schools": "230",
+        "economy": "₹11,200 crore"
+      },
+      {
+        "year": 2017,
+        "population": "1.07M",
+        "hospitals": "32",
+        "schools": "235",
+        "economy": "₹11,400 crore"
+      },
+      {
+        "year": 2018,
+        "population": "1.08M",
+        "hospitals": "33",
+        "schools": "240",
+        "economy": "₹11,600 crore"
+      },
+      {
+        "year": 2019,
+        "population": "1.09M",
+        "hospitals": "34",
+        "schools": "245",
+        "economy": "₹11,800 crore"
+      },
+      {
+        "year": 2020,
+        "population": "1.10M",
+        "hospitals": "35",
+        "schools": "250",
+        "economy": "₹12,000 crore"
+      },
+      {
+        "year": 2021,
+        "population": "1.11M",
+        "hospitals": "36",
+        "schools": "255",
+        "economy": "₹12,200 crore"
+      },
+      {
+        "year": 2022,
+        "population": "1.12M",
+        "hospitals": "37",
+        "schools": "260",
+        "economy": "₹12,400 crore"
+      },
+      {
+        "year": 2023,
+        "population": "1.13M",
+        "hospitals": "38",
+        "schools": "265",
+        "economy": "₹12,600 crore"
+      }
+    ],
+    "information": {
+      "famous_for": "Chandigarh is known for its modern architecture, the Rock Garden, and as the capital of both Punjab and Haryana.",
+      "nickname": "The City Beautiful",
+      "additional_info": "It is one of the cleanest and most well-planned cities in India, with a mix of modern and traditional elements."
+    },
+    "image": {
+      "state_image": "./images/chandigarh.png"
+    }
+  },
+  {
+    "state": "Dadra and Nagar Haveli",
+    "data": [
+      {
+        "year": 2000,
+        "population": "0.3M",
+        "hospitals": "10",
+        "schools": "100",
+        "economy": "₹2,000 crore"
+      },
+      {
+        "year": 2001,
+        "population": "0.31M",
+        "hospitals": "11",
+        "schools": "105",
+        "economy": "₹2,100 crore"
+      },
+      {
+        "year": 2002,
+        "population": "0.32M",
+        "hospitals": "12",
+        "schools": "110",
+        "economy": "₹2,200 crore"
+      },
+      {
+        "year": 2003,
+        "population": "0.33M",
+        "hospitals": "13",
+        "schools": "115",
+        "economy": "₹2,300 crore"
+      },
+      {
+        "year": 2004,
+        "population": "0.34M",
+        "hospitals": "14",
+        "schools": "120",
+        "economy": "₹2,400 crore"
+      },
+      {
+        "year": 2005,
+        "population": "0.35M",
+        "hospitals": "15",
+        "schools": "125",
+        "economy": "₹2,500 crore"
+      },
+      {
+        "year": 2006,
+        "population": "0.36M",
+        "hospitals": "16",
+        "schools": "130",
+        "economy": "₹2,600 crore"
+      },
+      {
+        "year": 2007,
+        "population": "0.37M",
+        "hospitals": "17",
+        "schools": "135",
+        "economy": "₹2,700 crore"
+      },
+      {
+        "year": 2008,
+        "population": "0.38M",
+        "hospitals": "18",
+        "schools": "140",
+        "economy": "₹2,800 crore"
+      },
+      {
+        "year": 2009,
+        "population": "0.39M",
+        "hospitals": "19",
+        "schools": "145",
+        "economy": "₹2,900 crore"
+      },
+      {
+        "year": 2010,
+        "population": "0.4M",
+        "hospitals": "20",
+        "schools": "150",
+        "economy": "₹3,000 crore"
+      },
+      {
+        "year": 2011,
+        "population": "0.41M",
+        "hospitals": "21",
+        "schools": "155",
+        "economy": "₹3,100 crore"
+      },
+      {
+        "year": 2012,
+        "population": "0.42M",
+        "hospitals": "22",
+        "schools": "160",
+        "economy": "₹3,200 crore"
+      },
+      {
+        "year": 2013,
+        "population": "0.43M",
+        "hospitals": "23",
+        "schools": "165",
+        "economy": "₹3,300 crore"
+      },
+      {
+        "year": 2014,
+        "population": "0.44M",
+        "hospitals": "24",
+        "schools": "170",
+        "economy": "₹3,400 crore"
+      },
+      {
+        "year": 2015,
+        "population": "0.45M",
+        "hospitals": "25",
+        "schools": "175",
+        "economy": "₹3,500 crore"
+      },
+      {
+        "year": 2016,
+        "population": "0.46M",
+        "hospitals": "26",
+        "schools": "180",
+        "economy": "₹3,600 crore"
+      },
+      {
+        "year": 2017,
+        "population": "0.47M",
+        "hospitals": "27",
+        "schools": "185",
+        "economy": "₹3,700 crore"
+      },
+      {
+        "year": 2018,
+        "population": "0.48M",
+        "hospitals": "28",
+        "schools": "190",
+        "economy": "₹3,800 crore"
+      },
+      {
+        "year": 2019,
+        "population": "0.49M",
+        "hospitals": "29",
+        "schools": "195",
+        "economy": "₹3,900 crore"
+      },
+      {
+        "year": 2020,
+        "population": "0.5M",
+        "hospitals": "30",
+        "schools": "200",
+        "economy": "₹4,000 crore"
+      },
+      {
+        "year": 2021,
+        "population": "0.51M",
+        "hospitals": "31",
+        "schools": "205",
+        "economy": "₹4,100 crore"
+      },
+      {
+        "year": 2022,
+        "population": "0.52M",
+        "hospitals": "32",
+        "schools": "210",
+        "economy": "₹4,200 crore"
+      },
+      {
+        "year": 2023,
+        "population": "0.53M",
+        "hospitals": "33",
+        "schools": "215",
+        "economy": "₹4,300 crore"
+      }
+    ],
+    "information": {
+      "famous_for": "Dadra and Nagar Haveli is known for its scenic beauty, rich cultural heritage, and lush greenery.",
+      "nickname": "A Land of Serenity",
+      "additional_info": "It is located on the western coast of India, known for its tranquil environment and unique blend of tribal and modern cultures."
+    },
+    "image": {
+      "state_image": "./images/Dadra and nagra haveli & Daman and diu.png"
+    }
+  },
+  {
+    "state": "Daman and Diu",
+    "data": [
+      {
+        "year": 2000,
+        "population": "0.2M",
+        "hospitals": "10",
+        "schools": "80",
+        "economy": "₹1,800 crore"
+      },
+      {
+        "year": 2001,
+        "population": "0.21M",
+        "hospitals": "11",
+        "schools": "85",
+        "economy": "₹1,900 crore"
+      },
+      {
+        "year": 2002,
+        "population": "0.22M",
+        "hospitals": "12",
+        "schools": "90",
+        "economy": "₹2,000 crore"
+      },
+      {
+        "year": 2003,
+        "population": "0.23M",
+        "hospitals": "13",
+        "schools": "95",
+        "economy": "₹2,100 crore"
+      },
+      {
+        "year": 2004,
+        "population": "0.24M",
+        "hospitals": "14",
+        "schools": "100",
+        "economy": "₹2,200 crore"
+      },
+      {
+        "year": 2005,
+        "population": "0.25M",
+        "hospitals": "15",
+        "schools": "105",
+        "economy": "₹2,300 crore"
+      },
+      {
+        "year": 2006,
+        "population": "0.26M",
+        "hospitals": "16",
+        "schools": "110",
+        "economy": "₹2,400 crore"
+      },
+      {
+        "year": 2007,
+        "population": "0.27M",
+        "hospitals": "17",
+        "schools": "115",
+        "economy": "₹2,500 crore"
+      },
+      {
+        "year": 2008,
+        "population": "0.28M",
+        "hospitals": "18",
+        "schools": "120",
+        "economy": "₹2,600 crore"
+      },
+      {
+        "year": 2009,
+        "population": "0.29M",
+        "hospitals": "19",
+        "schools": "125",
+        "economy": "₹2,700 crore"
+      },
+      {
+        "year": 2010,
+        "population": "0.3M",
+        "hospitals": "20",
+        "schools": "130",
+        "economy": "₹2,800 crore"
+      },
+      {
+        "year": 2011,
+        "population": "0.31M",
+        "hospitals": "21",
+        "schools": "135",
+        "economy": "₹2,900 crore"
+      },
+      {
+        "year": 2012,
+        "population": "0.32M",
+        "hospitals": "22",
+        "schools": "140",
+        "economy": "₹3,000 crore"
+      },
+      {
+        "year": 2013,
+        "population": "0.33M",
+        "hospitals": "23",
+        "schools": "145",
+        "economy": "₹3,100 crore"
+      },
+      {
+        "year": 2014,
+        "population": "0.34M",
+        "hospitals": "24",
+        "schools": "150",
+        "economy": "₹3,200 crore"
+      },
+      {
+        "year": 2015,
+        "population": "0.35M",
+        "hospitals": "25",
+        "schools": "155",
+        "economy": "₹3,300 crore"
+      },
+      {
+        "year": 2016,
+        "population": "0.36M",
+        "hospitals": "26",
+        "schools": "160",
+        "economy": "₹3,400 crore"
+      },
+      {
+        "year": 2017,
+        "population": "0.37M",
+        "hospitals": "27",
+        "schools": "165",
+        "economy": "₹3,500 crore"
+      },
+      {
+        "year": 2018,
+        "population": "0.38M",
+        "hospitals": "28",
+        "schools": "170",
+        "economy": "₹3,600 crore"
+      },
+      {
+        "year": 2019,
+        "population": "0.39M",
+        "hospitals": "29",
+        "schools": "175",
+        "economy": "₹3,700 crore"
+      },
+      {
+        "year": 2020,
+        "population": "0.4M",
+        "hospitals": "30",
+        "schools": "180",
+        "economy": "₹3,800 crore"
+      },
+      {
+        "year": 2021,
+        "population": "0.41M",
+        "hospitals": "31",
+        "schools": "185",
+        "economy": "₹3,900 crore"
+      },
+      {
+        "year": 2022,
+        "population": "0.42M",
+        "hospitals": "32",
+        "schools": "190",
+        "economy": "₹4,000 crore"
+      },
+      {
+        "year": 2023,
+        "population": "0.43M",
+        "hospitals": "33",
+        "schools": "195",
+        "economy": "₹4,100 crore"
+      }
+    ],
+    "information": {
+      "famous_for": "Daman and Diu is known for its beautiful beaches, historic Portuguese forts, and colonial architecture.",
+      "nickname": "The Coastal Gem",
+      "additional_info": "It is a union territory of India located on the western coast, known for its serene environment and vibrant culture."
+    },
+    "image": {
+      "state_image": "./images/Dadra and nagra haveli & Daman and diu.png"
+    }
+  },      
+  {
+    "state": "Delhi",
+    "data": [
+      {
+        "year": 2000,
+        "population": "13.8M",
+        "hospitals": "150",
+        "schools": "8000",
+        "economy": "₹2,60,000 crore"
+      },
+      {
+        "year": 2001,
+        "population": "14.0M",
+        "hospitals": "152",
+        "schools": "8100",
+        "economy": "₹2,70,000 crore"
+      },
+      {
+        "year": 2002,
+        "population": "14.2M",
+        "hospitals": "155",
+        "schools": "8200",
+        "economy": "₹2,80,000 crore"
+      },
+      {
+        "year": 2003,
+        "population": "14.5M",
+        "hospitals": "158",
+        "schools": "8300",
+        "economy": "₹2,90,000 crore"
+      },
+      {
+        "year": 2004,
+        "population": "14.7M",
+        "hospitals": "160",
+        "schools": "8400",
+        "economy": "₹3,00,000 crore"
+      },
+      {
+        "year": 2005,
+        "population": "15.0M",
+        "hospitals": "162",
+        "schools": "8500",
+        "economy": "₹3,10,000 crore"
+      },
+      {
+        "year": 2006,
+        "population": "15.3M",
+        "hospitals": "165",
+        "schools": "8600",
+        "economy": "₹3,20,000 crore"
+      },
+      {
+        "year": 2007,
+        "population": "15.6M",
+        "hospitals": "167",
+        "schools": "8700",
+        "economy": "₹3,30,000 crore"
+      },
+      {
+        "year": 2008,
+        "population": "15.9M",
+        "hospitals": "170",
+        "schools": "8800",
+        "economy": "₹3,40,000 crore"
+      },
+      {
+        "year": 2009,
+        "population": "16.2M",
+        "hospitals": "172",
+        "schools": "8900",
+        "economy": "₹3,50,000 crore"
+      },
+      {
+        "year": 2010,
+        "population": "16.5M",
+        "hospitals": "175",
+        "schools": "9000",
+        "economy": "₹3,60,000 crore"
+      },
+      {
+        "year": 2011,
+        "population": "16.7M",
+        "hospitals": "178",
+        "schools": "9100",
+        "economy": "₹3,80,000 crore"
+      },
+      {
+        "year": 2012,
+        "population": "17.0M",
+        "hospitals": "180",
+        "schools": "9200",
+        "economy": "₹4,00,000 crore"
+      },
+      {
+        "year": 2013,
+        "population": "17.3M",
+        "hospitals": "182",
+        "schools": "9300",
+        "economy": "₹4,20,000 crore"
+      },
+      {
+        "year": 2014,
+        "population": "17.6M",
+        "hospitals": "185",
+        "schools": "9400",
+        "economy": "₹4,50,000 crore"
+      },
+      {
+        "year": 2015,
+        "population": "17.9M",
+        "hospitals": "188",
+        "schools": "9500",
+        "economy": "₹4,70,000 crore"
+      },
+      {
+        "year": 2016,
+        "population": "18.2M",
+        "hospitals": "190",
+        "schools": "9600",
+        "economy": "₹5,00,000 crore"
+      },
+      {
+        "year": 2017,
+        "population": "18.5M",
+        "hospitals": "192",
+        "schools": "9700",
+        "economy": "₹5,30,000 crore"
+      },
+      {
+        "year": 2018,
+        "population": "18.8M",
+        "hospitals": "195",
+        "schools": "9800",
+        "economy": "₹5,60,000 crore"
+      },
+      {
+        "year": 2019,
+        "population": "19.1M",
+        "hospitals": "198",
+        "schools": "9900",
+        "economy": "₹5,90,000 crore"
+      },
+      {
+        "year": 2020,
+        "population": "19.5M",
+        "hospitals": "200",
+        "schools": "10000",
+        "economy": "₹6,00,000 crore"
+      },
+      {
+        "year": 2021,
+        "population": "19.8M",
+        "hospitals": "205",
+        "schools": "10100",
+        "economy": "₹6,20,000 crore"
+      },
+      {
+        "year": 2022,
+        "population": "20.1M",
+        "hospitals": "210",
+        "schools": "10200",
+        "economy": "₹6,40,000 crore"
+      },
+      {
+        "year": 2023,
+        "population": "20.5M",
+        "hospitals": "215",
+        "schools": "10300",
+        "economy": "₹6,60,000 crore"
+      }
+    ],
+    "information": {
+      "famous_for": "Delhi is known for its rich history, bustling markets, and as the capital of India. It is a hub for culture, politics, and education.",
+      "nickname": "The Heart of India",
+      "additional_info": "Delhi is a metropolitan region that serves as the seat of the government of India, with a mix of ancient and modern architecture, and an ever-growing economy."
+    },
+    "image": {
+      "state_image": "./images/Delhi.png"
+    }
+  },
+  {
+    "state": "Lakshadweep",
+    "data": [
+      {
+        "year": 2000,
+        "population": "60,000",
+        "hospitals": "3",
+        "schools": "150",
+        "economy": "₹400 crore"
+      },
+      {
+        "year": 2001,
+        "population": "60,500",
+        "hospitals": "3",
+        "schools": "152",
+        "economy": "₹420 crore"
+      },
+      {
+        "year": 2002,
+        "population": "61,000",
+        "hospitals": "3",
+        "schools": "155",
+        "economy": "₹440 crore"
+      },
+      {
+        "year": 2003,
+        "population": "61,500",
+        "hospitals": "3",
+        "schools": "157",
+        "economy": "₹460 crore"
+      },
+      {
+        "year": 2004,
+        "population": "62,000",
+        "hospitals": "3",
+        "schools": "160",
+        "economy": "₹480 crore"
+      },
+      {
+        "year": 2005,
+        "population": "62,500",
+        "hospitals": "3",
+        "schools": "162",
+        "economy": "₹500 crore"
+      },
+      {
+        "year": 2006,
+        "population": "63,000",
+        "hospitals": "3",
+        "schools": "165",
+        "economy": "₹520 crore"
+      },
+      {
+        "year": 2007,
+        "population": "63,500",
+        "hospitals": "3",
+        "schools": "167",
+        "economy": "₹540 crore"
+      },
+      {
+        "year": 2008,
+        "population": "64,000",
+        "hospitals": "3",
+        "schools": "170",
+        "economy": "₹560 crore"
+      },
+      {
+        "year": 2009,
+        "population": "64,500",
+        "hospitals": "3",
+        "schools": "172",
+        "economy": "₹580 crore"
+      },
+      {
+        "year": 2010,
+        "population": "65,000",
+        "hospitals": "3",
+        "schools": "175",
+        "economy": "₹600 crore"
+      },
+      {
+        "year": 2011,
+        "population": "65,500",
+        "hospitals": "3",
+        "schools": "177",
+        "economy": "₹620 crore"
+      },
+      {
+        "year": 2012,
+        "population": "66,000",
+        "hospitals": "3",
+        "schools": "180",
+        "economy": "₹640 crore"
+      },
+      {
+        "year": 2013,
+        "population": "66,500",
+        "hospitals": "3",
+        "schools": "182",
+        "economy": "₹660 crore"
+      },
+      {
+        "year": 2014,
+        "population": "67,000",
+        "hospitals": "3",
+        "schools": "185",
+        "economy": "₹680 crore"
+      },
+      {
+        "year": 2015,
+        "population": "67,500",
+        "hospitals": "3",
+        "schools": "187",
+        "economy": "₹700 crore"
+      },
+      {
+        "year": 2016,
+        "population": "68,000",
+        "hospitals": "3",
+        "schools": "190",
+        "economy": "₹720 crore"
+      },
+      {
+        "year": 2017,
+        "population": "68,500",
+        "hospitals": "3",
+        "schools": "192",
+        "economy": "₹740 crore"
+      },
+      {
+        "year": 2018,
+        "population": "69,000",
+        "hospitals": "3",
+        "schools": "195",
+        "economy": "₹760 crore"
+      },
+      {
+        "year": 2019,
+        "population": "69,500",
+        "hospitals": "3",
+        "schools": "197",
+        "economy": "₹780 crore"
+      },
+      {
+        "year": 2020,
+        "population": "70,000",
+        "hospitals": "3",
+        "schools": "200",
+        "economy": "₹800 crore"
+      },
+      {
+        "year": 2021,
+        "population": "70,500",
+        "hospitals": "3",
+        "schools": "202",
+        "economy": "₹820 crore"
+      },
+      {
+        "year": 2022,
+        "population": "71,000",
+        "hospitals": "3",
+        "schools": "205",
+        "economy": "₹840 crore"
+      },
+      {
+        "year": 2023,
+        "population": "71,500",
+        "hospitals": "3",
+        "schools": "207",
+        "economy": "₹860 crore"
+      }
+    ],
+    "information": {
+      "famous_for": "Lakshadweep is famous for its beautiful coral islands, pristine beaches, and marine life, offering unique opportunities for tourism and water sports.",
+      "nickname": "The Coral Paradise",
+      "additional_info": "Lakshadweep is a group of islands located off the southwestern coast of India. The islands are known for their stunning beaches, vibrant marine life, and the simplicity of life on the islands."
+    },
+    "image": {
+      "state_image": "./images/lakshadweep.png"
+    }
+  },
+  {
+    "state": "Puducherry",
+    "data": [
+      {
+        "year": 2000,
+        "population": "1.1M",
+        "hospitals": "20",
+        "schools": "300",
+        "economy": "₹15,000 crore"
+      },
+      {
+        "year": 2001,
+        "population": "1.12M",
+        "hospitals": "20",
+        "schools": "305",
+        "economy": "₹15,500 crore"
+      },
+      {
+        "year": 2002,
+        "population": "1.13M",
+        "hospitals": "20",
+        "schools": "310",
+        "economy": "₹16,000 crore"
+      },
+      {
+        "year": 2003,
+        "population": "1.14M",
+        "hospitals": "20",
+        "schools": "315",
+        "economy": "₹16,500 crore"
+      },
+      {
+        "year": 2004,
+        "population": "1.15M",
+        "hospitals": "20",
+        "schools": "320",
+        "economy": "₹17,000 crore"
+      },
+      {
+        "year": 2005,
+        "population": "1.16M",
+        "hospitals": "20",
+        "schools": "325",
+        "economy": "₹17,500 crore"
+      },
+      {
+        "year": 2006,
+        "population": "1.17M",
+        "hospitals": "20",
+        "schools": "330",
+        "economy": "₹18,000 crore"
+      },
+      {
+        "year": 2007,
+        "population": "1.18M",
+        "hospitals": "20",
+        "schools": "335",
+        "economy": "₹18,500 crore"
+      },
+      {
+        "year": 2008,
+        "population": "1.19M",
+        "hospitals": "20",
+        "schools": "340",
+        "economy": "₹19,000 crore"
+      },
+      {
+        "year": 2009,
+        "population": "1.2M",
+        "hospitals": "20",
+        "schools": "345",
+        "economy": "₹19,500 crore"
+      },
+      {
+        "year": 2010,
+        "population": "1.21M",
+        "hospitals": "20",
+        "schools": "350",
+        "economy": "₹20,000 crore"
+      },
+      {
+        "year": 2011,
+        "population": "1.22M",
+        "hospitals": "20",
+        "schools": "355",
+        "economy": "₹20,500 crore"
+      },
+      {
+        "year": 2012,
+        "population": "1.23M",
+        "hospitals": "20",
+        "schools": "360",
+        "economy": "₹21,000 crore"
+      },
+      {
+        "year": 2013,
+        "population": "1.24M",
+        "hospitals": "20",
+        "schools": "365",
+        "economy": "₹21,500 crore"
+      },
+      {
+        "year": 2014,
+        "population": "1.25M",
+        "hospitals": "20",
+        "schools": "370",
+        "economy": "₹22,000 crore"
+      },
+      {
+        "year": 2015,
+        "population": "1.26M",
+        "hospitals": "20",
+        "schools": "375",
+        "economy": "₹22,500 crore"
+      },
+      {
+        "year": 2016,
+        "population": "1.27M",
+        "hospitals": "20",
+        "schools": "380",
+        "economy": "₹23,000 crore"
+      },
+      {
+        "year": 2017,
+        "population": "1.28M",
+        "hospitals": "20",
+        "schools": "385",
+        "economy": "₹23,500 crore"
+      },
+      {
+        "year": 2018,
+        "population": "1.29M",
+        "hospitals": "20",
+        "schools": "390",
+        "economy": "₹24,000 crore"
+      },
+      {
+        "year": 2019,
+        "population": "1.3M",
+        "hospitals": "20",
+        "schools": "395",
+        "economy": "₹24,500 crore"
+      },
+      {
+        "year": 2020,
+        "population": "1.31M",
+        "hospitals": "20",
+        "schools": "400",
+        "economy": "₹25,000 crore"
+      },
+      {
+        "year": 2021,
+        "population": "1.32M",
+        "hospitals": "20",
+        "schools": "405",
+        "economy": "₹25,500 crore"
+      },
+      {
+        "year": 2022,
+        "population": "1.33M",
+        "hospitals": "20",
+        "schools": "410",
+        "economy": "₹26,000 crore"
+      },
+      {
+        "year": 2023,
+        "population": "1.34M",
+        "hospitals": "20",
+        "schools": "415",
+        "economy": "₹26,500 crore"
+      }
+    ],
+    "information": {
+      "famous_for": "Puducherry is known for its French colonial heritage, pristine beaches, spiritual centers, and vibrant culture.",
+      "nickname": "The French Riviera of the East",
+      "additional_info": "Puducherry, formerly known as Pondicherry, is a Union Territory in India, known for its unique blend of Indian and French culture, its picturesque seafront, and numerous spiritual retreats."
+    },
+    "image": {
+      "state_image": "./images/puducherry.png"
+    }
+  }  
+]
